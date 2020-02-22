@@ -1,0 +1,3413 @@
+"et.Val","ee.Taxon","N"
+"Homozygous negative","mouse",1289
+"Overexpression","mouse",515
+"Knockdown","human",340
+"Overexpression","human",193
+"Heterozygous","mouse",187
+"Knockdown","mouse",175
+"wild type genotype","mouse",142
+"mutation","mouse",61
+"Trp53 [mouse] transformation related protein 53","mouse",59
+"mutation","human",50
+"APP [human] amyloid beta (A4) precursor protein","mouse",39
+"Myc [mouse] myelocytomatosis oncogene","mouse",39
+"Homozygous negative","human",37
+"Mecp2 [mouse] methyl CpG binding protein 2","mouse",34
+"RUNX1 [human] runt-related transcription factor 1","human",30
+"TP53 [human] tumor protein p53","human",29
+"Dominant negative mutation","mouse",25
+"Constitutive active mutation","mouse",24
+"Htt [mouse] huntingtin","mouse",24
+"Pten [mouse] phosphatase and tensin homolog","mouse",24
+"Kras [mouse] v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog","mouse",23
+"Runx1 [mouse] runt related transcription factor 1","mouse",22
+"Overexpression","rat",22
+"HTT [human] huntingtin","mouse",20
+"Pou5f1 [mouse] POU domain, class 5, transcription factor 1","mouse",20
+"Fusion Protein Expression","mouse",19
+"Rb1 [mouse] retinoblastoma 1","mouse",18
+"Immunodepletion","mouse",18
+"Ezh2 [mouse] enhancer of zeste homolog 2 (Drosophila)","mouse",18
+"PSEN1 [human] presenilin 1","mouse",18
+"Klf4 [mouse] Kruppel-like factor 4 (gut)","mouse",17
+"Sox2 [mouse] SRY-box containing gene 2","mouse",17
+"Ifnar1 [mouse] interferon (alpha and beta) receptor 1","mouse",17
+"SOD1 [human] superoxide dismutase 1, soluble","mouse",16
+"Apoe [mouse] apolipoprotein E","mouse",16
+"Ppara [mouse] peroxisome proliferator activated receptor alpha","mouse",16
+"MYC [human] v-myc avian myelocytomatosis viral oncogene homolog","human",16
+"Dominant negative mutation","human",16
+"Pax6 [mouse] paired box gene 6","mouse",16
+"BRCA1 [human] breast cancer 1, early onset","human",15
+"Pparg [mouse] peroxisome proliferator activated receptor gamma","mouse",15
+"ESR1 [human] estrogen receptor 1","human",14
+"MYCN [human] v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian)","human",14
+"Knockdown","rat",14
+"ERG [human] v-ets avian erythroblastosis virus E26 oncogene homolog","human",13
+"Meis1 [mouse] Meis homeobox 1","mouse",13
+"Fusion Protein Expression","human",13
+"Mef2c [mouse] myocyte enhancer factor 2C","mouse",13
+"wild type genotype","human",13
+"Esr1 [mouse] estrogen receptor 1 (alpha)","mouse",12
+"Dicer1 [mouse] dicer 1, ribonuclease type III","mouse",12
+"Ascl1 [mouse] achaete-scute complex homolog 1 (Drosophila)","mouse",12
+"TERT [human] telomerase reverse transcriptase","human",11
+"Rag1 [mouse] recombination activating gene 1","mouse",11
+"Crebbp [mouse] CREB binding protein","mouse",11
+"Ctnnb1 [mouse] catenin (cadherin associated protein), beta 1","mouse",11
+"Sirt1 [mouse] sirtuin 1","mouse",11
+"STAT3 [human] signal transducer and activator of transcription 3 (acute-phase response factor)","human",11
+"Fmr1 [mouse] fragile X mental retardation syndrome 1 homolog","mouse",11
+"GATA3 [human] GATA binding protein 3","human",11
+"Dnmt3a [mouse] DNA methyltransferase 3A","mouse",11
+"Ptch1 [mouse] patched homolog 1","mouse",10
+"BRCA2 [human] breast cancer 2, early onset","human",10
+"MLL [human] myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila)","human",10
+"Ppargc1a [mouse] peroxisome proliferative activated receptor, gamma, coactivator 1 alpha","mouse",10
+"CEBPA [human] CCAAT/enhancer binding protein (C/EBP), alpha","human",10
+"Cdkn2a [mouse] cyclin-dependent kinase inhibitor 2A","mouse",10
+"ETV6 [human] ets variant 6","human",10
+"Foxp3 [mouse] forkhead box P3","mouse",10
+"Hoxa9 [mouse] homeobox A9","mouse",10
+"Dnmt1 [mouse] DNA methyltransferase (cytosine-5) 1","mouse",10
+"Sod1 [mouse] superoxide dismutase 1, soluble","mouse",10
+"MAPT [human] microtubule-associated protein tau","mouse",10
+"Stat3 [mouse] signal transducer and activator of transcription 3","mouse",10
+"Mutant drosophila","fly",10
+"Heterozygous","human",9
+"Creb1 [mouse] cAMP responsive element binding protein 1","mouse",9
+"Nfe2l2 [mouse] nuclear factor, erythroid derived 2, like 2","mouse",9
+"Hras1 [mouse] Harvey rat sarcoma virus oncogene 1","mouse",9
+"EZH2 [human] enhancer of zeste 2 polycomb repressive complex 2 subunit","human",9
+"CTNNB1 [human] catenin (cadherin-associated protein), beta 1, 88kDa","human",9
+"STAT1 [human] signal transducer and activator of transcription 1","human",9
+"Srf [mouse] serum response factor","mouse",9
+"HIF1A [human] hypoxia inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)","human",9
+"Kmt2a [mouse] lysine (K)-specific methyltransferase 2A","mouse",9
+"EGFR [human] epidermal growth factor receptor","human",9
+"Myd88 [mouse] myeloid differentiation primary response gene 88","mouse",9
+"Apc [mouse] adenomatosis polyposis coli","mouse",9
+"Smarca4 [mouse] SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4","mouse",9
+"Prdm1 [mouse] PR domain containing 1, with ZNF domain","mouse",9
+"Stat1 [mouse] signal transducer and activator of transcription 1","mouse",9
+"Fus [mouse] fused in sarcoma","mouse",9
+"Eed [mouse] embryonic ectoderm development","mouse",9
+"Eomes [mouse] eomesodermin","mouse",9
+"Trem2 [mouse] triggering receptor expressed on myeloid cells 2","mouse",9
+"Dmd [mouse] dystrophin, muscular dystrophy","mouse",8
+"Pik3ca [mouse] phosphatidylinositol 3-kinase, catalytic, alpha polypeptide","mouse",8
+"ABL1 [human] ABL proto-oncogene 1, non-receptor tyrosine kinase","human",8
+"PBX1 [human] pre-B-cell leukemia homeobox 1","human",8
+"TCF3 [human] transcription factor 3","human",8
+"HRAS [human] v-Ha-ras Harvey rat sarcoma viral oncogene homolog","human",8
+"Lep [mouse] leptin","mouse",8
+"NRAS [human] neuroblastoma RAS viral (v-ras) oncogene homolog","human",8
+"Arntl [mouse] aryl hydrocarbon receptor nuclear translocator-like","mouse",8
+"Cebpa [mouse] CCAAT/enhancer binding protein (C/EBP), alpha","mouse",8
+"Esrrb [mouse] estrogen related receptor, beta","mouse",8
+"MYB [human] v-myb myeloblastosis viral oncogene homolog (avian)","human",8
+"NFKB1 [human] nuclear factor of kappa light polypeptide gene enhancer in B-cells 1","human",8
+"RELA [human] v-rel avian reticuloendotheliosis viral oncogene homolog A","human",8
+"Dnmt3b [mouse] DNA methyltransferase 3B","mouse",8
+"Hes1 [mouse] hes family bHLH transcription factor 1","mouse",8
+"trisomy","mouse",7
+"AR [human] androgen receptor","human",7
+"Nrl [mouse] neural retina leucine zipper gene","mouse",7
+"App [mouse] amyloid beta (A4) precursor protein","mouse",7
+"Il10 [mouse] interleukin 10","mouse",7
+"Drd1a [mouse] dopamine receptor D1A","mouse",7
+"Drd2 [mouse] dopamine receptor D2","mouse",7
+"Bmi1 [mouse] Bmi1 polycomb ring finger oncogene","mouse",7
+"Clock [mouse] circadian locomoter output cycles kaput","mouse",7
+"Gata4 [mouse] GATA binding protein 4","mouse",7
+"Rag2 [mouse] recombination activating gene 2","mouse",7
+"BRAF [human] v-raf murine sarcoma viral oncogene homolog B","human",7
+"Notch1 [mouse] Notch gene homolog 1 (Drosophila)","mouse",7
+"ERBB2 [human] v-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)","human",7
+"TAL1 [human] T-cell acute lymphocytic leukemia 1","human",7
+"LRRK2 [human] leucine-rich repeat kinase 2","human",7
+"Hdac2 [mouse] histone deacetylase 2","mouse",7
+"Neurod1 [mouse] neurogenic differentiation 1","mouse",7
+"Lhx2 [mouse] LIM homeobox protein 2","mouse",7
+"MECP2 [human] methyl CpG binding protein 2 (Rett syndrome)","human",6
+"Nr4a2 [mouse] nuclear receptor subfamily 4, group A, member 2","mouse",6
+"Mycn [mouse] v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian)","mouse",6
+"Nanog [mouse] Nanog homeobox","mouse",6
+"Foxo3 [mouse] forkhead box O3","mouse",6
+"TP63 [human] tumor protein p63","human",6
+"Ifng [mouse] interferon gamma","mouse",6
+"Single-copy overexpression","mouse",6
+"Aire [mouse] autoimmune regulator (autoimmune polyendocrinopathy candidiasis ectodermal dystrophy)","mouse",6
+"NOTCH1 [human] notch 1","human",6
+"Cebpb [mouse] CCAAT/enhancer binding protein (C/EBP), beta","mouse",6
+"SNCA [human] synuclein, alpha (non A4 component of amyloid precursor)","mouse",6
+"NR3C1 [human] nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)","human",6
+"HES1 [human] hairy and enhancer of split 1, (Drosophila)","human",6
+"deletion","yeast",6
+"Tcf3 [mouse] transcription factor 3","mouse",6
+"MLL [human] myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila)","mouse",6
+"Neurog3 [mouse] neurogenin 3","mouse",6
+"Kit [mouse] kit oncogene","mouse",6
+"Brca1 [mouse] breast cancer 1","mouse",6
+"Green fluorescent protein","mouse",6
+"STAT6 [human] signal transducer and activator of transcription 6, interleukin-4 induced","human",6
+"reference subject role","human",6
+"EPAS1 [human] endothelial PAS domain protein 1","human",6
+"Rnf2 [mouse] ring finger protein 2","mouse",6
+"Suz12 [mouse] suppressor of zeste 12 homolog (Drosophila)","mouse",6
+"RB1 [human] retinoblastoma 1","human",6
+"ESRRA [human] estrogen-related receptor alpha","human",6
+"Sall4 [mouse] sal-like 4 (Drosophila)","mouse",6
+"Rest [mouse] RE1-silencing transcription factor","mouse",6
+"Tardbp [mouse] TAR DNA binding protein","mouse",6
+"Gata3 [mouse] GATA binding protein 3","mouse",6
+"POU5F1 [human] POU class 5 homeobox 1","human",6
+"SOX2 [human] SRY (sex determining region Y)-box 2","human",6
+"SNCA [human] synuclein, alpha (non A4 component of amyloid precursor)","human",6
+"siRNA","human",6
+"high","mouse",6
+"low","mouse",6
+"Olig2 [mouse] oligodendrocyte transcription factor 2","mouse",6
+"Foxo1 [mouse] forkhead box O1","mouse",6
+"Shank3 [mouse] SH3/ankyrin domain gene 3","mouse",6
+"ASCL1 [human] achaete-scute family bHLH transcription factor 1","human",6
+"Tcf4 [mouse] transcription factor 4","mouse",6
+"Chromosome 16","mouse",5
+"Gja1 [mouse] gap junction protein, alpha 1","mouse",5
+"Atf4 [mouse] activating transcription factor 4","mouse",5
+"BCR [human] breakpoint cluster region","human",5
+"Jun [mouse] jun proto-oncogene","mouse",5
+"Akt1 [mouse] thymoma viral proto-oncogene 1","mouse",5
+"FLI1 [human] Friend leukemia virus integration 1","human",5
+"Hif1a [mouse] hypoxia inducible factor 1, alpha subunit","mouse",5
+"HDAC3 [human] histone deacetylase 3","human",5
+"CDK4 [human] cyclin-dependent kinase 4","human",5
+"Cd14 [mouse] CD14 antigen","mouse",5
+"Rbl1 [mouse] retinoblastoma-like 1 (p107)","mouse",5
+"Ep300 [mouse] E1A binding protein p300","mouse",5
+"E2f3 [mouse] E2F transcription factor 3","mouse",5
+"Prnp [mouse] prion protein","mouse",5
+"Wfs1 [mouse] Wolfram syndrome 1 homolog (human)","mouse",5
+"ESR2 [human] estrogen receptor 2 (ER beta)","human",5
+"Immunodepletion","human",5
+"IKBKB [human] inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta","human",5
+"Knockdown","worm",5
+"mutation","fly",5
+"Foxp1 [mouse] forkhead box P1","mouse",5
+"E2f1 [mouse] E2F transcription factor 1","mouse",5
+"reference subject role","mouse",5
+"Lepr [mouse] leptin receptor","mouse",5
+"IRF4 [human] interferon regulatory factor 4","human",5
+"Erbb2 [mouse] v-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)","mouse",5
+"MAPK1 [human] mitogen-activated protein kinase 1","human",5
+"Tet1 [mouse] tet oncogene 1","mouse",5
+"Hmgn1 [mouse] high mobility group nucleosomal binding domain 1","mouse",5
+"Tgfbr2 [mouse] transforming growth factor, beta receptor II","mouse",5
+"CEBPB [human] CCAAT/enhancer binding protein (C/EBP), beta","human",5
+"SPDEF [human] SAM pointed domain containing ets transcription factor","human",5
+"Trim28 [mouse] tripartite motif-containing 28","mouse",5
+"Twist1 [mouse] twist basic helix-loop-helix transcription factor 1","mouse",5
+"Pde6b [mouse] phosphodiesterase 6B, cGMP, rod receptor, beta polypeptide","mouse",5
+"AKT1 [human] v-akt murine thymoma viral oncogene homolog 1","human",5
+"FOXM1 [human] forkhead box M1","human",5
+"FOXO3 [human] forkhead box O3","human",5
+"SP1 [human] Sp1 transcription factor","human",5
+"JUN [human] jun proto-oncogene","human",5
+"JUND [human] JunD proto-oncogene, AP-1 transcription factor subunit","human",5
+"OTX2 [human] orthodenticle homeobox 2","human",5
+"Pax5 [mouse] paired box gene 5","mouse",5
+"Gfap [mouse] glial fibrillary acidic protein","mouse",5
+"Hdac4 [mouse] histone deacetylase 4","mouse",5
+"Hdac1 [mouse] histone deacetylase 1","mouse",5
+"NR2F2 [human] nuclear receptor subfamily 2, group F, member 2","human",5
+"Tnfrsf1b [mouse] tumor necrosis factor receptor superfamily, member 1b","mouse",5
+"Hdac3 [mouse] histone deacetylase 3","mouse",5
+"Otx2 [mouse] orthodenticle homolog 2","mouse",5
+"Crx [mouse] cone-rod homeobox containing gene","mouse",5
+"Gata2 [mouse] GATA binding protein 2","mouse",5
+"CHD8 [human] chromodomain helicase DNA binding protein 8","human",5
+"Cdx2 [mouse] caudal type homeo box 2","mouse",5
+"Pbx1 [mouse] pre B cell leukemia homeobox 1","mouse",5
+"Dlx1 [mouse] distal-less homeobox 1","mouse",4
+"Igf1r [mouse] insulin-like growth factor I receptor","mouse",4
+"Egr3 [mouse] early growth response 3","mouse",4
+"C57BL/6J","mouse",4
+"EGR1 [human] early growth response 1","human",4
+"Ccnd1 [mouse] cyclin D1","mouse",4
+"Npc1 [mouse] Niemann-Pick type C1","mouse",4
+"EWSR1 [human] EWS RNA-binding protein 1","human",4
+"Rtn4r [mouse] reticulon 4 receptor","mouse",4
+"Crem [mouse] cAMP responsive element modulator","mouse",4
+"GRN [human] granulin precursor","human",4
+"Epas1 [mouse] endothelial PAS domain protein 1","mouse",4
+"Mstn [mouse] myostatin","mouse",4
+"NCOR2 [human] nuclear receptor co-repressor 2","human",4
+"PTEN [human] phosphatase and tensin homolog","human",4
+"Tgfb1 [mouse] transforming growth factor, beta 1","mouse",4
+"Stat5a [mouse] signal transducer and activator of transcription 5A","mouse",4
+"MIR124-1 [human] microRNA 124-1","human",4
+"Hmgn5 [mouse] high-mobility group nucleosome binding domain 5","mouse",4
+"Trim63 [mouse] tripartite motif-containing 63","mouse",4
+"PDGFRA [human] platelet-derived growth factor receptor, alpha polypeptide","human",4
+"Gfi1b [mouse] growth factor independent 1B","mouse",4
+"Tbx3 [mouse] T-box 3","mouse",4
+"Nras [mouse] neuroblastoma ras oncogene","mouse",4
+"MYD88 [human] myeloid differentiation primary response 88","human",4
+"Zeb2 [mouse] zinc finger E-box binding homeobox 2","mouse",4
+"Snord116 [mouse] small nucleolar RNA, C/D box 116 cluster","mouse",4
+"BCL2 [human] B-cell CLL/lymphoma 2","human",4
+"MLLT3 [human] MLLT3, super elongation complex subunit","mouse",4
+"WT1 [human] Wilms tumor 1","human",4
+"Ikzf1 [mouse] IKAROS family zinc finger 1","mouse",4
+"Olig1 [mouse] oligodendrocyte transcription factor 1","mouse",4
+"Nr3c1 [mouse] nuclear receptor subfamily 3, group C, member 1","mouse",4
+"Snca [mouse] synuclein, alpha","mouse",4
+"TP53 [human] tumor protein p53","mouse",4
+"Cdkn1a [mouse] cyclin-dependent kinase inhibitor 1A (P21)","mouse",4
+"Nfatc1 [mouse] nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 1","mouse",4
+"Mavs [mouse] mitochondrial antiviral signaling protein","mouse",4
+"Tsc1 [mouse] tuberous sclerosis 1","mouse",4
+"TARDBP [human] TAR DNA binding protein","mouse",4
+"FOSL2 [human] FOS-like antigen 2","human",4
+"Gli1 [mouse] GLI-Kruppel family member GLI1","mouse",4
+"ATM [human] ataxia telangiectasia mutated","human",4
+"Ring1 [mouse] ring finger protein 1","mouse",4
+"Tcra [mouse] T cell receptor alpha chain","mouse",4
+"KRAS [human] v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog","human",4
+"Ebf1 [mouse] early B cell factor 1","mouse",4
+"FOXA1 [human] forkhead box A1","human",4
+"RBL2 [human] retinoblastoma-like 2","human",4
+"CREBBP [human] CREB binding protein","human",4
+"E2F1 [human] E2F transcription factor 1","human",4
+"Gata1 [mouse] GATA binding protein 1","mouse",4
+"REST [human] RE1-silencing transcription factor","human",4
+"Hoxa5 [mouse] homeobox A5","mouse",4
+"Insm1 [mouse] insulinoma-associated 1","mouse",4
+"Ctcf [mouse] CCCTC-binding factor","mouse",4
+"MECP2 [human] methyl CpG binding protein 2 (Rett syndrome)","mouse",4
+"MIR203 [human] microRNA 203","human",4
+"Ldlr [mouse] low density lipoprotein receptor","mouse",4
+"XBP1 [human] X-box binding protein 1","human",4
+"DICER1 [human] dicer 1, ribonuclease type III","human",4
+"Spi1 [mouse] spleen focus forming virus (SFFV) proviral integration oncogene","mouse",4
+"Stat5b [mouse] signal transducer and activator of transcription 5B","mouse",4
+"Ifnb1 [mouse] interferon beta 1, fibroblast","mouse",4
+"Lin28a [mouse] lin-28 homolog A (C. elegans)","mouse",4
+"KLF4 [human] Kruppel like factor 4","human",4
+"Myod1 [mouse] myogenic differentiation 1","mouse",4
+"transgenic","mouse",4
+"Pax3 [mouse] paired box gene 3","mouse",4
+"MYCN [human] v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian)","mouse",4
+"RELB [human] RELB proto-oncogene, NF-kB subunit","human",4
+"Rbfox1 [mouse] RNA binding protein, fox-1 homolog (C. elegans) 1","mouse",4
+"PSEN2 [human] presenilin 2","mouse",4
+"KDM5A [human] lysine (K)-specific demethylase 5A","human",4
+"Ly6c1 [mouse] lymphocyte antigen 6 complex, locus C1","mouse",4
+"SMN2 [human] survival of motor neuron 2, centromeric","mouse",4
+"Kdm5c [mouse] lysine (K)-specific demethylase 5C","mouse",4
+"APOE [human] apolipoprotein E","mouse",4
+"Fezf2 [mouse] Fez family zinc finger 2","mouse",4
+"MIR9-1 [human] microRNA 9-1","human",4
+"Sp9 [mouse] trans-acting transcription factor 9","mouse",4
+"TCF4 [human] transcription factor 4","human",4
+"Homozygous negative","rat",4
+"ETV1 [human] ETS variant 1","human",4
+"wild type genotype","rat",4
+"Dlx2 [mouse] distal-less homeobox 2","mouse",3
+"Atxn1 [mouse] ataxin 1","mouse",3
+"Eif2ak3 [mouse] eukaryotic translation initiation factor 2 alpha kinase 3","mouse",3
+"USF1 [human] upstream transcription factor 1","human",3
+"Egr1 [mouse] early growth response 1","mouse",3
+"Grin3b [mouse] glutamate receptor, ionotropic, NMDA3B","mouse",3
+"Lmna [mouse] lamin A","mouse",3
+"Cftr [mouse] cystic fibrosis transmembrane conductance regulator","mouse",3
+"Ldb1 [mouse] LIM domain binding 1","mouse",3
+"Ehmt2 [mouse] euchromatic histone lysine N-methyltransferase 2","mouse",3
+"ERCC6 [human] excision repair cross-complementing rodent repair deficiency, complementation group 6","human",3
+"Heterozygous","rat",3
+"Atm [mouse] ataxia telangiectasia mutated homolog (human)","mouse",3
+"Smo [mouse] smoothened homolog (Drosophila)","mouse",3
+"HTT [human] huntingtin","rat",3
+"HOXA9 [human] homeobox A9","human",3
+"HDAC2 [human] histone deacetylase 2","human",3
+"Ncor1 [mouse] nuclear receptor co-repressor 1","mouse",3
+"Ahr [mouse] aryl-hydrocarbon receptor","mouse",3
+"Met [mouse] met proto-oncogene","mouse",3
+"PAX3 [human] paired box 3","human",3
+"SDHD [human] succinate dehydrogenase complex, subunit D, integral membrane protein","human",3
+"a [mouse] nonagouti","mouse",3
+"HSF1 [human] heat shock transcription factor 1","human",3
+"CCND1 [human] cyclin D1","human",3
+"Hsf1 [mouse] heat shock factor 1","mouse",3
+"Elavl1 [mouse] ELAV (embryonic lethal, abnormal vision, Drosophila)-like 1 (Hu antigen R)","mouse",3
+"TP73 [human] tumor protein p73","human",3
+"Prdm16 [mouse] PR domain containing 16","mouse",3
+"Ddit3 [mouse] DNA-damage inducible transcript 3","mouse",3
+"Tcl1 [mouse] T cell lymphoma breakpoint 1","mouse",3
+"Prop1 [mouse] paired like homeodomain factor 1","mouse",3
+"Ccl3 [mouse] chemokine (C-C motif) ligand 3","mouse",3
+"ATXN3 [human] ataxin 3","mouse",3
+"UNC93B1 [human] unc-93 homolog B1 (C. elegans)","human",3
+"IKBKG [human] inhibitor of nuclear factor kappa B kinase subunit gamma","human",3
+"Tnf [mouse] tumor necrosis factor","mouse",3
+"Dysf [mouse] dysferlin","mouse",3
+"CFTR [human] cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)","human",3
+"Homozygous negative","yeast",3
+"Sip1 [mouse] survival of motor neuron protein interacting protein 1","mouse",3
+"YAP1 [human] Yes-associated protein 1, 65kDa","human",3
+"GCN4 [yeast] Gcn4p","yeast",3
+"FLT3 [human] fms-related tyrosine kinase 3","human",3
+"CDH1 [human] cadherin 1, type 1, E-cadherin (epithelial)","human",3
+"SNAI1 [human] snail homolog 1 (Drosophila)","human",3
+"TGFB1 [human] transforming growth factor, beta 1","human",3
+"Bcl6 [mouse] B-cell leukemia/lymphoma 6","mouse",3
+"Hoxd13 [mouse] homeobox D13","mouse",3
+"Tal1 [mouse] T-cell acute lymphocytic leukemia 1","mouse",3
+"Il4ra [mouse] interleukin 4 receptor, alpha","mouse",3
+"MALT1 [human] MALT1 paracaspase","human",3
+"Cmah [mouse] cytidine monophospho-N-acetylneuraminic acid hydroxylase","mouse",3
+"Aplp2 [mouse] amyloid beta (A4) precursor-like protein 2","mouse",3
+"Hoxa11 [mouse] homeobox A11","mouse",3
+"Hoxd11 [mouse] homeobox D11","mouse",3
+"Tlr4 [mouse] toll-like receptor 4","mouse",3
+"Lmx1a [mouse] LIM homeobox transcription factor 1 alpha","mouse",3
+"E2f2 [mouse] E2F transcription factor 2","mouse",3
+"Esrrg [mouse] estrogen-related receptor gamma","mouse",3
+"Trim24 [mouse] tripartite motif-containing 24","mouse",3
+"Stk11 [mouse] serine/threonine kinase 11","mouse",3
+"PPARGC1A [human] peroxisome proliferator-activated receptor gamma, coactivator 1 alpha","human",3
+"Xist [mouse] inactive X specific transcripts","mouse",3
+"Irf8 [mouse] interferon regulatory factor 8","mouse",3
+"Nkx2-5 [mouse] NK2 homeobox 5","mouse",3
+"p53 [fly] CG33336 gene product from transcript CG33336-RB","fly",3
+"UPF1 [human] UPF1, RNA helicase and ATPase","human",3
+"Stat6 [mouse] signal transducer and activator of transcription 6","mouse",3
+"Rbl2 [mouse] retinoblastoma-like 2","mouse",3
+"Sox17 [mouse] SRY-box containing gene 17","mouse",3
+"HLA-A [human] major histocompatibility complex, class I, A","human",3
+"ras [fly] raspberry","fly",3
+"Top2b [mouse] topoisomerase (DNA) II beta","mouse",3
+"Braf-rs1 [mouse] Braf transforming gene, related sequence 1","mouse",3
+"Camk2a [mouse] calcium/calmodulin-dependent protein kinase II alpha","mouse",3
+"Tcrb [mouse] T cell receptor beta chain","mouse",3
+"Dot1l [mouse] DOT1-like, histone H3 methyltransferase (S. cerevisiae)","mouse",3
+"HRAS [human] v-Ha-ras Harvey rat sarcoma viral oncogene homolog","mouse",3
+"PRKN [human] parkin RBR E3 ubiquitin protein ligase","human",3
+"Pou1f1 [mouse] POU domain, class 1, transcription factor 1","mouse",3
+"Mbd3 [mouse] methyl-CpG binding domain protein 3","mouse",3
+"CEBPZ [human] CCAAT/enhancer binding protein zeta","human",3
+"CDK2 [human] cyclin dependent kinase 2","human",3
+"CEBPD [human] CCAAT enhancer binding protein delta","human",3
+"CHEK1 [human] checkpoint kinase 1","human",3
+"ETS1 [human] ETS proto-oncogene 1, transcription factor","human",3
+"HSF2 [human] heat shock transcription factor 2","human",3
+"MCM2 [human] minichromosome maintenance complex component 2","human",3
+"MITF [human] melanocyte inducing transcription factor","human",3
+"PCNA [human] proliferating cell nuclear antigen","human",3
+"MAP2K1 [human] mitogen-activated protein kinase kinase 1","human",3
+"SKP2 [human] S-phase kinase associated protein 2","human",3
+"SP100 [human] SP100 nuclear antigen","human",3
+"TCEA1 [human] transcription elongation factor A1","human",3
+"PIAS1 [human] protein inhibitor of activated STAT 1","human",3
+"CDC16 [human] cell division cycle 16","human",3
+"CCNA2 [human] cyclin A2","human",3
+"CCNB1 [human] cyclin B1","human",3
+"CCND3 [human] cyclin D3","human",3
+"NMI [human] N-myc and STAT interactor","human",3
+"CDK1 [human] cyclin dependent kinase 1","human",3
+"CDC25B [human] cell division cycle 25B","human",3
+"Grn [mouse] granulin","mouse",3
+"MAPK14 [human] mitogen-activated protein kinase 14","human",3
+"FOXC1 [human] forkhead box C1","human",3
+"FOXO1 [human] forkhead box O1","human",3
+"FOS [human] Fos proto-oncogene, AP-1 transcription factor subunit","human",3
+"HOXB7 [human] homeobox B7","human",3
+"ID1 [human] inhibitor of DNA binding 1, dominant negative helix-loop-helix protein","human",3
+"MYBL2 [human] MYB proto-oncogene like 2","human",3
+"BCL6 [human] B-cell CLL/lymphoma 6","human",3
+"STAT5B [human] signal transducer and activator of transcription 5B","human",3
+"Foxa2 [mouse] forkhead box A2","mouse",3
+"TMPRSS2 [human] transmembrane protease, serine 2","human",3
+"Setdb1 [mouse] SET domain, bifurcated 1","mouse",3
+"Bax [mouse] BCL2-associated X protein","mouse",3
+"STAT5A [human] signal transducer and activator of transcription 5A","human",3
+"Fgf21 [mouse] fibroblast growth factor 21","mouse",3
+"CTCF [human] CCCTC-binding factor (zinc finger protein)","human",3
+"GRHL2 [human] grainyhead-like 2 (Drosophila)","human",3
+"MEF2A [human] myocyte enhancer factor 2A","human",3
+"MEF2C [human] myocyte enhancer factor 2C","human",3
+"pou5f1 [zebrafish] POU domain, class 5, transcription factor 1","zebrafish",3
+"Smchd1 [mouse] SMC hinge domain containing 1","mouse",3
+"TCF7L2 [human] transcription factor 7 like 2","human",3
+"Hivep2 [mouse] human immunodeficiency virus type I enhancer binding protein 2","mouse",3
+"Rxra [mouse] retinoid X receptor alpha","mouse",3
+"TGFB1I1 [human] transforming growth factor beta 1 induced transcript 1","human",3
+"SRF [human] serum response factor (c-fos serum response element-binding transcription factor)","human",3
+"Fos [mouse] FBJ osteosarcoma oncogene","mouse",3
+"Gba [mouse] glucosidase, beta, acid","mouse",3
+"Tnfrsf1a [mouse] tumor necrosis factor receptor superfamily, member 1a","mouse",3
+"Smad4 [mouse] SMAD family member 4","mouse",3
+"BRD4 [human] bromodomain containing 4","human",3
+"Irf5 [mouse] interferon regulatory factor 5","mouse",3
+"RBL1 [human] retinoblastoma-like 1","human",3
+"FOXD1 [human] forkhead box D1","human",3
+"Id3 [mouse] inhibitor of DNA binding 3","mouse",3
+"Klf5 [mouse] Kruppel-like factor 5","mouse",3
+"Foxg1 [mouse] forkhead box G1","mouse",3
+"Id1 [mouse] inhibitor of DNA binding 1","mouse",3
+"Ncoa3 [mouse] nuclear receptor coactivator 3","mouse",3
+"Pml [mouse] promyelocytic leukemia","mouse",3
+"Sox1 [mouse] SRY (sex determining region Y)-box 1","mouse",3
+"Zic3 [mouse] zinc finger protein of the cerebellum 3","mouse",3
+"TLR3 [human] toll-like receptor 3","human",3
+"Pdgfc [mouse] platelet-derived growth factor, C polypeptide","mouse",3
+"ABL1 [human] ABL proto-oncogene 1, non-receptor tyrosine kinase","mouse",3
+"BCR [human] breakpoint cluster region","mouse",3
+"Rbpj [mouse] recombination signal binding protein for immunoglobulin kappa J region","mouse",3
+"Mllt10 [mouse] myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila) translocated to, 10","mouse",3
+"Hoxa10 [mouse] homeobox A10","mouse",3
+"GATA2 [human] GATA binding protein 2","human",3
+"Ercc1 [mouse] excision repair cross-complementing rodent repair deficiency, complementation group 1","mouse",3
+"Mapk8 [mouse] mitogen-activated protein kinase 8","mouse",3
+"IDH1 [human] isocitrate dehydrogenase 1 (NADP+), soluble","human",3
+"NSD2 [human] nuclear receptor binding SET domain protein 2","human",3
+"Brd2 [mouse] bromodomain containing 2","mouse",3
+"Esr2 [mouse] estrogen receptor 2 (beta)","mouse",3
+"Atf3 [mouse] activating transcription factor 3","mouse",3
+"Mapt [mouse] microtubule-associated protein tau","mouse",3
+"Isl1 [mouse] ISL1 transcription factor, LIM/homeodomain","mouse",3
+"CEBPG [human] CCAAT/enhancer binding protein gamma","human",3
+"NFKB2 [human] nuclear factor kappa B subunit 2","human",3
+"TCF12 [human] transcription factor 12","human",3
+"Ripk3 [mouse] receptor-interacting serine-threonine kinase 3","mouse",3
+"Rptor [mouse] regulatory associated protein of MTOR, complex 1","mouse",3
+"PAX6 [human] paired box 6","human",3
+"DISC1 [human] disrupted in schizophrenia 1","human",3
+"Neurog2 [mouse] neurogenin 2","mouse",3
+"Gnas [mouse] GNAS (guanine nucleotide binding protein, alpha stimulating) complex locus","mouse",3
+"Cdkn2c [mouse] cyclin-dependent kinase inhibitor 2C (p18, inhibits CDK4)","mouse",3
+"Dio2 [mouse] deiodinase, iodothyronine, type II","mouse",3
+"Cx3cr1 [mouse] chemokine (C-X3-C motif) receptor 1","mouse",3
+"Atxn2 [mouse] ataxin 2","mouse",3
+"Tlr7 [mouse] toll-like receptor 7","mouse",3
+"Tet3 [mouse] tet methylcytosine dioxygenase 3","mouse",3
+"Kdm1a [mouse] lysine (K)-specific demethylase 1A","mouse",3
+"Prmt5 [mouse] protein arginine N-methyltransferase 5","mouse",3
+"Cbx3 [mouse] chromobox 3","mouse",3
+"PTBP1 [human] polypyrimidine tract binding protein 1","human",3
+"Aldh1l1 [mouse] aldehyde dehydrogenase 1 family, member L1","mouse",3
+"Sox9 [mouse] SRY (sex determining region Y)-box 9","mouse",3
+"Magoh [mouse] mago homolog, exon junction complex core component","mouse",3
+"Satb1 [mouse] special AT-rich sequence binding protein 1","mouse",3
+"Chd8 [mouse] chromodomain helicase DNA binding protein 8","mouse",3
+"Thap1 [mouse] THAP domain containing, apoptosis associated protein 1","mouse",3
+"Double-copy overexpression","mouse",3
+"Smn1 [mouse] survival motor neuron 1","mouse",3
+"Kdm6b [mouse] KDM1 lysine (K)-specific demethylase 6B","mouse",3
+"Tbr1 [mouse] T-box brain gene 1","mouse",3
+"Smarcc1 [mouse] SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1","mouse",3
+"Sox4 [mouse] SRY (sex determining region Y)-box 4","mouse",3
+"Chd7 [mouse] chromodomain helicase DNA binding protein 7","mouse",3
+"Gtpbp2 [mouse] GTP binding protein 2","mouse",3
+"Cic [mouse] capicua transcriptional repressor","mouse",3
+"Fzd4 [mouse] frizzled class receptor 4","mouse",3
+"Hist2h2be [mouse] histone cluster 2, H2be","mouse",3
+"Myt1l [mouse] myelin transcription factor 1-like","mouse",3
+"Pou3f2 [mouse] POU domain, class 3, transcription factor 2","mouse",3
+"Vegfa [mouse] vascular endothelial growth factor A","mouse",3
+"Maf [mouse] avian musculoaponeurotic fibrosarcoma oncogene homolog","mouse",3
+"Myt1 [mouse] myelin transcription factor 1","mouse",3
+"Sox10 [mouse] SRY (sex determining region Y)-box 10","mouse",3
+"Pou3f1 [mouse] POU domain, class 3, transcription factor 1","mouse",3
+"Sfpq [mouse] splicing factor proline/glutamine rich (polypyrimidine tract binding protein associated)","mouse",3
+"Nova2 [mouse] neuro-oncological ventral antigen 2","mouse",3
+"Yap1 [mouse] yes-associated protein 1","mouse",3
+"Pvalb [mouse] parvalbumin","mouse",3
+"Sst [mouse] somatostatin","mouse",3
+"Runx3 [mouse] runt related transcription factor 3","mouse",3
+"Pomc [mouse] pro-opiomelanocortin-alpha","mouse",3
+"Crhr1 [mouse] corticotropin releasing hormone receptor 1","mouse",3
+"Nkx2-1 [mouse] NK2 homeobox 1","mouse",3
+"Adar [mouse] adenosine deaminase, RNA-specific","mouse",3
+"TAF15 [human] TATA-box binding protein associated factor 15","human",3
+"Lhx5 [mouse] LIM homeobox protein 5","mouse",3
+"Satb2 [mouse] special AT-rich sequence binding protein 2","mouse",3
+"Gata6 [mouse] GATA binding protein 6","mouse",3
+"SOX11 [human] SRY-box 11","human",3
+"SMAD4 [human] SMAD family member 4","human",3
+"MECOM [human] MDS1 and EVI1 complex locus","human",3
+"Mtdh [mouse] metadherin","mouse",3
+"ELAVL4 [human] ELAV (embryonic lethal, abnormal vision, Drosophila)-like 4 (Hu antigen D)","mouse",2
+"Socs3 [mouse] suppressor of cytokine signaling 3","mouse",2
+"Abca1 [mouse] ATP-binding cassette, sub-family A (ABC1), member 1","mouse",2
+"Fbn1 [mouse] fibrillin 1","mouse",2
+"ETV7 [human] ETS variant 7","human",2
+"APP [human] amyloid beta (A4) precursor protein","human",2
+"Ighmbp2 [mouse] immunoglobulin mu binding protein 2","mouse",2
+"Hoxb1 [mouse] homeo box B1","mouse",2
+"EGR3 [human] early growth response 3","human",2
+"Cacnb4 [mouse] calcium channel, voltage-dependent, beta 4 subunit","mouse",2
+"Atxn7 [mouse] ataxin 7","mouse",2
+"Chrnb4 [mouse] cholinergic receptor, nicotinic, beta polypeptide 4","mouse",2
+"Ppt1 [mouse] palmitoyl-protein thioesterase 1","mouse",2
+"Polg [mouse] polymerase (DNA directed), gamma","mouse",2
+"Nfia [mouse] nuclear factor I/A","mouse",2
+"BMI1 [human] BMI1 proto-oncogene, polycomb ring finger","human",2
+"Fbxo15 [mouse] F-box protein 15","mouse",2
+"SERPINA1 [human] serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1","mouse",2
+"Hoxb4 [mouse] homeo box B4","mouse",2
+"Hdac5 [mouse] histone deacetylase 5","mouse",2
+"FMR1 [human] fragile X mental retardation 1","human",2
+"Cldn5 [mouse] claudin 5","mouse",2
+"Dgcr8 [mouse] DiGeorge syndrome critical region gene 8","mouse",2
+"Terc [mouse] telomerase RNA component","mouse",2
+"Chrna7 [mouse] cholinergic receptor, nicotinic, alpha polypeptide 7","mouse",2
+"Sod1 [rat] superoxide dismutase 1, soluble","rat",2
+"Psap [mouse] prosaposin","mouse",2
+"Arx [mouse] aristaless related homeobox","mouse",2
+"HDAC1 [human] histone deacetylase 1","human",2
+"MAP2K7 [human] mitogen-activated protein kinase kinase 7","human",2
+"Htra2 [mouse] HtrA serine peptidase 2","mouse",2
+"Foxd3 [mouse] forkhead box D3","mouse",2
+"Xbp1 [mouse] X-box binding protein 1","mouse",2
+"Nod2 [mouse] nucleotide-binding oligomerization domain containing 2","mouse",2
+"ATXN1 [human] ataxin 1","mouse",2
+"silenced_gene","human",2
+"Itgb1 [mouse] integrin beta 1 (fibronectin receptor beta)","mouse",2
+"Npas4 [mouse] neuronal PAS domain protein 4","mouse",2
+"MYC [human] v-myc myelocytomatosis viral oncogene homolog (avian)","human",2
+"T cell receptor complex","mouse",2
+"TWIST2 [human] twist basic helix-loop-helix transcription factor 2","human",2
+"Adrb1 [mouse] adrenergic receptor, beta 1","mouse",2
+"Adcy1 [mouse] adenylate cyclase 1","mouse",2
+"Taf4b [mouse] TAF4B RNA polymerase II, TATA box binding protein (TBP)-associated factor","mouse",2
+"Pecam1 [mouse] platelet/endothelial cell adhesion molecule 1","mouse",2
+"SIRT1 [human] sirtuin 1","human",2
+"Ltk [mouse] leukocyte tyrosine kinase","mouse",2
+"Wnt1 [mouse] wingless-type MMTV integration site family, member 1","mouse",2
+"Il2ra [mouse] interleukin 2 receptor, alpha chain","mouse",2
+"BALB/c","mouse",2
+"THRA [human] thyroid hormone receptor, alpha (erythroblastic leukemia viral (v-erb-a) oncogene homolog, avian)","human",2
+"THRB [human] thyroid hormone receptor, beta (erythroblastic leukemia viral (v-erb-a) oncogene homolog 2, avian)","human",2
+"Atrx [mouse] alpha thalassemia/mental retardation syndrome X-linked homolog (human)","mouse",2
+"KIT [human] v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog","human",2
+"E2f4 [mouse] E2F transcription factor 4","mouse",2
+"Ptprc [mouse] protein tyrosine phosphatase, receptor type, C","mouse",2
+"PPARA [human] peroxisome proliferator-activated receptor alpha","human",2
+"Fgfr1 [mouse] fibroblast growth factor receptor 1","mouse",2
+"NF1 [human] neurofibromin 1","human",2
+"RET [human] ret proto-oncogene","human",2
+"SDHB [human] succinate dehydrogenase complex iron sulfur subunit B","human",2
+"VHL [human] von Hippel-Lindau tumor suppressor","human",2
+"Cdh5 [mouse] cadherin 5","mouse",2
+"Kdr [mouse] kinase insert domain protein receptor","mouse",2
+"Smad3 [mouse] MAD homolog 3 (Drosophila)","mouse",2
+"Mapk1 [mouse] mitogen-activated protein kinase 1","mouse",2
+"LEU3 [yeast] Leu3p","yeast",2
+"Egfr [mouse] epidermal growth factor receptor","mouse",2
+"supt5h [zebrafish] suppressor of Ty 5 homolog (S. cerevisiae)","zebrafish",2
+"Ehmt1 [mouse] euchromatic histone methyltransferase 1","mouse",2
+"Tsc2 [rat] tuberous sclerosis 2","rat",2
+"Hey2 [mouse] hairy/enhancer-of-split related with YRPW motif 2","mouse",2
+"Srebf1 [mouse] sterol regulatory element binding transcription factor 1","mouse",2
+"MIR125B1 [human] microRNA 125b-1","human",2
+"Jhdm1d [mouse] jumonji C domain-containing histone demethylase 1 homolog D (S. cerevisiae)","mouse",2
+"Pitx2 [mouse] paired-like homeodomain transcription factor 2","mouse",2
+"Phex [mouse] phosphate regulating gene with homologies to endopeptidases on the X chromosome (hypophosphatemia, vitamin D resistant rickets)","mouse",2
+"SFP1 [yeast] Sfp1p","yeast",2
+"RAD23 [yeast] Rad23p","yeast",2
+"RAD4 [yeast] Rad4p","yeast",2
+"Dclre1c [mouse] DNA cross-link repair 1C, PSO2 homolog (S. cerevisiae)","mouse",2
+"JAK2 [human] Janus kinase 2","human",2
+"Mir19b-1 [mouse] microRNA 19b-1","mouse",2
+"LOC107963955 [human] BCR-ABL major-breakpoint cluster region","human",2
+"E2A-PBX1 breakpoint","human",2
+"Hfe [mouse] hemochromatosis","mouse",2
+"TWIST1 [human] twist homolog 1 (Drosophila)","human",2
+"Lmx1b [mouse] LIM homeobox transcription factor 1 beta","mouse",2
+"Abcb4 [mouse] ATP-binding cassette, sub-family B (MDR/TAP), member 4","mouse",2
+"Aicda [mouse] activation-induced cytidine deaminase","mouse",2
+"Tlx1 [mouse] T-cell leukemia, homeobox 1","mouse",2
+"Nup98 [mouse] nucleoporin 98","mouse",2
+"Mmp7 [mouse] matrix metallopeptidase 7","mouse",2
+"Thrb [mouse] thyroid hormone receptor beta","mouse",2
+"SYK [human] spleen tyrosine kinase","human",2
+"Il13 [mouse] interleukin 13","mouse",2
+"daf-16 [worm] Protein DAF-16","worm",2
+"Homozygous negative","worm",2
+"Wt1 [mouse] Wilms tumor 1 homolog","mouse",2
+"Ndrg1 [mouse] N-myc downstream regulated gene 1","mouse",2
+"Mad2l1 [mouse] MAD2 mitotic arrest deficient-like 1","mouse",2
+"chromosomal substitution","fly",2
+"Disc1 [mouse] disrupted in schizophrenia 1","mouse",2
+"PPARG [human] peroxisome proliferator activated receptor gamma","human",2
+"aneuploidy","fly",2
+"per [fly] period","fly",2
+"Stk4 [mouse] serine/threonine kinase 4","mouse",2
+"IGH [human] immunoglobulin heavy locus","human",2
+"BIRC3 [human] baculoviral IAP repeat containing 3","human",2
+"Zfp36 [mouse] zinc finger protein 36","mouse",2
+"Apod [mouse] apolipoprotein D","mouse",2
+"Nr2f1 [mouse] nuclear receptor subfamily 2, group F, member 1","mouse",2
+"RFWD2 [human] ring finger and WD repeat domain 2","human",2
+"Homozygous negative","zebrafish",2
+"transgenic","zebrafish",2
+"OLR1 [human] oxidized low density lipoprotein receptor 1","human",2
+"translocation","human",2
+"Lig4 [mouse] ligase IV, DNA, ATP-dependent","mouse",2
+"reference subject role","fly",2
+"Rara [mouse] retinoic acid receptor, alpha","mouse",2
+"SLC16A2 [human] solute carrier family 16, member 2 (monocarboxylic acid transporter 8)","human",2
+"Elk4 [mouse] ELK4, member of ETS oncogene family","mouse",2
+"Setx [mouse] senataxin","mouse",2
+"Tsc2 [mouse] tuberous sclerosis 2","mouse",2
+"PIK3CA [human] phosphoinositide-3-kinase, catalytic, alpha polypeptide","human",2
+"MAPK3 [human] mitogen-activated protein kinase 3","human",2
+"RUNX1 [human] runt-related transcription factor 1","mouse",2
+"HOXA9 [human] homeobox A9","mouse",2
+"NUP98 [human] nucleoporin 98kDa","mouse",2
+"Il6st [mouse] interleukin 6 signal transducer","mouse",2
+"Tbx5 [mouse] T-box 5","mouse",2
+"CDK6 [human] cyclin-dependent kinase 6","human",2
+"Hmgn2 [mouse] high mobility group nucleosomal binding domain 2","mouse",2
+"Hmgn3 [mouse] high mobility group nucleosomal binding domain 3","mouse",2
+"glp-1 [worm] Protein GLP-1","worm",2
+"Jarid2 [mouse] jumonji, AT rich interactive domain 2","mouse",2
+"Dkk4 [mouse] dickkopf homolog 4 (Xenopus laevis)","mouse",2
+"Atoh1 [mouse] atonal homolog 1 (Drosophila)","mouse",2
+"Myog [mouse] myogenin","mouse",2
+"Eda [mouse] ectodysplasin-A","mouse",2
+"Smarcb1 [mouse] SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1","mouse",2
+"Myb [mouse] myeloblastosis oncogene","mouse",2
+"E2F3 [human] E2F transcription factor 3","human",2
+"CD38 [human] CD38 molecule","human",2
+"Chromosome 16","human",2
+"HLA-B [human] major histocompatibility complex, class I, B","human",2
+"HLA-C [human] major histocompatibility complex, class I, C","human",2
+"Adgre1 [mouse] adhesion G protein-coupled receptor E1","mouse",2
+"Itgam [mouse] integrin alpha M","mouse",2
+"rescue_gene","mouse",2
+"Scd1 [mouse] stearoyl-Coenzyme A desaturase 1","mouse",2
+"N [fly] Notch","fly",2
+"EcR [fly] Ecdysone receptor","fly",2
+"haploid","fly",2
+"CDKN2A [human] cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)","human",2
+"KCNIP3 [human] Kv channel interacting protein 3, calsenilin","mouse",2
+"MIR200C [human] microRNA 200c","human",2
+"MIR424 [human] microRNA 424","human",2
+"Cd40lg [mouse] CD40 ligand","mouse",2
+"Nkx3-1 [mouse] NK-3 transcription factor, locus 1 (Drosophila)","mouse",2
+"CREB1 [human] cAMP responsive element binding protein 1","human",2
+"Rps6 [mouse] ribosomal protein S6","mouse",2
+"Pon1 [mouse] paraoxonase 1","mouse",2
+"PON1 [human] paraoxonase 1","mouse",2
+"Irs1 [mouse] insulin receptor substrate 1","mouse",2
+"MYC [human] v-myc myelocytomatosis viral oncogene homolog (avian)","mouse",2
+"MYC [human] v-myc avian myelocytomatosis viral oncogene homolog","mouse",2
+"BCOR [human] BCL6 corepressor","human",2
+"Ash2l [mouse] ash2 (absent, small, or homeotic)-like (Drosophila)","mouse",2
+"CDK7 [human] cyclin dependent kinase 7","human",2
+"CDKN2C [human] cyclin dependent kinase inhibitor 2C","human",2
+"CDC37 [human] cell division cycle 37","human",2
+"GABARAP [human] GABA type A receptor-associated protein","human",2
+"PIK3CB [human] phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta","human",2
+"CCNB2 [human] cyclin B2","human",2
+"HDAC5 [human] histone deacetylase 5","human",2
+"CENPE [human] centromere protein E","human",2
+"CENPF [human] centromere protein F","human",2
+"E2F5 [human] E2F transcription factor 5","human",2
+"ERF [human] ETS2 repressor factor","human",2
+"FOXP1 [human] forkhead box P1","human",2
+"MAX [human] MYC associated factor X","human",2
+"POLR2A [human] RNA polymerase II subunit A","human",2
+"ATR [human] ATR serine/threonine kinase","human",2
+"FOXJ2 [human] forkhead box J2","human",2
+"TOP2A [human] DNA topoisomerase II alpha","human",2
+"CCNG2 [human] cyclin G2","human",2
+"ARHGEF1 [human] Rho guanine nucleotide exchange factor 1","human",2
+"CDC20 [human] cell division cycle 20","human",2
+"CDC25A [human] cell division cycle 25A","human",2
+"CDC34 [human] cell division cycle 34","human",2
+"ANGPT1 [human] angiopoietin 1","human",2
+"Foxa1 [mouse] forkhead box A1","mouse",2
+"Bcl11b [mouse] B-cell leukemia/lymphoma 11B","mouse",2
+"Rrn3 [mouse] RRN3 RNA polymerase I transcription factor homolog (yeast)","mouse",2
+"UME1 [yeast] Ume1p","yeast",2
+"Fxn [mouse] frataxin","mouse",2
+"Des [mouse] desmin","mouse",2
+"CXCR4 [human] C-X-C motif chemokine receptor 4","human",2
+"Ntf3 [mouse] neurotrophin 3","mouse",2
+"Sod2 [mouse] superoxide dismutase 2, mitochondrial","mouse",2
+"ZNF804A [human] zinc finger protein 804A","human",2
+"EP300 [human] E1A binding protein p300","human",2
+"Nes [mouse] nestin","mouse",2
+"Il6 [mouse] interleukin 6","mouse",2
+"SOD1 [human] superoxide dismutase 1, soluble","human",2
+"TAF1 [human] TATA-box binding protein associated factor 1","human",2
+"GFAP [human] glial fibrillary acidic protein","mouse",2
+"Glud1 [mouse] glutamate dehydrogenase 1","mouse",2
+"CD44 [human] CD44 molecule (Indian blood group)","human",2
+"Fosb [mouse] FBJ osteosarcoma oncogene B","mouse",2
+"diploid","human",2
+"Elavl4 [mouse] ELAV (embryonic lethal, abnormal vision, Drosophila)-like 4 (Hu antigen D)","mouse",2
+"Dcx [mouse] doublecortin","mouse",2
+"Slc6a4 [mouse] solute carrier family 6 (neurotransmitter transporter, serotonin), member 4","mouse",2
+"Bdnf [mouse] brain derived neurotrophic factor","mouse",2
+"RPD3 [yeast] Rpd3p","yeast",2
+"MSN4 [yeast] Msn4p","yeast",2
+"MSN2 [yeast] Msn2p","yeast",2
+"Overexpressor strain","yeast",2
+"Psen1 [mouse] presenilin 1","mouse",2
+"sox2 [zebrafish] SRY-box containing gene 2","zebrafish",2
+"Knockdown","zebrafish",2
+"lin-35 [worm] Protein LIN-35","worm",2
+"lin-54 [worm] Protein LIN-54","worm",2
+"Mpz [mouse] myelin protein zero","mouse",2
+"Irf4 [mouse] interferon regulatory factor 4","mouse",2
+"Smarcc2 [mouse] SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2","mouse",2
+"gene knock out","mouse",2
+"Klf15 [mouse] Kruppel-like factor 15","mouse",2
+"Mbnl2 [mouse] muscleblind-like 2","mouse",2
+"Cdk8 [mouse] cyclin-dependent kinase 8","mouse",2
+"Mir221 [mouse] microRNA 221","mouse",2
+"SV40gp6 [simian virus 40] large T antigen","mouse",2
+"Bcl2l1 [mouse] BCL2-like 1","mouse",2
+"Bhlhe40 [mouse] basic helix-loop-helix family, member e40","mouse",2
+"ahcy [zebrafish] S-adenosylhomocysteine hydrolase","zebrafish",2
+"Lyl1 [mouse] lymphoblastomic leukemia 1","mouse",2
+"SNF1 [yeast] Snf1p","yeast",2
+"ALK [human] anaplastic lymphoma receptor tyrosine kinase","human",2
+"Kdm3a [mouse] lysine (K)-specific demethylase 3A","mouse",2
+"Sry [mouse] sex determining region of Chr Y","mouse",2
+"Ntrk2 [mouse] neurotrophic tyrosine kinase, receptor, type 2","mouse",2
+"YAP1 [yeast] Yap1p","yeast",2
+"Sarm1 [mouse] sterile alpha and HEAT/Armadillo motif containing 1","mouse",2
+"HNRNPA2B1 [human] heterogeneous nuclear ribonucleoprotein A2/B1","human",2
+"HNRNPF [human] heterogeneous nuclear ribonucleoprotein F","human",2
+"HNRNPH1 [human] heterogeneous nuclear ribonucleoprotein H1 (H)","human",2
+"HNRNPU [human] heterogeneous nuclear ribonucleoprotein U (scaffold attachment factor A)","human",2
+"Malt1 [mouse] mucosa associated lymphoid tissue lymphoma translocation gene 1","mouse",2
+"ATF3 [human] activating transcription factor 3","human",2
+"BAP1 [human] BRCA1 associated protein-1 (ubiquitin carboxy-terminal hydrolase)","human",2
+"SNAI2 [human] snail family zinc finger 2","human",2
+"PALB2 [human] partner and localizer of BRCA2","human",2
+"Ago2 [mouse] argonaute RISC catalytic subunit 2","mouse",2
+"Ackr2 [mouse] atypical chemokine receptor 2","mouse",2
+"BRIP1 [human] BRCA1 interacting protein C-terminal helicase 1","human",2
+"Stat4 [mouse] signal transducer and activator of transcription 4","mouse",2
+"Samhd1 [mouse] SAM domain and HD domain, 1","mouse",2
+"Nr6a1 [mouse] nuclear receptor subfamily 6, group A, member 1","mouse",2
+"animal feeding","mouse",2
+"Casp4 [mouse] caspase 4, apoptosis-related cysteine peptidase","mouse",2
+"Lyn [mouse] Yamaguchi sarcoma viral (v-yes-1) oncogene homolog","mouse",2
+"Irf3 [mouse] interferon regulatory factor 3","mouse",2
+"Clec4e [mouse] C-type lectin domain family 4, member e","mouse",2
+"CD4 [human] CD4 molecule","human",2
+"MIR130A [human] microRNA 130a","human",2
+"MIR205 [human] microRNA 205","human",2
+"Smad7 [mouse] SMAD family member 7","mouse",2
+"Nr0b1 [mouse] nuclear receptor subfamily 0, group B, member 1","mouse",2
+"Etv1 [mouse] ets variant 1","mouse",2
+"Fem1b [mouse] feminization 1 homolog b (C. elegans)","mouse",2
+"Gtf2i [mouse] general transcription factor II I","mouse",2
+"Mtf2 [mouse] metal response element binding transcription factor 2","mouse",2
+"Mybl2 [mouse] myeloblastosis oncogene-like 2","mouse",2
+"Tcea3 [mouse] transcription elongation factor A (SII), 3","mouse",2
+"Tfap2c [mouse] transcription factor AP-2, gamma","mouse",2
+"Tle4 [mouse] transducin-like enhancer of split 4","mouse",2
+"Zfp281 [mouse] zinc finger protein 281","mouse",2
+"Nelfa [mouse] negative elongation factor complex member A, Whsc2","mouse",2
+"Zscan4c [mouse] zinc finger and SCAN domain containing 4C","mouse",2
+"Nr5a2 [mouse] nuclear receptor subfamily 5, group A, member 2","mouse",2
+"Batf3 [mouse] basic leucine zipper transcription factor, ATF-like 3","mouse",2
+"Dppa5a [mouse] developmental pluripotency associated 5A","mouse",2
+"Dmrt1 [mouse] doublesex and mab-3 related transcription factor 1","mouse",2
+"Sall1 [mouse] spalt like transcription factor 1","mouse",2
+"Mir29a [mouse] microRNA 29a","mouse",2
+"Mir34a [mouse] microRNA 34a","mouse",2
+"Cdkn1b [mouse] cyclin-dependent kinase inhibitor 1B","mouse",2
+"Stmn1 [mouse] stathmin 1","mouse",2
+"Gtf2ird1 [mouse] general transcription factor II I repeat domain-containing 1","mouse",2
+"Prph2 [mouse] peripherin 2","mouse",2
+"IKBKE [human] inhibitor of nuclear factor kappa B kinase subunit epsilon","human",2
+"KLF5 [human] Kruppel-like factor 5 (intestinal)","human",2
+"Keap1 [mouse] kelch-like ECH-associated protein 1","mouse",2
+"Tlr5 [mouse] toll-like receptor 5","mouse",2
+"Hnf4a [mouse] hepatic nuclear factor 4, alpha","mouse",2
+"BIRC6 [human] baculoviral IAP repeat containing 6","human",2
+"RARA [human] retinoic acid receptor, alpha","mouse",2
+"TFEB [human] transcription factor EB","mouse",2
+"Id2 [mouse] inhibitor of DNA binding 2","mouse",2
+"Gpnmb [mouse] glycoprotein (transmembrane) nmb","mouse",2
+"CDK8 [human] cyclin-dependent kinase 8","human",2
+"Apob [mouse] apolipoprotein B","mouse",2
+"CDT1 [human] chromatin licensing and DNA replication factor 1","human",2
+"DUSP1 [human] dual specificity phosphatase 1","human",2
+"Nr1i3 [mouse] nuclear receptor subfamily 1, group I, member 3","mouse",2
+"Picalm [mouse] phosphatidylinositol binding clathrin assembly protein","mouse",2
+"Ido1 [mouse] indoleamine 2,3-dioxygenase 1","mouse",2
+"Ptpn1 [mouse] protein tyrosine phosphatase, non-receptor type 1","mouse",2
+"Hoxd10 [mouse] homeobox D10","mouse",2
+"Hoxd9 [mouse] homeobox D9","mouse",2
+"Rarg [mouse] retinoic acid receptor, gamma","mouse",2
+"Ctgf [mouse] connective tissue growth factor","mouse",2
+"Tlr3 [mouse] toll-like receptor 3","mouse",2
+"TTF1 [human] transcription termination factor, RNA polymerase I","human",2
+"Etv6 [mouse] ets variant 6","mouse",2
+"Hbegf [mouse] heparin-binding EGF-like growth factor","mouse",2
+"Ticam1 [mouse] toll-like receptor adaptor molecule 1","mouse",2
+"miRNA","mouse",2
+"Erbb2 [rat] v-erb-b2 avian erythroblastic leukemia viral oncogene 2","mouse",2
+"NFX1 [human] nuclear transcription factor, X-box binding 1","human",2
+"Eif2ak4 [mouse] eukaryotic translation initiation factor 2 alpha kinase 4","mouse",2
+"Cstb [mouse] cystatin B","mouse",2
+"RORA [human] RAR-related orphan receptor A","human",2
+"E2F4 [human] E2F transcription factor 4","human",2
+"E2F6 [human] E2F transcription factor 6","human",2
+"GTF2B [human] general transcription factor IIB","human",2
+"IRF7 [human] interferon regulatory factor 7","human",2
+"NFE2L1 [human] nuclear factor, erythroid 2 like 1","human",2
+"POU2F1 [human] POU class 2 homeobox 1","human",2
+"RXRA [human] retinoid X receptor alpha","human",2
+"SP3 [human] Sp3 transcription factor","human",2
+"STAT2 [human] signal transducer and activator of transcription 2","human",2
+"TFDP1 [human] transcription factor Dp-1","human",2
+"TFDP2 [human] transcription factor Dp-2","human",2
+"YY1 [human] YY1 transcription factor","human",2
+"Timp1 [mouse] tissue inhibitor of metalloproteinase 1","mouse",2
+"Tshz1 [mouse] teashirt zinc finger family member 1","mouse",2
+"Bcl2l11 [mouse] BCL2-like 11 (apoptosis facilitator)","mouse",2
+"Dlx5 [mouse] distal-less homeobox 5","mouse",2
+"CDK5 [human] cyclin dependent kinase 5","human",2
+"Gt(ROSA)26Sor [mouse] gene trap ROSA 26, Philippe Soriano","mouse",2
+"Alk [mouse] anaplastic lymphoma kinase","mouse",2
+"Egr2 [mouse] early growth response 2","mouse",2
+"CDH2 [human] cadherin 2","human",2
+"RRM1 [human] ribonucleotide reductase catalytic subunit M1","human",2
+"SMARCA4 [human] SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4","human",2
+"Stra8 [mouse] stimulated by retinoic acid gene 8","mouse",2
+"NF2 [human] neurofibromin 2 (merlin)","human",2
+"E2F7 [human] E2F transcription factor 7","human",2
+"Fezf1 [mouse] Fez family zinc finger 1","mouse",2
+"Tyrobp [mouse] TYRO protein tyrosine kinase binding protein","mouse",2
+"Notch3 [mouse] notch 3","mouse",2
+"S100a10 [mouse] S100 calcium binding protein A10 (calpactin)","mouse",2
+"Kmt2b [mouse] lysine (K)-specific methyltransferase 2B","mouse",2
+"Rbfox2 [mouse] RNA binding protein, fox-1 homolog (C. elegans) 2","mouse",2
+"FOXF1 [human] forkhead box F1","human",2
+"GATA1 [human] GATA binding protein 1","human",2
+"HHEX [human] hematopoietically expressed homeobox","human",2
+"CBFB [human] core-binding factor beta subunit","human",2
+"Trp53cor1 [mouse] tumor protein p53 pathway corepressor 1","mouse",2
+"KDM6B [human] lysine (K)-specific demethylase 6B","human",2
+"Kdm6a [mouse] lysine (K)-specific demethylase 6A","mouse",2
+"Gfra1 [mouse] glial cell line derived neurotrophic factor family receptor alpha 1","mouse",2
+"Neurog2 [mouse] neurogenin 2","human",2
+"Neurog1 [mouse] neurogenin 1","human",2
+"Mir155 [mouse] microRNA 155","mouse",2
+"Smarcd3 [mouse] SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3","mouse",2
+"Eif2a [mouse] eukaryotic translation initiation factor 2A","mouse",2
+"Ngf [mouse] nerve growth factor","mouse",2
+"GLI1 [human] GLI family zinc finger 1","human",2
+"NFYA [human] nuclear transcription factor Y, alpha","human",2
+"POLR2D [human] polymerase (RNA) II (DNA directed) polypeptide D","human",2
+"PSMD13 [human] proteasome (prosome, macropain) 26S subunit, non-ATPase, 13","human",2
+"CDK10 [human] cyclin-dependent kinase 10","human",2
+"TOX4 [human] TOX high mobility group box family member 4","human",2
+"Mef2d [rat] myocyte enhancer factor 2D","rat",2
+"Mef2d [mouse] myocyte enhancer factor 2D","mouse",2
+"Kcnip3 [mouse] Kv channel interacting protein 3, calsenilin","mouse",2
+"Pink1 [mouse] PTEN induced putative kinase 1","mouse",2
+"Lrrk2 [mouse] leucine-rich repeat kinase 2","mouse",2
+"Dusp1 [mouse] dual specificity phosphatase 1","mouse",2
+"CDKN1C [human] cyclin-dependent kinase inhibitor 1C (p57, Kip2)","human",2
+"KDR [human] kinase insert domain receptor","human",2
+"NR2E1 [human] nuclear receptor subfamily 2, group E, member 1","human",2
+"PLK1 [human] polo-like kinase 1","human",2
+"Foxp1 [mouse] forkhead box P1","human",2
+"GRHL1 [human] grainyhead-like 1 (Drosophila)","human",2
+"KDM4B [human] lysine (K)-specific demethylase 4B","human",2
+"CYP19A1 [human] cytochrome P450, family 19, subfamily A, polypeptide 1","mouse",2
+"Insr [mouse] insulin receptor","mouse",2
+"Itgax [mouse] integrin alpha X","mouse",2
+"Flt3 [mouse] FMS-like tyrosine kinase 3","mouse",2
+"Ucp1 [mouse] uncoupling protein 1 (mitochondrial, proton carrier)","mouse",2
+"Dnajc2 [mouse] DnaJ heat shock protein family (Hsp40) member C2","mouse",2
+"Ccl2 [mouse] chemokine (C-C motif) ligand 2","mouse",2
+"anti-CD3","mouse",2
+"Rho [mouse] rhodopsin","mouse",2
+"Tnc [mouse] tenascin C","mouse",2
+"Prmt1 [mouse] protein arginine N-methyltransferase 1","mouse",2
+"Tlr9 [mouse] toll-like receptor 9","mouse",2
+"Meg3 [mouse] maternally expressed 3","mouse",2
+"Pdgfra [mouse] platelet derived growth factor receptor, alpha polypeptide","mouse",2
+"Abca4 [mouse] ATP-binding cassette, sub-family A (ABC1), member 4","mouse",2
+"HIF1A [human] hypoxia inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)","mouse",2
+"Il4 [mouse] interleukin 4","mouse",2
+"Med23 [mouse] mediator complex subunit 23","mouse",2
+"ADAR [human] adenosine deaminase, RNA specific","human",2
+"DROSHA [human] drosha ribonuclease III","human",2
+"Fut4 [mouse] fucosyltransferase 4","mouse",2
+"Hnrnpk [mouse] heterogeneous nuclear ribonucleoprotein K","mouse",2
+"Dlx3 [mouse] distal-less homeobox 3","mouse",2
+"CDK9 [human] cyclin dependent kinase 9","human",2
+"Nek7 [mouse] NIMA (never in mitosis gene a)-related expressed kinase 7","mouse",2
+"Cd3e [mouse] CD3 antigen, epsilon polypeptide","mouse",2
+"Ighm [mouse] immunoglobulin heavy constant mu","mouse",2
+"Tfrc [mouse] transferrin receptor","mouse",2
+"Prkce [mouse] protein kinase C, epsilon","mouse",2
+"Bach1 [mouse] BTB and CNC homology 1, basic leucine zipper transcription factor 1","mouse",2
+"Bach2 [mouse] BTB and CNC homology, basic leucine zipper transcription factor 2","mouse",2
+"Csf1r [mouse] colony stimulating factor 1 receptor","mouse",2
+"Adrb2 [mouse] adrenergic receptor, beta 2","mouse",2
+"Ar [mouse] androgen receptor","mouse",2
+"SOX10 [human] SRY-box 10","human",2
+"Rela [mouse] v-rel reticuloendotheliosis viral oncogene homolog A (avian)","mouse",2
+"Hmga2 [mouse] high mobility group AT-hook 2","mouse",2
+"Pdgfrb [mouse] platelet derived growth factor receptor, beta polypeptide","mouse",2
+"L1CAM [human] L1 cell adhesion molecule","human",2
+"YAP1 [human] Yes-associated protein 1, 65kDa","mouse",2
+"ARNT [human] aryl hydrocarbon receptor nuclear translocator","human",2
+"FUS [human] FUS RNA binding protein","mouse",2
+"PSEN1 [human] presenilin 1","human",2
+"Nr2e1 [mouse] nuclear receptor subfamily 2, group E, member 1","mouse",2
+"FGFR1 [human] fibroblast growth factor receptor 1","human",2
+"Gla [mouse] galactosidase, alpha","mouse",2
+"TREM2 [human] triggering receptor expressed on myeloid cells 2","mouse",2
+"Nfix [mouse] nuclear factor I/X","mouse",2
+"APP (KM670/671NL), PSEN1 (L166P)","mouse",2
+"Emx2 [mouse] empty spiracles homeobox 2","mouse",2
+"Hcrt [mouse] hypocretin","mouse",2
+"SOD1 [human] superoxide dismutase 1, soluble","rat",2
+"Gmnn [mouse] geminin","mouse",2
+"Nrros [mouse] negative regulator of reactive oxygen species","mouse",2
+"Sp8 [mouse] trans-acting transcription factor 8","mouse",2
+"Qk [mouse] quaking","mouse",2
+"Phf8 [mouse] PHD finger protein 8","mouse",2
+"CHD7 [human] chromodomain helicase DNA binding protein 7","human",2
+"Lrp5 [mouse] low density lipoprotein receptor-related protein 5","mouse",2
+"Ndp [mouse] Norrie disease (pseudoglioma) (human)","mouse",2
+"Cacna1h [mouse] calcium channel, voltage-dependent, T type, alpha 1H subunit","mouse",2
+"Sox3 [mouse] SRY (sex determining region Y)-box 3","mouse",2
+"Edn2 [mouse] endothelin 2","mouse",2
+"Sumo1 [mouse] small ubiquitin-like modifier 1","mouse",2
+"Nf1 [mouse] neurofibromin 1","mouse",2
+"Epha4 [mouse] Eph receptor A4","mouse",2
+"Nkx2-2 [mouse] NK2 homeobox 2","mouse",2
+"Myrf [mouse] myelin regulatory factor","mouse",2
+"St18 [mouse] suppression of tumorigenicity 18","mouse",2
+"Bcl11a [mouse] B cell CLL/lymphoma 11A (zinc finger protein)","mouse",2
+"NEUROG2 [human] neurogenin 2","human",2
+"Mir17hg [mouse] Mir17 host gene (non-protein coding)","mouse",2
+"Fasn [mouse] fatty acid synthase","mouse",2
+"Gnb5 [mouse] guanine nucleotide binding protein (G protein), beta 5","mouse",2
+"Klf6 [mouse] Kruppel-like factor 6","mouse",2
+"Ptbp2 [mouse] polypyrimidine tract binding protein 2","mouse",2
+"Usp18 [mouse] ubiquitin specific peptidase 18","mouse",2
+"Nkx6-1 [mouse] NK6 homeobox 1","mouse",2
+"Nova1 [mouse] neuro-oncological ventral antigen 1","mouse",2
+"Rbfox3 [mouse] RNA binding protein, fox-1 homolog (C. elegans) 3","mouse",2
+"Cd33 [mouse] CD33 antigen","mouse",2
+"Vip [mouse] vasoactive intestinal polypeptide","mouse",2
+"Khdrbs3 [mouse] KH domain containing, RNA binding, signal transduction associated 3","mouse",2
+"Plp1 [mouse] proteolipid protein (myelin) 1","mouse",2
+"Tfdp1 [mouse] transcription factor Dp 1","mouse",2
+"Mafb [mouse] v-maf musculoaponeurotic fibrosarcoma oncogene family, protein B (avian)","mouse",2
+"Sox11 [mouse] SRY (sex determining region Y)-box 11","mouse",2
+"Hoxa2 [mouse] homeobox A2","mouse",2
+"Kdm4a [mouse] lysine (K)-specific demethylase 4A","mouse",2
+"Cpeb1 [mouse] cytoplasmic polyadenylation element binding protein 1","mouse",2
+"Gsk3a [mouse] glycogen synthase kinase 3 alpha","mouse",2
+"Idh1 [mouse] isocitrate dehydrogenase 1 (NADP+), soluble","mouse",2
+"Usf1 [mouse] upstream transcription factor 1","mouse",2
+"Acss2 [mouse] acyl-CoA synthetase short-chain family member 2","mouse",2
+"Sp1 [mouse] trans-acting transcription factor 1","mouse",2
+"Uhrf1 [mouse] ubiquitin-like, containing PHD and RING finger domains, 1","mouse",2
+"Sema3a [mouse] sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3A","mouse",2
+"FUS [human] FUS RNA binding protein","human",2
+"TARDBP [human] TAR DNA binding protein","human",2
+"1700020I14Rik [mouse] RIKEN cDNA 1700020I14 gene","mouse",2
+"Tet2 [mouse] tet methylcytosine dioxygenase 2","mouse",2
+"Mettl14 [mouse] methyltransferase like 14","mouse",2
+"Nr1d1 [mouse] nuclear receptor subfamily 1, group D, member 1","mouse",2
+"Foxl2 [mouse] forkhead box L2","mouse",2
+"Onecut1 [mouse] one cut domain, family member 1","mouse",2
+"HNF4A [human] hepatocyte nuclear factor 4 alpha","human",2
+"RARA [human] retinoic acid receptor, alpha","human",2
+"PIN1 [human] peptidylprolyl cis/trans isomerase, NIMA-interacting 1","human",2
+"ELK1 [human] ELK1, ETS transcription factor","human",2
+"GRHL3 [human] grainyhead like transcription factor 3","human",2
+"IRF1 [human] interferon regulatory factor 1","human",2
+"PIAS3 [human] protein inhibitor of activated STAT 3","human",2
+"GATA6 [human] GATA binding protein 6","human",2
+"MAF [human] MAF bZIP transcription factor","human",2
+"NR5A2 [human] nuclear receptor subfamily 5 group A member 2","human",2
+"MBD2 [human] methyl-CpG binding domain protein 2","human",2
+"RUNX1T1 [human] runt-related transcription factor 1 translocated to, 1 (cyclin D-related)","human",2
+"Pax7 [mouse] paired box 7","mouse",2
+"Gadd45a [mouse] growth arrest and DNA-damage-inducible 45 alpha","mouse",2
+"mutation","rat",2
+"Gsk3b [mouse] glycogen synthase kinase 3 beta","mouse",2
+"Esx1 [mouse] extraembryonic, spermatogenesis, homeobox 1","mouse",2
+"Ascl2 [mouse] achaete-scute family bHLH transcription factor 2","mouse",2
+"T [mouse] brachyury, T-box transcription factor T","mouse",2
+"GABPA [human] GA binding protein transcription factor subunit alpha","human",2
+"JUNB [human] JunB proto-oncogene, AP-1 transcription factor subunit","human",2
+"MSX1 [human] msh homeobox 1","human",2
+"RARG [human] retinoic acid receptor gamma","human",2
+"SIX3 [human] SIX homeobox 3","human",2
+"FOSL1 [human] FOS like 1, AP-1 transcription factor subunit","human",2
+"RUNX2 [human] runt related transcription factor 2","human",2
+"Atoh8 [mouse] atonal bHLH transcription factor 8","mouse",2
+"Atxn3 [mouse] ataxin 3","mouse",2
+"Slc17a6 [mouse] solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 6","mouse",2
+"Setd5 [mouse] SET domain containing 5","mouse",2
+"Mfi2 [mouse] antigen p97 (melanoma associated) identified by monoclonal antibodies 133.2 and 96.5","mouse",1
+"Aldh5a1 [mouse] aldhehyde dehydrogenase family 5, subfamily A1","mouse",1
+"Hipk2 [mouse] homeodomain interacting protein kinase 2","mouse",1
+"Chromosome X","mouse",1
+"NF1 [human] neurofibromin 1","mouse",1
+"PDGFA [human] platelet derived growth factor subunit A","human",1
+"Ccl20 [mouse] chemokine (C-C motif) ligand 20","mouse",1
+"Eif2s1 [mouse] eukaryotic translation initiation factor 2, subunit 1 alpha","mouse",1
+"Cdk4 [mouse] cyclin-dependent kinase 4","mouse",1
+"DACH1 [human] dachshund family transcription factor 1","human",1
+"H2 [mouse] histocompatibility-2, MHC","mouse",1
+"H2-T18 [mouse] histocompatibility 2, T region locus 18","mouse",1
+"Bcl2 [mouse] B cell leukemia/lymphoma 2","mouse",1
+"Rp1 [mouse] retinitis pigmentosa 1 (human)","mouse",1
+"ACHE [human] acetylcholinesterase (Yt blood group)","mouse",1
+"trisomy 8","human",1
+"Brn3a mutant","mouse",1
+"Ppp3ca [rat] protein phosphatase 3 catalytic subunit alpha","rat",1
+"Gjd2 [mouse] gap junction protein, delta 2","mouse",1
+"Klf7 [mouse] Kruppel-like factor 7 (ubiquitous)","mouse",1
+"CCAT","mouse",1
+"inbred long-sleep, inbred short-sleep","mouse",1
+"Cacna1a [mouse] calcium channel, voltage-dependent, P/Q type, alpha 1A subunit","mouse",1
+"Cacng2 [mouse] calcium channel, voltage-dependent, gamma subunit 2","mouse",1
+"Crybb2 [mouse] crystallin, beta B2","mouse",1
+"Glrb [mouse] glycine receptor, beta subunit","mouse",1
+"Msr1 [mouse] macrophage scavenger receptor 1","mouse",1
+"COX1 [mouse] cytochrome c oxidase subunit I","mouse",1
+"COX2 [mouse] cytochrome c oxidase subunit II","mouse",1
+"S1pr3 [mouse] sphingosine-1-phosphate receptor 3","mouse",1
+"S1pr2 [mouse] sphingosine-1-phosphate receptor 2","mouse",1
+"Ptdsr mutant","mouse",1
+"Nmyc2 [mouse] neuroblastoma myc-related oncogene 2","mouse",1
+"Gast [mouse] gastrin","mouse",1
+"CDH1 [human] cadherin 1, type 1, E-cadherin (epithelial)","mouse",1
+"Pou4f1 [mouse] POU domain, class 4, transcription factor 1","mouse",1
+"PCGF2 [human] polycomb group ring finger 2","human",1
+"Cnr1 [mouse] cannabinoid receptor 1 (brain)","mouse",1
+"Cnr2 [mouse] cannabinoid receptor 2 (macrophage)","mouse",1
+"ORMDL3 [human] ORM1-like 3 (S. cerevisiae)","human",1
+"apoE-deficient F2","mouse",1
+"transgene","mouse",1
+"Odc1 [mouse] ornithine decarboxylase, structural 1","mouse",1
+"constitutively active","mouse",1
+"Rasgrf1 [mouse] RAS protein-specific guanine nucleotide-releasing factor 1","mouse",1
+"Folr2 [mouse] folate receptor 2 (fetal)","mouse",1
+"Cckbr [mouse] cholecystokinin B receptor","mouse",1
+"Chrdl2 [mouse] chordin-like 2","mouse",1
+"MFI2 [human] antigen p97 (melanoma associated) identified by monoclonal antibodies 133.2 and 96.5","human",1
+"Arvcf [mouse] armadillo repeat gene deleted in velo-cardio-facial syndrome","mouse",1
+"Cdc45 [mouse] cell division cycle 45","mouse",1
+"Comt [mouse] catechol-O-methyltransferase","mouse",1
+"Dgcr6 [mouse] DiGeorge syndrome critical region gene 6","mouse",1
+"Dgcr2 [mouse] DiGeorge syndrome critical region gene 2","mouse",1
+"Slc25a1 [mouse] solute carrier family 25 (mitochondrial carrier, citrate transporter), member 1","mouse",1
+"Gnb1l [mouse] guanine nucleotide binding protein (G protein), beta polypeptide 1-like","mouse",1
+"Gp1bb [mouse] glycoprotein Ib, beta polypeptide","mouse",1
+"Hira [mouse] histone cell cycle regulation defective homolog A (S. cerevisiae)","mouse",1
+"Trmt2a [mouse] TRM2 tRNA methyltransferase 2A","mouse",1
+"Mrpl40 [mouse] mitochondrial ribosomal protein L40","mouse",1
+"Sept5 [mouse] septin 5","mouse",1
+"Prodh [mouse] proline dehydrogenase","mouse",1
+"Ranbp1 [mouse] RAN binding protein 1","mouse",1
+"Gsc2 [mouse] goosecoid homebox 2","mouse",1
+"Tssk1 [mouse] testis-specific serine kinase 1","mouse",1
+"Tssk2 [mouse] testis-specific serine kinase 2","mouse",1
+"Ufd1l [mouse] ubiquitin fusion degradation 1 like","mouse",1
+"Vpreb2 [mouse] pre-B lymphocyte gene 2","mouse",1
+"Txnrd2 [mouse] thioredoxin reductase 2","mouse",1
+"Zdhhc8 [mouse] zinc finger, DHHC domain containing 8","mouse",1
+"Tango2 [mouse] transport and golgi organization 2","mouse",1
+"Dgcr14 [mouse] DiGeorge syndrome critical region gene 14","mouse",1
+"Tbx1 [rat] T-box 1","mouse",1
+"Phgdh [mouse] 3-phosphoglycerate dehydrogenase","mouse",1
+"Irf1 [mouse] interferon regulatory factor 1","mouse",1
+"R270H/R270H mutation","mouse",1
+"Transgenic mouse strain","mouse",1
+"Adam10 [mouse] a disintegrin and metallopeptidase domain 10","mouse",1
+"POU2AF1 [human] POU class 2 associating factor 1","mouse",1
+"HDAC8 [human] histone deacetylase 8","human",1
+"Ccna2 [mouse] cyclin A2","mouse",1
+"NMuMG cell","mouse",1
+"Mir140 [mouse] microRNA 140","mouse",1
+"Rnasel [mouse] ribonuclease L (2', 5'-oligoisoadenylate synthetase-dependent)","mouse",1
+"I-ag7 [mouse] MHC class II molecule I-Ag7","mouse",1
+"Mir122 [mouse] microRNA 122","mouse",1
+"XIAP [human] X-linked inhibitor of apoptosis","human",1
+"Aqp11 [mouse] aquaporin 11","mouse",1
+"Rsl1 [mouse] regulator of sex limited protein 1","mouse",1
+"Zfp429 [mouse] zinc finger protein 429","mouse",1
+"Camk4 [mouse] calcium/calmodulin-dependent protein kinase IV","mouse",1
+"Mpg [mouse] N-methylpurine-DNA glycosylase","mouse",1
+"ATXN7 [human] ataxin 7","mouse",1
+"Mylk3 [mouse] myosin light chain kinase 3","mouse",1
+"B4galnt2 [mouse] beta-1,4-N-acetyl-galactosaminyl transferase 2","mouse",1
+"Luteinizing hormone","mouse",1
+"C3 [mouse] complement component 3","mouse",1
+"SSFA2 [human] sperm specific antigen 2","human",1
+"MIR7-1 [human] microRNA 7-1","human",1
+"SDHAF2 [human] succinate dehydrogenase complex assembly factor 2","human",1
+"Chromosome 1","mouse",1
+"Chromosome 13","mouse",1
+"Chromosome 19","mouse",1
+"ADRB2 [human] adrenoceptor beta 2","mouse",1
+"Cdh23 [mouse] cadherin 23 (otocadherin)","mouse",1
+"Immunoglobulin","mouse",1
+"LRP5 [human] low density lipoprotein receptor-related protein 5","human",1
+"Lpar1 [mouse] lysophosphatidic acid receptor 1","mouse",1
+"Enpp2 [mouse] ectonucleotide pyrophosphatase/phosphodiesterase 2","mouse",1
+"Lpar2 [mouse] lysophosphatidic acid receptor 2","mouse",1
+"Lpar3 [mouse] lysophosphatidic acid receptor 3","mouse",1
+"IGHV3-23 [human] immunoglobulin heavy variable 3-23","human",1
+"Mst1r [mouse] macrophage stimulating 1 receptor (c-met-related tyrosine kinase)","mouse",1
+"Traf6 [mouse] TNF receptor-associated factor 6","mouse",1
+"Mcf2 [mouse] mcf.2 transforming sequence","mouse",1
+"MYRF [human] myelin regulatory factor","mouse",1
+"NAMPT [human] nicotinamide phosphoribosyltransferase","human",1
+"NMNAT1 [human] nicotinamide nucleotide adenylyltransferase 1","human",1
+"gene knock out","human",1
+"IGF1R [human] insulin like growth factor 1 receptor","mouse",1
+"GAPDH [human] glyceraldehyde-3-phosphate dehydrogenase","human",1
+"SFTPC [human] surfactant protein C","human",1
+"Agr2 [mouse] anterior gradient 2 (Xenopus laevis)","mouse",1
+"Knock-out mouse strain","mouse",1
+"Nog [mouse] noggin","mouse",1
+"Ptgs2 [mouse] prostaglandin-endoperoxide synthase 2","mouse",1
+"Ptges [mouse] prostaglandin E synthase","mouse",1
+"SNCA [human] synuclein, alpha (non A4 component of amyloid precursor)","rat",1
+"Il1rap [mouse] interleukin 1 receptor accessory protein","mouse",1
+"Zfp36l2 [mouse] zinc finger protein 36, C3H type-like 2","mouse",1
+"Hba-a1 [mouse] hemoglobin alpha, adult chain 1","mouse",1
+"Hbb-b1 [mouse] hemoglobin, beta adult major chain","mouse",1
+"NOTCH2 [human] notch 2","human",1
+"Pthlh [mouse] parathyroid hormone-like peptide","mouse",1
+"Gnrh1 [mouse] gonadotropin releasing hormone 1","mouse",1
+"Nhlh2 [mouse] nescient helix loop helix 2","mouse",1
+"Gap43 [mouse] growth associated protein 43","mouse",1
+"anx [mouse] anorexia","mouse",1
+"ND6 [rat] NADH dehydrogenase subunit 6","rat",1
+"Paxip1 [mouse] PAX interacting (with transcription-activation domain) protein 1","mouse",1
+"Prkag3 [mouse] protein kinase, AMP-activated, gamma 3 non-catatlytic subunit","mouse",1
+"Socs1 [mouse] suppressor of cytokine signaling 1","mouse",1
+"Cebpe [mouse] CCAAT/enhancer binding protein (C/EBP), epsilon","mouse",1
+"Cebpd [mouse] CCAAT/enhancer binding protein (C/EBP), delta","mouse",1
+"Ppp1r1a [mouse] protein phosphatase 1, regulatory (inhibitor) subunit 1A","mouse",1
+"Map2k3 [mouse] mitogen-activated protein kinase kinase 3","mouse",1
+"Map2k7 [mouse] mitogen-activated protein kinase kinase 7","mouse",1
+"Pax6 [rat] paired box 6","rat",1
+"beta amyloid","rat",1
+"Srr [mouse] serine racemase","mouse",1
+"Utrn [mouse] utrophin","mouse",1
+"Txnip [mouse] thioredoxin interacting protein","mouse",1
+"Cd80 [mouse] CD80 antigen","mouse",1
+"Por [mouse] P450 (cytochrome) oxidoreductase","mouse",1
+"Pmp22 [mouse] peripheral myelin protein 22","mouse",1
+"Gjb1 [mouse] gap junction protein, beta 1","mouse",1
+"HSPA4 [human] heat shock protein family A (Hsp70) member 4","mouse",1
+"SJL","mouse",1
+"Grk2 [mouse] G protein-coupled receptor kinase 2","mouse",1
+"Bnc1 [mouse] basonuclin 1","mouse",1
+"IRAK4 [human] interleukin 1 receptor associated kinase 4","human",1
+"Naglu [mouse] alpha-N-acetylglucosaminidase (Sanfilippo disease IIIB)","mouse",1
+"Foxp2 [mouse] forkhead box P2","mouse",1
+"FOXP2 [human] forkhead box P2","mouse",1
+"BDNF [human] brain-derived neurotrophic factor","rat",1
+"Fshr [mouse] follicle stimulating hormone receptor","mouse",1
+"Fhl2 [mouse] four and a half LIM domains 2","mouse",1
+"chromosomal_duplication","mouse",1
+"chromosomal_translocation","mouse",1
+"Agtr2 [mouse] angiotensin II receptor, type 2","mouse",1
+"L1cam [mouse] L1 cell adhesion molecule","mouse",1
+"Pcdh12 [mouse] protocadherin 12","mouse",1
+"Lama2 [mouse] laminin, alpha 2","mouse",1
+"MAML3 [human] mastermind-like 3 (Drosophila)","human",1
+"NKD2 [human] naked cuticle homolog 2 (Drosophila)","human",1
+"Omp [mouse] olfactory marker protein","mouse",1
+"Itga2b [mouse] integrin alpha 2b","mouse",1
+"MYOCD [human] myocardin","human",1
+"Dstn [mouse] destrin","mouse",1
+"Cd1 [mouse] CD1 antigen complex","mouse",1
+"Cd37 [mouse] CD37 antigen","mouse",1
+"Cd48 [mouse] CD48 antigen","mouse",1
+"Cd9 [mouse] CD9 antigen","mouse",1
+"Dpp4 [mouse] dipeptidylpeptidase 4","mouse",1
+"ALG6 [human] ALG6, alpha-1,3-glucosyltransferase","human",1
+"ALG12 [human] ALG12, alpha-1,6-mannosyltransferase","human",1
+"DPM1 [human] dolichyl-phosphate mannosyltransferase subunit 1, catalytic","human",1
+"Ddx55 [mouse] DEAD (Asp-Glu-Ala-Asp) box polypeptide 55","mouse",1
+"AGTR1 [human] angiotensin II receptor, type 1","mouse",1
+"Bmpr2 [mouse] bone morphogenic protein receptor, type II (serine/threonine kinase)","mouse",1
+"U0126","mouse",1
+"Smad2 [mouse] MAD homolog 2 (Drosophila)","mouse",1
+"IFH1 [yeast] Ifh1p","yeast",1
+"PMI40 [yeast] mannose-6-phosphate isomerase PMI40","yeast",1
+"Sh3kbp1 [mouse] SH3-domain kinase binding protein 1","mouse",1
+"nck2","zebrafish",1
+"nck2a [zebrafish] NCK adaptor protein 2a","zebrafish",1
+"Mapk12 [mouse] mitogen-activated protein kinase 12","mouse",1
+"Nxnl1 [mouse] nucleoredoxin-like 1","mouse",1
+"Cyp26a1 [mouse] cytochrome P450, family 26, subfamily a, polypeptide 1","mouse",1
+"Plagl2 [mouse] pleiomorphic adenoma gene-like 2","mouse",1
+"progesterone-receptor positive breast cancer","human",1
+"Pde3b [mouse] phosphodiesterase 3B, cGMP-inhibited","mouse",1
+"Iddm2 [rat] Insulin dependent diabetes mellitus QTL 2","rat",1
+"Tnr [mouse] tenascin R","mouse",1
+"Lhcgr [mouse] luteinizing hormone/choriogonadotropin receptor","mouse",1
+"Chrna9 [mouse] cholinergic receptor, nicotinic, alpha polypeptide 9","mouse",1
+"CHMP2B [human] chromatin modifying protein 2B","human",1
+"Raly [mouse] hnRNP-associated with lethal yellow","mouse",1
+"PARK7 [human] Parkinson disease (autosomal recessive, early onset) 7","human",1
+"Kcnj8 [mouse] potassium inwardly-rectifying channel, subfamily J, member 8","mouse",1
+"Zfpm2 [mouse] zinc finger protein, multitype 2","mouse",1
+"Mapk3 [mouse] mitogen-activated protein kinase 3","mouse",1
+"Jmjd6 [mouse] jumonji domain containing 6","mouse",1
+"GCN2 [yeast] Gcn2p","yeast",1
+"GLN3 [yeast] Gln3p","yeast",1
+"nmd2::HIS3","yeast",1
+"GAL-NMD2","yeast",1
+"gene knock out","yeast",1
+"Ubiquitin","yeast",1
+"DNA Damage","yeast",1
+"sox9b [zebrafish] SRY-box transcription factor 9b","zebrafish",1
+"smarca4 [zebrafish] SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4","zebrafish",1
+"Nfkbib [mouse] nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, beta","mouse",1
+"IGH [human] immunoglobulin heavy locus","mouse",1
+"Human chromosome 13","human",1
+"JAK1 [human] Janus kinase 1","human",1
+"Il18 [mouse] interleukin 18","mouse",1
+"AKT1 [human] v-akt murine thymoma viral oncogene homolog 1","mouse",1
+"Rorb [mouse] RAR-related orphan receptor beta","mouse",1
+"SIX1 [human] SIX homeobox 1","human",1
+"TGFBR2 [human] transforming growth factor beta receptor 2","human",1
+"Myf5 [mouse] myogenic factor 5","mouse",1
+"LDLR [human] low density lipoprotein receptor","human",1
+"Atf1 [mouse] activating transcription factor 1","mouse",1
+"Tsc2 Ek/+","rat",1
+"GSC [human] goosecoid homeobox","human",1
+"ERCC3 [human] excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)","human",1
+"Ghr [mouse] growth hormone receptor","mouse",1
+"Stub1 [mouse] STIP1 homology and U-Box containing protein 1","mouse",1
+"Xpc [mouse] xeroderma pigmentosum, complementation group C","mouse",1
+"CD38-positive naive B cell","human",1
+"CD38-negative naive B cell","human",1
+"Mapk14 [mouse] mitogen-activated protein kinase 14","mouse",1
+"RPS14 [human] ribosomal protein S14","human",1
+"TOR1A [human] torsin family 1, member A (torsin A)","human",1
+"Klrg1 [mouse] killer cell lectin-like receptor subfamily G, member 1","mouse",1
+"TFRC [human] transferrin receptor (p90, CD71)","human",1
+"FH [human] fumarate hydratase","human",1
+"ALOX5AP [human] arachidonate 5-lipoxygenase-activating protein","human",1
+"Ahr [rat] aryl hydrocarbon receptor","rat",1
+"Zbtb7a [mouse] zinc finger and BTB domain containing 7a","mouse",1
+"LMO1 [human] LIM domain only 1","mouse",1
+"LMO2 [human] LIM domain only 2 (rhombotin-like 1)","mouse",1
+"ZBTB7B [human] zinc finger and BTB domain containing 7B","mouse",1
+"Mmp10 [mouse] matrix metallopeptidase 10","mouse",1
+"HIST1H1C [human] histone cluster 1 H1 family member c","human",1
+"HIST1H1D [human] histone cluster 1 H1 family member d","human",1
+"HIST1H1E [human] histone cluster 1 H1 family member e","human",1
+"HIST1H1B [human] histone cluster 1 H1 family member b","human",1
+"HIST1H1A [human] histone cluster 1 H1 family member a","human",1
+"Prkar1a [mouse] protein kinase, cAMP dependent regulatory, type I, alpha","mouse",1
+"Ptgfr [mouse] prostaglandin F receptor","mouse",1
+"SAFB [human] scaffold attachment factor B","human",1
+"SAFB2 [human] scaffold attachment factor B2","human",1
+"BTK [human] Bruton tyrosine kinase","human",1
+"CARD11 [human] caspase recruitment domain family member 11","human",1
+"CD79A [human] CD79a molecule","human",1
+"let-60 [worm] LEThal","worm",1
+"AIN-2","worm",1
+"ain-1 [worm] ALG-1 INteracting protein","worm",1
+"daf-2 [worm] Insulin-like receptor subunit betaProtein kinase domain-containing proteinReceptor protein-tyrosine kinasehypothetical protein","worm",1
+"mex-3 [worm] Muscle EXcess","worm",1
+"pal-1 [worm] Homeobox protein pal-1","worm",1
+"pie-1 [worm] Pharynx and intestine in excess protein 1","worm",1
+"skn-1 [worm] BZIP domain-containing proteinProtein skinhead-1","worm",1
+"glp-4 [worm] Valine--tRNA ligase","worm",1
+"osm-7 [worm] hypothetical protein","worm",1
+"dpy-9 [worm] Col_cuticle_N domain-containing protein","worm",1
+"osm-11 [worm] hypothetical protein","worm",1
+"osm-8 [worm] Osmotic avoidance abnormal protein 8","worm",1
+"dpy-10 [worm] Cuticle collagen dpy-10","worm",1
+"rheb-1 [worm] GTP-binding protein Rheb homolog 1","worm",1
+"tor-1 [worm] Torsin","worm",1
+"spermidine","human",1
+"Tcrb-V5 [mouse] T cell receptor beta, variable 5","mouse",1
+"Tcra-V2 [mouse] T cell receptor alpha, variable 2","mouse",1
+"Nr4a1 [mouse] nuclear receptor subfamily 4, group A, member 1","mouse",1
+"Slc11a2 [rat] solute carrier family 11 (proton-coupled divalent metal ion transporter), member 2","rat",1
+"Fgfr1 [rat] Fibroblast growth factor receptor 1","rat",1
+"HTATIP2 [human] HIV-1 Tat interactive protein 2","human",1
+"Mef2 [fly] Myocyte enhancer factor 2","fly",1
+"MET [human] MET proto-oncogene, receptor tyrosine kinase","human",1
+"deletion","fly",1
+"haplotype","fly",1
+"Notch4 [mouse] notch 4","mouse",1
+"BCL2 [human] B-cell CLL/lymphoma 2","mouse",1
+"NOX1 [human] NADPH oxidase 1","human",1
+"Adcy8 [mouse] adenylate cyclase 8","mouse",1
+"Gabrg2 [mouse] gamma-aminobutyric acid (GABA) A receptor, subunit gamma 2","mouse",1
+"Myh1 [mouse] myosin, heavy polypeptide 1, skeletal muscle, adult","mouse",1
+"Tnfsf8 [mouse] tumor necrosis factor (ligand) superfamily, member 8","mouse",1
+"Emd [mouse] emerin","mouse",1
+"esco2 [zebrafish] establishment of cohesion 1 homolog 2","zebrafish",1
+"Rbf [fly] Retinoblastoma-family protein","fly",1
+"wts [fly] warts","fly",1
+"Cln3 [mouse] ceroid lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)","mouse",1
+"Cln6 [mouse] ceroid-lipofuscinosis, neuronal 6","mouse",1
+"APOD [human] apolipoprotein D","mouse",1
+"tp53 [zebrafish] tumor protein p53","zebrafish",1
+"Gpx1 [mouse] glutathione peroxidase 1","mouse",1
+"Wld [mouse] wallerian degeneration","mouse",1
+"Rpe65 [mouse] retinal pigment epithelium 65","mouse",1
+"balanced reciprocal translocation","human",1
+"NOP56 [human] NOP56 ribonucleoprotein","human",1
+"HMGA1 [human] high mobility group AT-hook 1","human",1
+"TACSTD2 [human] tumor-associated calcium signal transducer 2","human",1
+"RPS2 [human] ribosomal protein S2","human",1
+"RRM2 [human] ribonucleotide reductase M2","human",1
+"Wistar","rat",1
+"Fgfr3 [mouse] fibroblast growth factor receptor 3","mouse",1
+"Fgfr4 [mouse] fibroblast growth factor receptor 4","mouse",1
+"Pdgfb [mouse] platelet derived growth factor, B polypeptide","mouse",1
+"Ptger4 [mouse] prostaglandin E receptor 4 (subtype EP4)","mouse",1
+"Tnfaip6 [mouse] tumor necrosis factor alpha induced protein 6","mouse",1
+"Rrp40 [fly] CG31938 gene product from transcript CG31938-RA","fly",1
+"Csl4 [fly] CG6249 gene product from transcript CG6249-RA","fly",1
+"Ski6 [fly] CG15481 gene product from transcript CG15481-RA","fly",1
+"Rrp4 [fly] CG3931 gene product from transcript CG3931-RA","fly",1
+"Mtr3 [fly] CG8025 gene product from transcript CG8025-RA","fly",1
+"Rrp46 [fly] CG4043 gene product from transcript CG4043-RA","fly",1
+"Rrp6 [fly] CG7292 gene product from transcript CG7292-RB","fly",1
+"Dis3 [fly] CG6413 gene product from transcript CG6413-RA","fly",1
+"PROM1 [human] prominin 1","human",1
+"Mir146 [mouse] microRNA 146","mouse",1
+"NUTM1 [human] NUT midline carcinoma family member 1","human",1
+"Pglyrp1 [mouse] peptidoglycan recognition protein 1","mouse",1
+"Pglyrp3 [mouse] peptidoglycan recognition protein 3","mouse",1
+"Pglyrp4 [mouse] peptidoglycan recognition protein 4","mouse",1
+"Pglyrp2 [mouse] peptidoglycan recognition protein 2","mouse",1
+"transgenic","rat",1
+"Agt [rat] angiotensinogen","rat",1
+"Ren [rat] renin","rat",1
+"Ins2 [mouse] insulin II","mouse",1
+"Myh6 [mouse] myosin, heavy polypeptide 6, cardiac muscle, alpha","mouse",1
+"MLLT3 [human] MLLT3, super elongation complex subunit","human",1
+"MLLT11 [human] MLLT11, transcription factor 7 cofactor","human",1
+"SEPT6 [human] septin 6","human",1
+"MLLT1 [human] myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila) translocated to, 1","human",1
+"AFDN [human] afadin, adherens junction formation factor","human",1
+"MLLT10 [human] MLLT10, histone lysine methyltransferase DOT1L cofactor","human",1
+"ELL [human] elongation factor for RNA polymerase II","human",1
+"Vax2 [mouse] ventral anterior homeobox containing gene 2","mouse",1
+"Ssdp [fly] Sequence-specific single-stranded DNA-binding protein","fly",1
+"Lepr db/db","mouse",1
+"Elk1 [mouse] ELK1, member of ETS oncogene family","mouse",1
+"Chromosome 2","mouse",1
+"Chromosome 11","mouse",1
+"Chromosome 17","mouse",1
+"Socs2 [mouse] suppressor of cytokine signaling 2","mouse",1
+"Ubx [fly] Ultrabithorax","fly",1
+"Tau","mouse",1
+"HES6 [human] hairy and enhancer of split 6 (Drosophila)","human",1
+"Chrnb2 [mouse] cholinergic receptor, nicotinic, beta polypeptide 2 (neuronal)","mouse",1
+"MDC1 [human] mediator of DNA-damage checkpoint 1","human",1
+"Bcl3 [mouse] B-cell leukemia/lymphoma 3","mouse",1
+"Nfkb1 [mouse] nuclear factor of kappa light polypeptide gene enhancer in B-cells 1, p105","mouse",1
+"Induced pluripotent stem cell","mouse",1
+"Rora [mouse] RAR-related orphan receptor alpha","mouse",1
+"Nr1i2 [mouse] nuclear receptor subfamily 1, group I, member 2","mouse",1
+"TBC1D16 [human] TBC1 domain family, member 16","human",1
+"RAB27A [human] RAB27A, member RAS oncogene family","human",1
+"MMTV-PyMT","mouse",1
+"TallyHo/Jng allele","mouse",1
+"Tabw (TallyHo/Jng) Tanidd2 (TallyHo/Jng) Tanidd1 (TallyHo/Jng) Tafat (TallyHo/Jng) Tanidd3 (TallyHo/Jng)","mouse",1
+"Tanidd1 [mouse] TallyHo associated non-insulin dependent diabetes mellitus 1","mouse",1
+"Tanidd2 [mouse] TallyHo associated non-insulin dependent diabetes mellitus 2","mouse",1
+"Tanidd3 [mouse] TallyHo associated non-insulin dependent diabetes mellitus 3","mouse",1
+"Tafat [mouse] TallyHo associated mesenteric fat pad weight","mouse",1
+"NCOA2 [human] nuclear receptor coactivator 2","mouse",1
+"KAT6A [human] K(lysine) acetyltransferase 6A","mouse",1
+"RUNX1T1 [human] runt-related transcription factor 1 translocated to, 1 (cyclin D-related)","mouse",1
+"transgene","human",1
+"globin","human",1
+"Tnfsf12 [mouse] tumor necrosis factor (ligand) superfamily, member 12","mouse",1
+"NLS-bearing protein import into nucleus","mouse",1
+"Myhc [mouse] myosin heavy chain, cardiac muscle complex","mouse",1
+"Gpm6b [mouse] glycoprotein m6b","human",1
+"Ifngr2 [mouse] interferon gamma receptor 2","mouse",1
+"Gug [fly] Grunge","fly",1
+"Sir2 [fly] CG5216 gene product from transcript CG5216-RA","fly",1
+"APC2 [human] APC2, WNT signaling pathway regulator","human",1
+"1798insD mutation","mouse",1
+"Scn5a [mouse] sodium channel, voltage-gated, type V, alpha","mouse",1
+"Bcmo1 [mouse] beta-carotene 15,15'-monooxygenase","mouse",1
+"Tek [mouse] TEK receptor tyrosine kinase","mouse",1
+"AREG [human] amphiregulin","mouse",1
+"Y chromosome","fly",1
+"recombinationally_rearranged_gene","fly",1
+"copy_number_variation","fly",1
+"Pdss2 [mouse] prenyl (solanesyl) diphosphate synthase, subunit 2","mouse",1
+"SIRT6 [human] sirtuin 6","human",1
+"NUMB [human] NUMB, endocytic adaptor protein","human",1
+"LMP1 [Epstein-Barr virus] latent membrane protein LMP-1","human",1
+"MAML1 [human] mastermind like transcriptional coactivator 1","human",1
+"IGHV3-69-1 [human] immunoglobulin heavy variable 3-69-1 (pseudogene)","human",1
+"Pxt [fly] Peroxinectin-like","fly",1
+"ash-2 [worm] ASH histone methyltransferase complex subunit (Drosophila absent, small or homeotic discs)","worm",1
+"Tert [mouse] telomerase reverse transcriptase","mouse",1
+"neuron","mouse",1
+"Cck [mouse] cholecystokinin","mouse",1
+"Pnoc [mouse] prepronociceptin","mouse",1
+"Cry1 (-/-) Cry2 (-/-)","mouse",1
+"Cry1 [mouse] cryptochrome 1 (photolyase-like)","mouse",1
+"Cry2 [mouse] cryptochrome 2 (photolyase-like)","mouse",1
+"BHLHE40 [human] basic helix-loop-helix family, member e40","human",1
+"Six1 [mouse] sine oculis-related homeobox 1 homolog (Drosophila)","mouse",1
+"aneuploidy","human",1
+"Hic1 [mouse] hypermethylated in cancer 1","mouse",1
+"anti-CD3 anti-CD28","human",1
+"PDCD1 [human] programmed cell death 1","human",1
+"CD3W [human] CD3-TCR complex, omega polypeptide","human",1
+"CD28 [human] CD28 molecule","human",1
+"TLR2 [human] toll like receptor 2","human",1
+"Pabpn1 [mouse] poly(A) binding protein, nuclear 1","mouse",1
+"over-expression","fly",1
+"knock-down","fly",1
+"Hr96 [fly] Hormone receptor-like in 96","fly",1
+"Foxl1 [mouse] forkhead box L1","mouse",1
+"Mdm4 [mouse] transformed mouse 3T3 cell double minute 4","mouse",1
+"RBFOX1 [human] RNA binding fox-1 homolog 1","human",1
+"MLL-AF9","mouse",1
+"SRC [human] SRC proto-oncogene, non-receptor tyrosine kinase","human",1
+"MLH1 [human] mutL homolog 1, colon cancer, nonpolyposis type 2 (E. coli)","human",1
+"recombinant vector","human",1
+"MYBL1 [human] v-myb avian myeloblastosis viral oncogene homolog-like 1","human",1
+"SATB1 [human] SATB homeobox 1","human",1
+"RAB25 [human] RAB25, member RAS oncogene family","human",1
+"MIR24-1 [human] microRNA 24-1","human",1
+"MMP14 [human] matrix metallopeptidase 14 (membrane-inserted)","human",1
+"Decreased expression","human",1
+"Plau [mouse] plasminogen activator, urokinase","mouse",1
+"Vsig4 [mouse] V-set and immunoglobulin domain containing 4","mouse",1
+"Mx1 [mouse] myxovirus (influenza virus) resistance 1","mouse",1
+"BCLAF1 [human] BCL2 associated transcription factor 1","human",1
+"Pex5 [mouse] peroxisomal biogenesis factor 5","mouse",1
+"Indy [fly] I'm not dead yet","fly",1
+"arm [fly] armadillo","fly",1
+"tkv [fly] thickveins","fly",1
+"wg [fly] wingless","fly",1
+"spi [fly] spitz","fly",1
+"Egfr [fly] Epidermal growth factor receptor","fly",1
+"htl [fly] heartless","fly",1
+"lmd [fly] lame duck","fly",1
+"pnt [fly] pointed","fly",1
+"Overexpression","fly",1
+"MnSOD","fly",1
+"Manganese Superoxide Dismutase","fly",1
+"Growth Factor","fly",1
+"os [fly] outstretched","fly",1
+"bgcn [fly] benign gonial cell neoplasm","fly",1
+"Transcription Factor","fly",1
+"Dif [fly] Dorsal-related immunity factor","fly",1
+"dl [fly] dorsal","fly",1
+"Rel [fly] Relish","fly",1
+"U2af50 [fly] U2 small nuclear riboprotein auxiliary factor 50","fly",1
+"S284Y","fly",1
+"slbo [fly] slow border cells","fly",1
+"gene_silenced_by_histone_methylation","fly",1
+"Psc [fly] Posterior sex combs","fly",1
+"Pc [fly] Polycomb","fly",1
+"Sce [fly] Sex combs extra","fly",1
+"diploid","fly",1
+"Dys [fly] Dystrophin","fly",1
+"tko [fly] technical knockout","fly",1
+"loj [fly] logjam","fly",1
+"HNF4 mutant","fly",1
+"UAS-Inr","fly",1
+"ptip [fly] CG32133 gene product from transcript CG32133-RA","fly",1
+"Tis11 [fly] Tis11 homolog","fly",1
+"silenced_gene","fly",1
+"Polycomb","fly",1
+"Vret","fly",1
+"piwi [fly] CG6122 gene product from transcript CG6122-RA","fly",1
+"aub [fly] aubergine","fly",1
+"transgenic organism","fly",1
+"SLC24A5 [human] solute carrier family 24 member 5","human",1
+"Acadm [mouse] acyl-Coenzyme A dehydrogenase, medium chain","mouse",1
+"Bhlha15 [mouse] basic helix-loop-helix family, member a15","mouse",1
+"df [fly] defective","fly",1
+"HNF1B [human] HNF1 homeobox B","human",1
+"Sfrp5 [mouse] secreted frizzled-related sequence protein 5","mouse",1
+"Fgf1 [mouse] fibroblast growth factor 1","mouse",1
+"Fcgr1 [mouse] Fc receptor, IgG, high affinity I","mouse",1
+"Fcgr2b [mouse] Fc receptor, IgG, low affinity IIb","mouse",1
+"MIR372 [human] microRNA 372","human",1
+"MIRLET7A1 [human] microRNA let-7a-1","human",1
+"MIRLET7F1 [human] microRNA let-7f-1","human",1
+"MIR34C [human] microRNA 34c","human",1
+"MIR98 [human] microRNA 98","human",1
+"CD34 [human] CD34 molecule","human",1
+"Slc15a2 [mouse] solute carrier family 15 (H+/peptide transporter), member 2","mouse",1
+"NPM1 [human] nucleophosmin (nucleolar phosphoprotein B23, numatrin)","human",1
+"NTRK1 [human] neurotrophic tyrosine kinase, receptor, type 1","human",1
+"NTRK2 [human] neurotrophic tyrosine kinase, receptor, type 2","human",1
+"C3H/HeJ","mouse",1
+"Gys1 [mouse] glycogen synthase 1, muscle","mouse",1
+"Rps19 [mouse] ribosomal protein S19","mouse",1
+"Rpl11 [mouse] ribosomal protein L11","mouse",1
+"Traf3ip2 [mouse] TRAF3 interacting protein 2","mouse",1
+"Irs3 [mouse] insulin receptor substrate 3","mouse",1
+"Irs4 [mouse] insulin receptor substrate 4","mouse",1
+"Irs2 [mouse] insulin receptor substrate 2","mouse",1
+"GAT1 [yeast] Gat1p","yeast",1
+"MET31 [yeast] Met31p","yeast",1
+"Ptk2 [mouse] PTK2 protein tyrosine kinase 2","mouse",1
+"Tbc1d23 [mouse] TBC1 domain family, member 23","mouse",1
+"Ep400 [mouse] E1A binding protein p400","mouse",1
+"Kat5 [mouse] K(lysine) acetyltransferase 5","mouse",1
+"Ache [mouse] acetylcholinesterase","mouse",1
+"Pbrm1 [mouse] polybromo 1","mouse",1
+"Smad7 [mouse] SMAD family member 7","human",1
+"CCL5 [human] C-C motif chemokine ligand 5","human",1
+"SLC2A3 [human] solute carrier family 2 member 3","human",1
+"TELO2 [human] telomere maintenance 2","human",1
+"GLB1 [human] galactosidase beta 1","human",1
+"VEGFA [human] vascular endothelial growth factor A","human",1
+"chromosome 16p12.2-p11.2 deletion syndrome","mouse",1
+"chromosome 16p11.2 duplication syndrome","mouse",1
+"O3far1 [mouse] omega-3 fatty acid receptor 1","mouse",1
+"Ppard [mouse] peroxisome proliferator activator receptor delta","mouse",1
+"Kdm2b [mouse] lysine (K)-specific demethylase 2B","mouse",1
+"BNA4 [yeast] Bna4p","yeast",1
+"MBF1 [yeast] Mbf1p","yeast",1
+"Dab1 [mouse] disabled homolog 1 (Drosophila)","mouse",1
+"Sod1 [fly] Superoxide dismutase 1","fly",1
+"AFF1 [human] AF4/FMR2 family member 1","mouse",1
+"IFNB1 [human] interferon, beta 1, fibroblast","human",1
+"PRF1 [human] perforin 1 (pore forming protein)","human",1
+"BHLHE41 [human] basic helix-loop-helix family, member e41","human",1
+"transgenic organism","mouse",1
+"Sdc4 [mouse] syndecan 4","mouse",1
+"AR [human] androgen receptor","mouse",1
+"Mmp13 [mouse] matrix metallopeptidase 13","mouse",1
+"ACKR3 [human] atypical chemokine receptor 3","human",1
+"euploid","human",1
+"Neurod6 [rat] neuronal differentiation 6","rat",1
+"MGMT [human] O-6-methylguanine-DNA methyltransferase","human",1
+"CFTR [human] cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)","mouse",1
+"ACSL4 [human] acyl-CoA synthetase long chain family member 4","human",1
+"EZH2","human",1
+"EED [human] embryonic ectoderm development","human",1
+"Syp [mouse] synaptophysin","mouse",1
+"DMPK [human] dystrophia myotonica protein kinase","mouse",1
+"Il22 [mouse] interleukin 22","mouse",1
+"BCKDK [human] branched chain ketoacid dehydrogenase kinase","human",1
+"SMO [human] smoothened, frizzled class receptor","mouse",1
+"GPX1 [human] glutathione peroxidase 1","human",1
+"NOS2 [human] nitric oxide synthase 2","human",1
+"Hoxc5 [mouse] homeobox C5","mouse",1
+"Cln5 [mouse] ceroid-lipofuscinosis, neuronal 5","mouse",1
+"Ncf1 [mouse] neutrophil cytosolic factor 1","mouse",1
+"Tcf7l2 [mouse] transcription factor 7 like 2, T cell specific, HMG box","mouse",1
+"FKBP5 [human] FK506 binding protein 5","human",1
+"Uhmk1 [mouse] U2AF homology motif (UHM) kinase 1","mouse",1
+"Foxo6 [mouse] forkhead box O6","mouse",1
+"Nr1h3 [mouse] nuclear receptor subfamily 1, group H, member 3","mouse",1
+"HSPA1A [human] heat shock 70kDa protein 1A","mouse",1
+"Klinefelter's syndrome","human",1
+"P2rx7 [mouse] purinergic receptor P2X, ligand-gated ion channel, 7","mouse",1
+"Ticam2 [mouse] toll-like receptor adaptor molecule 2","mouse",1
+"Cd1d1 [mouse] CD1d1 antigen","mouse",1
+"Tk2 [mouse] thymidine kinase 2, mitochondrial","mouse",1
+"DINOL [human] damage induced long noncoding RNA","human",1
+"Ddx25 [mouse] DEAD (Asp-Glu-Ala-Asp) box polypeptide 25","mouse",1
+"Hprt [mouse] hypoxanthine guanine phosphoribosyl transferase","mouse",1
+"Overexpression","worm",1
+"unc-4 [worm] Homeobox protein unc-4","worm",1
+"KIF25 [human] kinesin family member 25","human",1
+"Anxa2 [mouse] annexin A2","mouse",1
+"Cecr2 [mouse] cat eye syndrome chromosome region, candidate 2","mouse",1
+"Dst [mouse] dystonin","mouse",1
+"Sgms1 [mouse] sphingomyelin synthase 1","mouse",1
+"SMN2 [human] survival of motor neuron 2, centromeric","human",1
+"Elavl3 [mouse] ELAV (embryonic lethal, abnormal vision, Drosophila)-like 3 (Hu antigen C)","mouse",1
+"FAT1 [human] FAT atypical cadherin 1","human",1
+"Hspa1a [mouse] heat shock protein 1A","mouse",1
+"MIR1-1 [human] microRNA 1-1","human",1
+"MIR155 [human] microRNA 155","human",1
+"FOXP3 [human] forkhead box P3","human",1
+"Pde10a [mouse] phosphodiesterase 10A","mouse",1
+"Pafah1b1 [mouse] platelet-activating factor acetylhydrolase, isoform 1b, subunit 1","mouse",1
+"Ywhae [mouse] tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide","mouse",1
+"Ndel1 [mouse] nuclear distribution gene E-like homolog 1 (A. nidulans)","mouse",1
+"Ntf5 [mouse] neurotrophin 5","mouse",1
+"Dominant negative mutation","fly",1
+"TAF14 [yeast] Taf14p","yeast",1
+"FMS1 [yeast] polyamine oxidase","yeast",1
+"SPE3 [yeast] spermidine synthase","yeast",1
+"HHF1 [yeast] Hhf1p","yeast",1
+"HHT1 [yeast] Hht1p","yeast",1
+"TOR2 [yeast] Tor2p","yeast",1
+"SSL1 [yeast] Ssl1p","yeast",1
+"RAD14 [yeast] Rad14p","yeast",1
+"TPK1 [yeast] Tpk1p","yeast",1
+"YAK1 [yeast] Yak1p","yeast",1
+"TPK3 [yeast] Tpk3p","yeast",1
+"TPK2 [yeast] Tpk2p","yeast",1
+"FAR1 [yeast] Far1p","yeast",1
+"EDC3 [yeast] Edc3p","yeast",1
+"GPA2 [yeast] Gpa2p","yeast",1
+"Fusion Protein Expression","yeast",1
+"CYC8 [yeast] Cyc8p","yeast",1
+"PDR1 [yeast] Pdr1p","yeast",1
+"SIN3 [yeast] Sin3p","yeast",1
+"Pph13","fly",1
+"orthodenticle","fly",1
+"cyc [fly] cycle","fly",1
+"ABF1 [yeast] Abf1p","yeast",1
+"RAP1 [yeast] Rap1p","yeast",1
+"HHT2 [yeast] histone H3","yeast",1
+"HHF2 [yeast] histone H4","yeast",1
+"HTB2 [yeast] Htb2p","yeast",1
+"Unpaired","fly",1
+"Knockdown","fly",1
+"Canton S","fly",1
+"dicer1 [zebrafish] Dicer1, Dcr-1 homolog (Drosophila)","zebrafish",1
+"rad21a [zebrafish] RAD21 homolog (S. pombe) a","zebrafish",1
+"sox19a [zebrafish] SRY-box containing gene 19a","zebrafish",1
+"sox3 [zebrafish] SRY-box containing gene 3","zebrafish",1
+"sox19b [zebrafish] SRY-box containing gene 19b","zebrafish",1
+"tbx16 [zebrafish] T-box gene 16","zebrafish",1
+"hif1ab [zebrafish] hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor) b","zebrafish",1
+"sart3 [zebrafish] squamous cell carcinoma antigen recognised by T cells 3","zebrafish",1
+"pbx4 [zebrafish] pre-B-cell leukemia transcription factor 4","zebrafish",1
+"pbx2 [zebrafish] pre-B-cell leukemia transcription factor 2","zebrafish",1
+"esr2a [zebrafish] estrogen receptor 2a","zebrafish",1
+"mir126a [zebrafish] microRNA 126a","zebrafish",1
+"zfp-1 [worm] Protein ZFP-1","worm",1
+"rde-4 [worm] Protein RDE-4","worm",1
+"alg-1 [worm] Protein ALG-1","worm",1
+"abnormal dosage compensation, by inactivation of X chromosome","worm",1
+"dpy-27 [worm] Protein DPY-27","worm",1
+"her-1 [worm] Protein HER-1","worm",1
+"xol-1 [worm] Protein XOL-1","worm",1
+"sdc-2 [worm] Protein SDC-2","worm",1
+"unc-9 [worm] Protein UNC-9","worm",1
+"growth regulator","worm",1
+"sma-6 [worm] Protein SMA-6","worm",1
+"dbl-1 [worm] Protein DBL-1","worm",1
+"mutation","worm",1
+"fer-1 [worm] Protein FER-1","worm",1
+"gld-1 [worm] Protein GLD-1","worm",1
+"wild type genotype","worm",1
+"recombinationally_rearranged","worm",1
+"N2","worm",1
+"CB4856","worm",1
+"crh-1 [worm] Protein CRH-1","worm",1
+"tax-6 [worm] Protein TAX-6","worm",1
+"aak-2 [worm] Protein AAK-2","worm",1
+"daf-19 [worm] Protein DAF-19","worm",1
+"daf-12 [worm] Protein DAF-12","worm",1
+"jun-1 [worm] Protein JUN-1","worm",1
+"kgb-1 [worm] Protein KGB-1","worm",1
+"recombinant plasmid","worm",1
+"hlh-2 [worm] Protein HLH-2","worm",1
+"hlh-8 [worm] Protein HLH-8","worm",1
+"egl-15 [worm] Protein EGL-15","worm",1
+"nep-1 [worm] Protein NEP-1","worm",1
+"hrg-2 [worm] Protein HRG-2","worm",1
+"hrg-2 [worm] Heme Responsive Gene","worm",1
+"RNA interference","worm",1
+"spg-7 [worm] AFG3-like protein spg-7","worm",1
+"atfs-1 [worm] Protein ATFS-1","worm",1
+"Heterozygous","worm",1
+"hlh-1 [worm] Myoblast determination protein 1 homolog","worm",1
+"gas-1 [worm] Protein GAS-1","worm",1
+"xpa-1 [worm] Protein XPA-1","worm",1
+"IFNL4 [human] interferon, lambda 4 (gene/pseudogene)","human",1
+"Pla2g4a [mouse] phospholipase A2, group IVA (cytosolic, calcium-dependent)","mouse",1
+"PDE1C [human] phosphodiesterase 1C, calmodulin-dependent 70kDa","human",1
+"Sra1 [mouse] steroid receptor RNA activator 1","mouse",1
+"Trnp1 [mouse] TMF1-regulated nuclear protein 1","mouse",1
+"ERG [human] v-ets avian erythroblastosis virus E26 oncogene homolog","mouse",1
+"TMPRSS2 [human] transmembrane protease, serine 2","mouse",1
+"Tbx20 [mouse] T-box 20","mouse",1
+"SMC3 [human] structural maintenance of chromosomes 3","human",1
+"MED12 [human] mediator complex subunit 12","human",1
+"Mbnl1 [mouse] muscleblind-like 1 (Drosophila)","mouse",1
+"OGT [human] O-linked N-acetylglucosamine (GlcNAc) transferase","human",1
+"CCDC86 [human] coiled-coil domain containing 86","human",1
+"Terf2ip [mouse] telomeric repeat binding factor 2, interacting protein","mouse",1
+"Cd44 [mouse] CD44 antigen","mouse",1
+"rde-1 [worm] Protein RDE-1","worm",1
+"LEPR [human] leptin receptor","mouse",1
+"FOXO3 [human] forkhead box O3","mouse",1
+"Txnrd1 [mouse] thioredoxin reductase 1","mouse",1
+"CLN3 [yeast] Cln3p","yeast",1
+"CLN1 [yeast] Cln1p","yeast",1
+"CDC55 [yeast] Cdc55p","yeast",1
+"LMO3 [human] LIM domain only 3 (rhombotin-like 2)","human",1
+"GAST [human] gastrin","mouse",1
+"pafah1b1a [zebrafish] platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit a","zebrafish",1
+"pafah1b1b [zebrafish] platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit b","zebrafish",1
+"nfe2l2b [zebrafish] nuclear factor (erythroid-derived 2)-like 2b","zebrafish",1
+"nfe2l2a [zebrafish] nuclear factor (erythroid-derived 2)-like 2a","zebrafish",1
+"Tnfrsf12a [mouse] tumor necrosis factor receptor superfamily, member 12a","mouse",1
+"mir34 [zebrafish] microRNA 34","zebrafish",1
+"Rrp8 [mouse] ribosomal RNA processing 8, methyltransferase, homolog (yeast)","mouse",1
+"TRA1 [yeast] Tra1p","yeast",1
+"IGHV@ [human] immunoglobulin heavy variable cluster","human",1
+"Il17rc [mouse] interleukin 17 receptor C","mouse",1
+"MIR100 [human] microRNA 100","human",1
+"MIR99A [human] microRNA 99a","human",1
+"N-terminal 121 amino acid truncation mutation","mouse",1
+"Timp2 [mouse] tissue inhibitor of metalloproteinase 2","mouse",1
+"Timp3 [mouse] tissue inhibitor of metalloproteinase 3","mouse",1
+"aneuploidy","mouse",1
+"aneuploid","mouse",1
+"Cnga3 [mouse] cyclic nucleotide gated channel alpha 3","mouse",1
+"Cngb3 [mouse] cyclic nucleotide gated channel beta 3","mouse",1
+"Suv39h1 locus homozygous negative","mouse",1
+"CLB4 [yeast] Clb4p","yeast",1
+"CLB3 [yeast] Clb3p","yeast",1
+"CLB1 [yeast] Clb1p","yeast",1
+"CLB6 [yeast] Clb6p","yeast",1
+"CLB2 [yeast] Clb2p","yeast",1
+"CLB5 [yeast] Clb5p","yeast",1
+"TOD6 [yeast] Tod6p","yeast",1
+"DOT6 [yeast] Dot6p","yeast",1
+"SCH9 [yeast] Sch9p","yeast",1
+"PTC1 [yeast] Ptc1p","yeast",1
+"SLT2 [yeast] Slt2p","yeast",1
+"MSS11 [yeast] Mss11p","yeast",1
+"FLO8 [yeast] Flo8p","yeast",1
+"SWI6 [yeast] Swi6p","yeast",1
+"PNC1 [yeast] nicotinamidase","yeast",1
+"TNA1 [yeast] Tna1p","yeast",1
+"BNA1 [yeast] Bna1p","yeast",1
+"NPT1 [yeast] nicotinate phosphoribosyltransferase","yeast",1
+"NAB2 [yeast] Nab2p","yeast",1
+"CCT6 [yeast] Cct6p","yeast",1
+"TCP1 [yeast] Tcp1p","yeast",1
+"CCT7 [yeast] Cct7p","yeast",1
+"CCT3 [yeast] Cct3p","yeast",1
+"CCT8 [yeast] Cct8p","yeast",1
+"CCT5 [yeast] Cct5p","yeast",1
+"CCT2 [yeast] Cct2p","yeast",1
+"haploid","yeast",1
+"diploid","yeast",1
+"SIP1 [yeast] Sip1p","yeast",1
+"SIP2 [yeast] Sip2p","yeast",1
+"GAL83 [yeast] Gal83p","yeast",1
+"SWR1 [yeast] Swr1p","yeast",1
+"VPS72 [yeast] Vps72p","yeast",1
+"SWC5 [yeast] Swc5p","yeast",1
+"HTZ1 [yeast] Htz1p","yeast",1
+"NUP60 [yeast] Nup60p","yeast",1
+"ADA2 [yeast] Ada2p","yeast",1
+"HFA1 [yeast] acetyl-CoA carboxylase HFA1","yeast",1
+"ACC1 [yeast] acetyl-CoA carboxylase ACC1","yeast",1
+"TOP1 [yeast] DNA topoisomerase 1","yeast",1
+"TOP2 [yeast] DNA topoisomerase 2","yeast",1
+"CDC4 [yeast] SCF ubiquitin ligase complex subunit CDC4","yeast",1
+"CDC53 [yeast] cullin CDC53","yeast",1
+"CDC34 [yeast] SCF E2 ubiquitin-protein ligase catalytic subunit CDC34","yeast",1
+"SKP1 [yeast] Skp1p","yeast",1
+"MET30 [yeast] Met30p","yeast",1
+"Cd47 [mouse] CD47 antigen (Rh-related antigen, integrin-associated signal transducer)","mouse",1
+"Cxcr4 [mouse] chemokine (C-X-C motif) receptor 4","mouse",1
+"Ubi-p63E [fly] Ubiquitin-63E","fly",1
+"sa [fly] spermatocyte arrest","fly",1
+"aly [fly] always early","fly",1
+"Ifnar2 [mouse] interferon (alpha and beta) receptor 2","mouse",1
+"KCNJ5 [human] potassium inwardly-rectifying channel, subfamily J, member 5","human",1
+"ATP1A1 [human] ATPase, Na+/K+ transporting, alpha 1 polypeptide","human",1
+"CACNA1D [human] calcium channel, voltage-dependent, L type, alpha 1D subunit","human",1
+"PTTG1 [human] pituitary tumor-transforming 1","human",1
+"ARF1 [human] ADP-ribosylation factor 1","human",1
+"ovo [fly] CG6824 gene product from transcript CG6824-RE","fly",1
+"Arr2 [fly] Arrestin 2","fly",1
+"Lmo2 [mouse] LIM domain only 2","mouse",1
+"PHO2 [yeast] Pho2p","yeast",1
+"BAS1 [yeast] Bas1p","yeast",1
+"GCR2 [yeast] Gcr2p","yeast",1
+"plasmid","yeast",1
+"SMC2 [yeast] condensin subunit SMC2","yeast",1
+"HTA2 [yeast] Hta2p","yeast",1
+"SNU66 [yeast] Snu66p","yeast",1
+"MEK1 [yeast] Mek1p","yeast",1
+"TOR1 [yeast] Tor1p","yeast",1
+"SUB2 [yeast] Sub2p","yeast",1
+"HPR1 [yeast] Hpr1p","yeast",1
+"THO2 [yeast] Tho2p","yeast",1
+"SOD1 [yeast] Sod1p","yeast",1
+"EPCAM [human] epithelial cell adhesion molecule","human",1
+"GCN5 [yeast] Gcn5p","yeast",1
+"HAC1 [yeast] Hac1p","yeast",1
+"ECO1 [yeast] Eco1p","yeast",1
+"SCC2 [yeast] Scc2p","yeast",1
+"MDS3 [yeast] Mds3p","yeast",1
+"PMA1 [yeast] H(+)-exporting P2-type ATPase PMA1","yeast",1
+"MKT1 [yeast] Mkt1p","yeast",1
+"SWI3 [yeast] Swi3p","yeast",1
+"RLM1 [yeast] Rlm1p","yeast",1
+"EML4 [human] echinoderm microtubule associated protein like 4","human",1
+"Vav2 [mouse] vav 2 oncogene","mouse",1
+"Vav3 [mouse] vav 3 oncogene","mouse",1
+"Tns2 [mouse] tensin 2","mouse",1
+"FOXA2 [human] forkhead box A2","human",1
+"BCAR1 [human] breast cancer anti-estrogen resistance 1","human",1
+"Ppp2cb [mouse] protein phosphatase 2 (formerly 2A), catalytic subunit, beta isoform","mouse",1
+"ARR1 [yeast] Arr1p","yeast",1
+"ERG5 [yeast] C-22 sterol desaturase","yeast",1
+"RAS2 [yeast] Ras2p","yeast",1
+"FLO11 [yeast] Flo11p","yeast",1
+"PDR5 [yeast] ATP-binding cassette multidrug transporter PDR5","yeast",1
+"vehicle","yeast",1
+"BMH2 [yeast] Bmh2p","yeast",1
+"HDA1 [yeast] Hda1p","yeast",1
+"BMH1 [yeast] Bmh1p","yeast",1
+"tM(CAU)C [yeast] tRNA","yeast",1
+"tH(GUG)G1 [yeast] tRNA","yeast",1
+"tL(GAG)G [yeast] tRNA","yeast",1
+"HSX1 [yeast] tRNA","yeast",1
+"tR(UCU)M2 [yeast] tRNA","yeast",1
+"NUT1 [yeast] Nut1p","yeast",1
+"GAL11 [yeast] Gal11p","yeast",1
+"SIN4 [yeast] Sin4p","yeast",1
+"G  glycoprotein [Spring viraemia of carp virus]","zebrafish",1
+"G  glycoprotein [Viral hemorrhagic septicemia virus Fil3]","zebrafish",1
+"Vector","zebrafish",1
+"Prdm4 [mouse] PR domain containing 4","mouse",1
+"Su(var)205 [fly] Suppressor of variegation 205","fly",1
+"Pof [fly] Painting of fourth","fly",1
+"egg [fly] eggless","fly",1
+"Su(var)3-9 [fly] Suppressor of variegation 3-9","fly",1
+"BRCA1P1 [human] BRCA1 pseudogene 1","human",1
+"Aldh1a2 [mouse] aldehyde dehydrogenase family 1, subfamily A2","mouse",1
+"Per2 [mouse] period circadian clock 2","mouse",1
+"Adipoq [mouse] adiponectin, C1Q and collagen domain containing","mouse",1
+"HNRNPA1 [human] heterogeneous nuclear ribonucleoprotein A1","human",1
+"HNRNPM [human] heterogeneous nuclear ribonucleoprotein M","human",1
+"Grm5 [mouse] glutamate receptor, metabotropic 5","mouse",1
+"nr3c1 [zebrafish] nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)","zebrafish",1
+"Hras [rat] HRas proto-oncogene, GTPase","rat",1
+"SRSF2 [human] serine/arginine-rich splicing factor 2","human",1
+"Ifnlr1 [mouse] interferon lambda receptor 1","mouse",1
+"Scarb1 [mouse] scavenger receptor class B, member 1","mouse",1
+"Pdx1 [rat] pancreatic and duodenal homeobox 1","rat",1
+"Glb1 [rat] galactosidase, beta 1","rat",1
+"MSN5 [yeast] Msn5p","yeast",1
+"MTR10 [yeast] Mtr10p","yeast",1
+"VHL [human] von Hippel-Lindau tumor suppressor","mouse",1
+"Zbtb17 [mouse] zinc finger and BTB domain containing 17","mouse",1
+"Gba (-/D409V)","mouse",1
+"nub [fly] nubbin","fly",1
+"SETBP1 [human] SET binding protein 1","human",1
+"KDM4C [human] lysine (K)-specific demethylase 4C","human",1
+"CLDN2 [human] claudin 2","mouse",1
+"Casp1 [mouse] caspase 1","mouse",1
+"AFF2 [human] AF4/FMR2 family, member 2","human",1
+"AFF4 [human] AF4/FMR2 family, member 4","human",1
+"AFF3 [human] AF4/FMR2 family, member 3","human",1
+"TVA overexpression Cdkn2a knockout","mouse",1
+"TVA [quail] subgroup A avian leukosis virus receptor","mouse",1
+"Rictor [mouse] RPTOR independent companion of MTOR, complex 2","mouse",1
+"PRKCDBP [human] protein kinase C, delta binding protein","human",1
+"CYP19A1 [human] cytochrome P450, family 19, subfamily A, polypeptide 1","human",1
+"IPMK [human] inositol polyphosphate multikinase","human",1
+"ZXDC [human] ZXD family zinc finger C","human",1
+"Hmgb1 [mouse] high mobility group box 1","mouse",1
+"HOXA1 [human] homeobox A1","human",1
+"Drosha [mouse] drosha, ribonuclease type III","mouse",1
+"Tmprss6 [mouse] transmembrane serine protease 6","mouse",1
+"LAMC2 [human] laminin, gamma 2","human",1
+"USV1 [yeast] Usv1p","yeast",1
+"Ago4 [mouse] argonaute RISC catalytic subunit 4","mouse",1
+"B6.Cg-Tg(SOD1-G93A)1Gur/J","mouse",1
+"ZAP70 [human] zeta-chain (TCR) associated protein kinase 70kDa","human",1
+"Cirbp [mouse] cold inducible RNA binding protein","mouse",1
+"Rbm3 [mouse] RNA binding motif protein 3","mouse",1
+"Tbx21 [mouse] T-box 21","mouse",1
+"Taf3 [mouse] TAF3 RNA polymerase II, TATA box binding protein (TBP)-associated factor","mouse",1
+"EPAS1 [human] endothelial PAS domain protein 1","mouse",1
+"signal transducer and activator of transcription 5 protein inhibitor","mouse",1
+"basal cell","mouse",1
+"luminal cell of prostate epithelium","mouse",1
+"Mirlet7g [mouse] microRNA let7g","mouse",1
+"utx-1 [worm] Protein UTX-1","worm",1
+"Snca [rat] synuclein, alpha (non A4 component of amyloid precursor)","rat",1
+"Tppp [rat] tubulin polymerization promoting protein","rat",1
+"VTRNA2-1 [human] vault RNA 2-1","human",1
+"mes-4 [worm] Protein MES-4","worm",1
+"trisomy","human",1
+"Human chromosome 10","human",1
+"Human chromosome 4","human",1
+"Nfkb2 [mouse] nuclear factor of kappa light polypeptide gene enhancer in B cells 2, p49/p100","mouse",1
+"Stat2 [mouse] signal transducer and activator of transcription 2","mouse",1
+"Traf1 [mouse] TNF receptor-associated factor 1","mouse",1
+"Nkd2 [mouse] naked cuticle 2 homolog (Drosophila)","mouse",1
+"Baz1a [mouse] bromodomain adjacent to zinc finger domain 1A","mouse",1
+"Acf1 [fly] ATP-dependent chromatin assembly factor large subunit","mouse",1
+"OSR1 [human] odd-skipped related 1 (Drosophila)","human",1
+"HOXC4 [human] homeobox C4","human",1
+"PRRX1 [human] paired related homeobox 1","human",1
+"LHX9 [human] LIM homeobox 9","human",1
+"TBX3 [human] T-box 3","human",1
+"Sdhd [mouse] succinate dehydrogenase complex, subunit D, integral membrane protein","mouse",1
+"NOD2 [human] nucleotide-binding oligomerization domain containing 2","human",1
+"Cdkn1b [rat] cyclin-dependent kinase inhibitor 1B","rat",1
+"NR2C2 [human] nuclear receptor subfamily 2, group C, member 2","human",1
+"HDAC7 [human] histone deacetylase 7","mouse",1
+"Hdac7 [mouse] histone deacetylase 7","mouse",1
+"D1Pas1 [mouse] DNA segment, Chr 1, Pasteur Institute 1","mouse",1
+"Parp1 [mouse] poly (ADP-ribose) polymerase family, member 1","mouse",1
+"Cdyl [mouse] chromodomain protein, Y chromosome-like","mouse",1
+"Ctbp2 [mouse] C-terminal binding protein 2","mouse",1
+"Phc1 [mouse] polyhomeotic 1","mouse",1
+"Fgfbp1 [mouse] fibroblast growth factor binding protein 1","mouse",1
+"Gabpa [mouse] GA repeat binding protein, alpha","mouse",1
+"Gbx2 [mouse] gastrulation brain homeobox 2","mouse",1
+"Hells [mouse] helicase, lymphoid specific","mouse",1
+"Hmga1 [mouse] high mobility group AT-hook 1","mouse",1
+"Inppl1 [mouse] inositol polyphosphate phosphatase-like 1","mouse",1
+"Klf2 [mouse] Kruppel-like factor 2 (lung)","mouse",1
+"Mycl [mouse] v-myc avian myelocytomatosis viral oncogene lung carcinoma derived","mouse",1
+"Aff1 [mouse] AF4/FMR2 family, member 1","mouse",1
+"Ncl [mouse] nucleolin","mouse",1
+"Ell2 [mouse] elongation factor RNA polymerase II 2","mouse",1
+"Sub1 [mouse] SUB1 homolog (S. cerevisiae)","mouse",1
+"Sox15 [mouse] SRY (sex determining region Y)-box 15","mouse",1
+"Tbl1x [mouse] transducin (beta)-like 1 X-linked","mouse",1
+"Utf1 [mouse] undifferentiated embryonic cell transcription factor 1","mouse",1
+"Dmrt2 [mouse] doublesex and mab-3 related transcription factor 2","mouse",1
+"Zfp42 [mouse] zinc finger protein 42","mouse",1
+"Zfp57 [mouse] zinc finger protein 57","mouse",1
+"Tlk1 [mouse] tousled-like kinase 1","mouse",1
+"Grhl2 [mouse] grainyhead like transcription factor 2","mouse",1
+"Zfp292 [mouse] zinc finger protein 292","mouse",1
+"Zscan10 [mouse] zinc finger and SCAN domain containing 10","mouse",1
+"Txlng [mouse] taxilin gamma","mouse",1
+"Pdlim1 [mouse] PDZ and LIM domain 1 (elfin)","mouse",1
+"Dnmt3l [mouse] DNA (cytosine-5-)-methyltransferase 3-like","mouse",1
+"Mkrn1 [mouse] makorin, ring finger protein, 1","mouse",1
+"Sap30 [mouse] sin3 associated polypeptide","mouse",1
+"Nacc1 [mouse] nucleus accumbens associated 1, BEN and BTB (POZ) domain containing","mouse",1
+"Srsf6 [mouse] serine/arginine-rich splicing factor 6","mouse",1
+"Rpap1 [mouse] RNA polymerase II associated protein 1","mouse",1
+"Elf2 [mouse] E74-like factor 2","mouse",1
+"Prdm5 [mouse] PR domain containing 5","mouse",1
+"Cdc5l [mouse] cell division cycle 5-like (S. pombe)","mouse",1
+"Dppa2 [mouse] developmental pluripotency associated 2","mouse",1
+"Dppa3 [mouse] developmental pluripotency-associated 3","mouse",1
+"Cdyl2 [mouse] chromodomain protein, Y chromosome-like 2","mouse",1
+"Kdm4c [mouse] lysine (K)-specific demethylase 4C","mouse",1
+"Tfcp2l1 [mouse] transcription factor CP2-like 1","mouse",1
+"Tfap4 [mouse] transcription factor AP4","mouse",1
+"Mgmt [mouse] O-6-methylguanine-DNA methyltransferase","mouse",1
+"Wnt1 [mouse] wingless-type MMTV integration site family, member 1","human",1
+"Mir1a-1 [mouse] microRNA 1a-1","mouse",1
+"Mir22 [mouse] microRNA 22","mouse",1
+"Mir145a [mouse] microRNA 145a","mouse",1
+"Mirlet7b [mouse] microRNA let7b","mouse",1
+"USP2 [human] ubiquitin specific peptidase 2","human",1
+"NUP62 [human] nucleoporin 62","human",1
+"CASP8AP2 [human] caspase 8 associated protein 2","human",1
+"db/db mutation","mouse",1
+"E2f8 [mouse] E2F transcription factor 8","mouse",1
+"E2f7 [mouse] E2F transcription factor 7","mouse",1
+"Itga6 [mouse] integrin alpha 6","mouse",1
+"TPO [human] thyroid peroxidase","human",1
+"JMJD6 [human] arginine demethylase and lysine hydroxylase","human",1
+"Eif4h [mouse] eukaryotic translation initiation factor 4H","mouse",1
+"Sumf1 [mouse] sulfatase modifying factor 1","mouse",1
+"Brwd1 [mouse] bromodomain and WD repeat domain containing 1","mouse",1
+"TICAM1 [human] toll like receptor adaptor molecule 1","human",1
+"SPIB [human] Spi-B transcription factor","human",1
+"ALCAM [human] activated leukocyte cell adhesion molecule","human",1
+"IgM B cell receptor complex","mouse",1
+"IgM deficiency","mouse",1
+"Foxn1 [mouse] forkhead box N1","mouse",1
+"L1TD1 [human] LINE-1 type transposase domain containing 1","human",1
+"MIR20A [human] microRNA 20a","human",1
+"MIR671 [human] microRNA 671","human",1
+"GNAQ [human] G protein subunit alpha q","human",1
+"GPR180 [human] G protein-coupled receptor 180","human",1
+"LNX2 [human] ligand of numb-protein X 2","human",1
+"DIS3 [human] DIS3 exosome endoribonuclease and 3'-5' exoribonuclease","human",1
+"POLR1D [human] polymerase (RNA) I polypeptide D, 16kDa","human",1
+"POMP [human] proteasome maturation protein","human",1
+"SLC7A1 [human] solute carrier family 7 (cationic amino acid transporter, y+ system), member 1","human",1
+"NUPL1 [human] nucleoporin like 1","human",1
+"Capn3 [mouse] calpain 3","mouse",1
+"KIT [human] v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog","mouse",1
+"Gusb [mouse] glucuronidase, beta","mouse",1
+"Histidine(6)-tagged Myc","mouse",1
+"Nlrc4 [mouse] NLR family, CARD domain containing 4","mouse",1
+"HTT [human] huntingtin","human",1
+"CAG repeat","human",1
+"Nanos3 [mouse] nanos homolog 3 (Drosophila)","mouse",1
+"Creld1 [mouse] cysteine-rich with EGF-like domains 1","mouse",1
+"Relb [mouse] avian reticuloendotheliosis viral (v-rel) oncogene related B","mouse",1
+"congenic strain","mouse",1
+"Ogg1 [mouse] 8-oxoguanine DNA-glycosylase 1","mouse",1
+"gp130","mouse",1
+"Parn [mouse] poly(A)-specific ribonuclease (deadenylation nuclease)","mouse",1
+"LOC100290036 [human] immunglobulin heavy chain variable region","human",1
+"Prkaa2 [mouse] protein kinase, AMP-activated, alpha 2 catalytic subunit","mouse",1
+"PBRM1 [human] polybromo 1","human",1
+"scid/scid mutation","mouse",1
+"Prkdc [mouse] protein kinase, DNA activated, catalytic polypeptide","mouse",1
+"Gad1 [mouse] glutamate decarboxylase 1","mouse",1
+"Ets1 [mouse] E26 avian leukemia oncogene 1, 5' domain","mouse",1
+"GREB1 [human] growth regulating estrogen receptor binding 1","human",1
+"interferon receptor activity","mouse",1
+"LEF1 [human] lymphoid enhancer binding factor 1","human",1
+"CDK19 [human] cyclin-dependent kinase 19","human",1
+"Stzid [mouse] streptozotocin induced diabetes susceptibility","mouse",1
+"RNF40 [human] ring finger protein 40","human",1
+"Mttp [mouse] microsomal triglyceride transfer protein","mouse",1
+"TBK1 [human] TANK binding kinase 1","human",1
+"Cfhr1 [mouse] complement factor H-related 1","mouse",1
+"Smc6 [mouse] structural maintenance of chromosomes 6","mouse",1
+"NBN [human] nibrin","human",1
+"HBEGF [human] heparin-binding EGF-like growth factor","mouse",1
+"Med1 [mouse] mediator complex subunit 1","mouse",1
+"Ncoa6 [mouse] nuclear receptor coactivator 6","mouse",1
+"Maml3 [mouse] mastermind like 3 (Drosophila)","mouse",1
+"Nsun2 [mouse] NOL1/NOP2/Sun domain family member 2","mouse",1
+"TLE1 [human] transducin like enhancer of split 1","human",1
+"kras [zebrafish] v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog","zebrafish",1
+"Pgr [mouse] progesterone receptor","mouse",1
+"Ctsg [mouse] cathepsin G","mouse",1
+"NR1I3 [human] nuclear receptor subfamily 1, group I, member 3","mouse",1
+"Pcbp1 [mouse] poly(rC) binding protein 1","mouse",1
+"WFS1 [human] wolframin ER transmembrane glycoprotein","human",1
+"SNAI3 [human] snail family zinc finger 3","human",1
+"lung","mouse",1
+"FGFR3 [human] fibroblast growth factor receptor 3","human",1
+"Tab1 [mouse] TGF-beta activated kinase 1/MAP3K7 binding protein 1","mouse",1
+"Irf7 [mouse] interferon regulatory factor 7","mouse",1
+"double mutation","human",1
+"ASXL1 [human] additional sex combs like 1 (Drosophila)","human",1
+"TET2 [human] tet methylcytosine dioxygenase 2","human",1
+"AGO3 [human] argonaute 3, RISC catalytic component","human",1
+"AGO4 [human] argonaute 4, RISC catalytic component","human",1
+"AGO1 [human] argonaute 1, RISC catalytic component","human",1
+"AGO2 [human] argonaute RISC catalytic component 2","human",1
+"Casp8 [mouse] caspase 8","mouse",1
+"Prdm14 [mouse] PR domain containing 14","mouse",1
+"TERC [human] telomerase RNA component","human",1
+"Pln [mouse] phospholamban","mouse",1
+"Tpm1 [mouse] tropomyosin 1, alpha","mouse",1
+"Notch1 [mouse] Notch gene homolog 1 (Drosophila)","fly",1
+"ab [fly] abrupt","fly",1
+"scrib [fly] scribbled","fly",1
+"bsk [fly] basket","fly",1
+"Nlrp3 [mouse] NLR family, pyrin domain containing 3","mouse",1
+"Pycard [mouse] PYD and CARD domain containing","mouse",1
+"Zfy1 [mouse] zinc finger protein 1, Y linked","mouse",1
+"Zfy2 [mouse] zinc finger protein 2, Y linked","mouse",1
+"Eif2s3y [mouse] eukaryotic translation initiation factor 2, subunit 3, structural gene Y-linked","mouse",1
+"Mir135b [mouse] microRNA 135b","mouse",1
+"ALKBH4 [human] alkB, alkylation repair homolog 4 (E. coli)","human",1
+"ALKBH7 [human] alkB, alkylation repair homolog 7 (E. coli)","human",1
+"Notch1 [mouse] Notch gene homolog 1 (Drosophila)","human",1
+"MAP3K14 [human] mitogen-activated protein kinase kinase kinase 14","human",1
+"VEGFB [human] vascular endothelial growth factor B","rat",1
+"Bmx [mouse] BMX non-receptor tyrosine kinase","mouse",1
+"MIR199A1 [human] microRNA 199a-1","human",1
+"LPL [human] lipoprotein lipase","human",1
+"Abcb1a [rat] ATP binding cassette subfamily B member 1A","rat",1
+"Abcc2 [rat] ATP binding cassette subfamily C member 2","rat",1
+"Abcg2 [rat] ATP-binding cassette, subfamily G (WHITE), member 2","rat",1
+"Hand2 [mouse] heart and neural crest derivatives expressed transcript 2","mouse",1
+"Myocd [mouse] myocardin","mouse",1
+"Adamts5 [mouse] a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 5 (aggrecanase-2)","mouse",1
+"Kras G12D mutation","mouse",1
+"Trp53 R172H mutation","mouse",1
+"JIL-1 [fly] CG6297 gene product from transcript CG6297-RC","fly",1
+"Ifih1 [mouse] interferon induced with helicase C domain 1","mouse",1
+"Kras (G12D/+) Trp53 (-/-)","mouse",1
+"KRAS [human] v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog","mouse",1
+"1638N/+","mouse",1
+"WRN [human] Werner syndrome RecQ like helicase","human",1
+"Lrp6 [mouse] low density lipoprotein receptor-related protein 6","mouse",1
+"Grhl3 [mouse] grainyhead-like 3 (Drosophila)","mouse",1
+"Vangl2 [mouse] vang-like 2 (van gogh, Drosophila)","mouse",1
+"Rhoa [mouse] ras homolog family member A","mouse",1
+"Rhob [mouse] ras homolog family member B","mouse",1
+"Rhoc [mouse] ras homolog family member C","mouse",1
+"DHX36 [human] DEAH-box helicase 36","human",1
+"ERBB2 [human] v-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)","mouse",1
+"Cybb [mouse] cytochrome b-245, beta polypeptide","mouse",1
+"NKX2-8 [human] NK2 homeobox 8","human",1
+"PAX9 [human] paired box 9","human",1
+"NTRK3 [human] neurotrophic receptor tyrosine kinase 3","mouse",1
+"cAMP-mediated signaling","mouse",1
+"Sar1b [rat] SAR1 homolog B (S. cerevisiae)","rat",1
+"Sar1a [rat] SAR1 homolog A (S. cerevisiae)","rat",1
+"GRX1 [yeast] Grx1p","yeast",1
+"GRX2 [yeast] Grx2p","yeast",1
+"GPX2 [yeast] glutathione peroxidase GPX2","yeast",1
+"GPX1 [yeast] glutathione peroxidase GPX1","yeast",1
+"GLR1 [yeast] glutathione-disulfide reductase GLR1","yeast",1
+"Kiss1r [mouse] KISS1 receptor","mouse",1
+"Kiss1 [mouse] KiSS-1 metastasis-suppressor","mouse",1
+"ZBTB16 [human] zinc finger and BTB domain containing 16","human",1
+"Fcer1g [mouse] Fc receptor, IgE, high affinity I, gamma polypeptide","mouse",1
+"Chsy1 [mouse] chondroitin sulfate synthase 1","mouse",1
+"NPTX1 [human] neuronal pentraxin I","human",1
+"Pigr [mouse] polymeric immunoglobulin receptor","mouse",1
+"Siah1a [mouse] seven in absentia 1A","mouse",1
+"Siah2 [mouse] seven in absentia 2","mouse",1
+"MIR520C [human] microRNA 520c","human",1
+"Mir466d [mouse] microRNA 466d","mouse",1
+"Mir467c [mouse] microRNA 467c","mouse",1
+"Mir23b [mouse] microRNA 23b","mouse",1
+"Mir30a [mouse] microRNA 30a","mouse",1
+"Mir30d [mouse] microRNA 30d","mouse",1
+"Mir125a [mouse] microRNA 125a","mouse",1
+"Mir337 [mouse] microRNA 337","mouse",1
+"Mir466 [mouse] microRNA 466","mouse",1
+"Thrsp [mouse] thyroid hormone responsive","mouse",1
+"Ankrd2 [mouse] ankyrin repeat domain 2 (stretch responsive muscle)","mouse",1
+"Krt5 [mouse] keratin 5","mouse",1
+"karyotype","human",1
+"Kctd1 [mouse] potassium channel tetramerisation domain containing 1","mouse",1
+"Mir127 [mouse] microRNA 127","mouse",1
+"Ednra [mouse] endothelin receptor type A","mouse",1
+"Wnt3 [mouse] wingless-type MMTV integration site family, member 3","mouse",1
+"Cav1 [mouse] caveolin 1, caveolae protein","mouse",1
+"SOX4 [human] SRY (sex determining region Y)-box 4","human",1
+"IRF9 [human] interferon regulatory factor 9","human",1
+"BATF [human] basic leucine zipper ATF-like transcription factor","human",1
+"HCST [human] hematopoietic cell signal transducer","human",1
+"NR2F6 [human] nuclear receptor subfamily 2 group F member 6","human",1
+"IKZF3 [human] IKAROS family zinc finger 3","human",1
+"ZHX2 [human] zinc fingers and homeoboxes 2","human",1
+"ZBTB38 [human] zinc finger and BTB domain containing 38","human",1
+"LCORL [human] ligand dependent nuclear receptor corepressor like","human",1
+"FOXA3 [human] forkhead box A3","human",1
+"IRF8 [human] interferon regulatory factor 8","human",1
+"IRF3 [human] interferon regulatory factor 3","human",1
+"IRF5 [human] interferon regulatory factor 5","human",1
+"NFYC [human] nuclear transcription factor Y subunit gamma","human",1
+"PAX5 [human] paired box 5","human",1
+"KLF13 [human] Kruppel like factor 13","human",1
+"POU2F2 [human] POU class 2 homeobox 2","human",1
+"ARNTL2 [human] aryl hydrocarbon receptor nuclear translocator like 2","human",1
+"DIP2B [human] disco interacting protein 2 homolog B","human",1
+"RAD21 [human] RAD21 cohesin complex component","human",1
+"BCL3 [human] B-cell CLL/lymphoma 3","human",1
+"SKIL [human] SKI like proto-oncogene","human",1
+"SREBF2 [human] sterol regulatory element binding transcription factor 2","human",1
+"TFE3 [human] transcription factor binding to IGHM enhancer 3","human",1
+"NELFE [human] negative elongation factor complex member E","human",1
+"CLOCK [human] clock circadian regulator","human",1
+"NR1D2 [human] nuclear receptor subfamily 1 group D member 2","human",1
+"Gh [mouse] growth hormone","mouse",1
+"Cxcr3 [mouse] chemokine (C-X-C motif) receptor 3","mouse",1
+"Serpine1 [mouse] serine (or cysteine) peptidase inhibitor, clade E, member 1","mouse",1
+"ZBTB16 [human] zinc finger and BTB domain containing 16","mouse",1
+"PML [human] promyelocytic leukemia","mouse",1
+"MIR378A [human] microRNA 378a","mouse",1
+"Brca2 [mouse] breast cancer 2","mouse",1
+"Krt18 [mouse] keratin 18","mouse",1
+"NGFR [human] nerve growth factor receptor","human",1
+"MAP2K2 [human] mitogen-activated protein kinase kinase 2","human",1
+"RAF1 [human] Raf-1 proto-oncogene, serine/threonine kinase","human",1
+"Arhgap5 [mouse] Rho GTPase activating protein 5","mouse",1
+"Ptpn2 [mouse] protein tyrosine phosphatase, non-receptor type 2","mouse",1
+"Ppp2r2d [mouse] protein phosphatase 2, regulatory subunit B, delta","mouse",1
+"Npm1 [mouse] nucleophosmin 1","mouse",1
+"Hist1h2aa [mouse] histone cluster 1, H2aa","mouse",1
+"Hist1h2ba [mouse] histone cluster 1, H2ba","mouse",1
+"CDH11 [human] cadherin 11","human",1
+"BRMS1 [human] breast cancer metastasis suppressor 1","human",1
+"GSN [human] gelsolin","human",1
+"CD82 [human] CD82 molecule","human",1
+"KISS1 [human] KiSS-1 metastasis-suppressor","human",1
+"ARHGDIB [human] Rho GDP dissociation inhibitor beta","human",1
+"DRG1 [human] developmentally regulated GTP binding protein 1","human",1
+"NME1 [human] NME/NM23 nucleoside diphosphate kinase 1","human",1
+"PEBP1 [human] phosphatidylethanolamine binding protein 1","human",1
+"MAP2K6 [human] mitogen-activated protein kinase kinase 6","human",1
+"MAP2K4 [human] mitogen-activated protein kinase kinase 4","human",1
+"CASP8 [human] caspase 8","human",1
+"AKAP12 [human] A-kinase anchoring protein 12","human",1
+"Amh [mouse] anti-Mullerian hormone","mouse",1
+"Snai2 [mouse] snail family zinc finger 2","mouse",1
+"MIR28 [human] microRNA 28","human",1
+"haploid","human",1
+"ERBB4 [human] erb-b2 receptor tyrosine kinase 4","human",1
+"SMO [human] smoothened, frizzled class receptor","human",1
+"TRAF7 [human] TNF receptor associated factor 7","human",1
+"Cd24a [mouse] CD24a antigen","mouse",1
+"Prom1 [mouse] prominin 1","mouse",1
+"cerebral cortex","mouse",1
+"Mir128-2 [mouse] microRNA 128-2","mouse",1
+"SUMO2 [human] small ubiquitin-like modifier 2","mouse",1
+"SUMO1 [human] small ubiquitin-like modifier 1","mouse",1
+"NSUN2 [human] NOP2/Sun RNA methyltransferase family member 2","human",1
+"TAF4 [human] TAF4 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 135kDa","mouse",1
+"FIRRE [human] firre intergenic repeating RNA element","human",1
+"Firre [mouse] functional intergenic repeating RNA element","mouse",1
+"DNMT1 [human] DNA methyltransferase 1","human",1
+"DNMT3B [human] DNA methyltransferase 3 beta","human",1
+"Mllt6 [mouse] myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila) translocated to, 6","mouse",1
+"Hmgcr [rat] 3-hydroxy-3-methylglutaryl-CoA reductase","rat",1
+"Nr4a2 [rat] nuclear receptor subfamily 4, group A, member 2","rat",1
+"Kat2a [mouse] K(lysine) acetyltransferase 2A","mouse",1
+"Mir217 [mouse] microRNA 217","mouse",1
+"LMO2 [human] LIM domain only 2 (rhombotin-like 1)","human",1
+"CDX2 [human] caudal type homeobox 2","human",1
+"ETV2 [human] ETS variant 2","human",1
+"FOXC2 [human] forkhead box C2","human",1
+"GFI1 [human] growth factor independent 1 transcriptional repressor","human",1
+"LYL1 [human] LYL1, basic helix-loop-helix family member","human",1
+"NAB2 [human] NGFI-A binding protein 2","human",1
+"NFE2 [human] nuclear factor, erythroid 2","human",1
+"SPI1 [human] Spi-1 proto-oncogene","human",1
+"HAND1 [human] heart and neural crest derivatives expressed 1","human",1
+"P2ry14 [mouse] purinergic receptor P2Y, G-protein coupled, 14","mouse",1
+"Kansl3 [mouse] KAT8 regulatory NSL complex subunit 3","mouse",1
+"Kat8 [mouse] K(lysine) acetyltransferase 8","mouse",1
+"Msl1 [mouse] male-specific lethal 1 homolog (Drosophila)","mouse",1
+"Msl2 [mouse] male-specific lethal 2 homolog (Drosophila)","mouse",1
+"Psmb8 [mouse] proteasome (prosome, macropain) subunit, beta type 8 (large multifunctional peptidase 7)","mouse",1
+"Psmb10 [mouse] proteasome (prosome, macropain) subunit, beta type 10","mouse",1
+"AHR [human] aryl hydrocarbon receptor","human",1
+"SENCR [human] smooth muscle and endothelial cell enriched migration/differentiation-associated long non-coding RNA","human",1
+"RAB7A [human] RAB7A, member RAS oncogene family","human",1
+"Rorc [mouse] RAR-related orphan receptor gamma","mouse",1
+"CELF1 [human] CUGBP, Elav-like family member 1","mouse",1
+"PRKCI [human] protein kinase C, iota","human",1
+"KDM5B [human] lysine (K)-specific demethylase 5B","human",1
+"Ppp1r3c [mouse] protein phosphatase 1, regulatory (inhibitor) subunit 3C","mouse",1
+"Cdk9 [mouse] cyclin-dependent kinase 9 (CDC2-related kinase)","mouse",1
+"KDM6A [human] lysine (K)-specific demethylase 6A","human",1
+"Bmpr1a [mouse] bone morphogenetic protein receptor, type 1A","mouse",1
+"MTDH [human] metadherin","mouse",1
+"UBL5 [human] ubiquitin like 5","human",1
+"SART1 [human] squamous cell carcinoma antigen recognized by T-cells 1","human",1
+"Mir182 [mouse] microRNA 182","mouse",1
+"Mir203 [mouse] microRNA 203","mouse",1
+"Mir708 [mouse] microRNA 708","mouse",1
+"LUNAR1 [human] leukemia-associated non-coding IGF1R activator RNA 1","human",1
+"Cfp1 [mouse] cerebellar folial pattern 1","mouse",1
+"PRPF8 [human] pre-mRNA processing factor 8","human",1
+"SNW1 [human] SNW domain containing 1","human",1
+"Snw1 [mouse] SNW domain containing 1","human",1
+"ZMYND11 [human] zinc finger MYND-type containing 11","human",1
+"Chd5 [rat] chromodomain helicase DNA binding protein 5","rat",1
+"Ptger2 [mouse] prostaglandin E receptor 2 (subtype EP2)","mouse",1
+"Polb [mouse] polymerase (DNA directed), beta","mouse",1
+"Ubb [mouse] ubiquitin B","mouse",1
+"UBB [human] ubiquitin B","mouse",1
+"DPPA5 [human] developmental pluripotency associated 5","human",1
+"EIF3L [human] eukaryotic translation initiation factor 3, subunit L","human",1
+"BEGAIN [human] brain-enriched guanylate kinase-associated","human",1
+"RGS18 [human] regulator of G-protein signaling 18","human",1
+"SAP130 [human] Sin3A-associated protein, 130kDa","human",1
+"CCNK [human] cyclin K","human",1
+"TGM5 [human] transglutaminase 5","human",1
+"Mef2a [rat] myocyte enhancer factor 2a","rat",1
+"Mef2a [mouse] myocyte enhancer factor 2A","rat",1
+"Mef2a [mouse] myocyte enhancer factor 2A","mouse",1
+"Mef2b [mouse] myocyte enhancer factor 2B","mouse",1
+"Sqstm1 [mouse] sequestosome 1","mouse",1
+"Pitx3 [mouse] paired-like homeodomain transcription factor 3","mouse",1
+"LRRK2 [human] leucine-rich repeat kinase 2","mouse",1
+"F5 [mouse] coagulation factor V","mouse",1
+"SLC22A18 [human] solute carrier family 22, member 18","human",1
+"PDXP [human] pyridoxal (pyridoxine, vitamin B6) phosphatase","human",1
+"MIR340 [human] microRNA 340","human",1
+"R132H mutation","human",1
+"RBPJ [human] recombination signal binding protein for immunoglobulin kappa J region","human",1
+"MIR338 [human] microRNA 338","human",1
+"PHF5A [human] PHD finger protein 5A","human",1
+"NAA30 [human] N(alpha)-acetyltransferase 30, NatC catalytic subunit","human",1
+"ST3GAL1 [human] ST3 beta-galactoside alpha-2,3-sialyltransferase 1","human",1
+"TTK [human] TTK protein kinase","human",1
+"MELK [human] maternal embryonic leucine zipper kinase","human",1
+"RNF123 [human] ring finger protein 123","human",1
+"WIF1 [human] WNT inhibitory factor 1","human",1
+"CDH4 [human] cadherin 4, type 1, R-cadherin (retinal)","human",1
+"ZFHX4 [human] zinc finger homeobox 4","human",1
+"KCNH5 [human] potassium channel, voltage gated eag related subfamily H, member 5","human",1
+"ZFX [human] zinc finger protein, X-linked","human",1
+"MXD3 [human] MAX dimerization protein 3","human",1
+"T58A mutation","mouse",1
+"MycT58A OE dominant negative Trp53","mouse",1
+"Trp53 -/- Cdkn2c -/-","mouse",1
+"S537N mutation","mouse",1
+"Nos2 [mouse] nitric oxide synthase 2, inducible","mouse",1
+"DOT1L [human] DOT1-like, histone H3 methyltransferase (S. cerevisiae)","human",1
+"Nf2 [mouse] neurofibromatosis 2","human",1
+"TAZ [human] tafazzin","human",1
+"VPRBP [human] Vpr (HIV-1) binding protein","human",1
+"CASZ1 [human] castor zinc finger 1","human",1
+"WDR5 [human] WD repeat domain 5","human",1
+"SSRP1 [human] structure specific recognition protein 1","human",1
+"TFAP2B [human] transcription factor AP-2 beta (activating enhancer binding protein 2 beta)","human",1
+"DHODH [human] dihydroorotate dehydrogenase (quinone)","human",1
+"MEIS2 [human] Meis homeobox 2","human",1
+"DHX9 [human] DEAH (Asp-Glu-Ala-His) box helicase 9","human",1
+"KIF1B [human] kinesin family member 1B","human",1
+"CHAF1A [human] chromatin assembly factor 1, subunit A (p150)","human",1
+"HAGLR [human] HOXD antisense growth-associated long non-coding RNA","human",1
+"FST [human] follistatin","mouse",1
+"INHBA [human] inhibin, beta A","mouse",1
+"FST [human] follistatin","human",1
+"INHBA [human] inhibin, beta A","human",1
+"IKBKAP [human] inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase complex-associated protein","human",1
+"KDM1A [human] lysine (K)-specific demethylase 1A","human",1
+"Sharpin [mouse] SHANK-associated RH domain interacting protein","mouse",1
+"Cyp1a1 [mouse] cytochrome P450, family 1, subfamily a, polypeptide 1","mouse",1
+"Cyp1b1 [mouse] cytochrome P450, family 1, subfamily b, polypeptide 1","mouse",1
+"Osmr [mouse] oncostatin M receptor","mouse",1
+"OSM [human] oncostatin M","mouse",1
+"Dsc2 [mouse] desmocollin 2","mouse",1
+"Cnot3 [mouse] CCR4-NOT transcription complex, subunit 3","mouse",1
+"Sh3gl2 [mouse] SH3-domain GRB2-like 2","mouse",1
+"Ttpa [mouse] tocopherol (alpha) transfer protein","mouse",1
+"Mcl1 [mouse] myeloid cell leukemia sequence 1","mouse",1
+"Intermediate","mouse",1
+"Csf2rb2 [mouse] colony stimulating factor 2 receptor, beta 2, low-affinity (granulocyte-macrophage)","mouse",1
+"Cga [mouse] glycoprotein hormones, alpha subunit","mouse",1
+"Cdkn2a (-/-) Pten (-/-)","mouse",1
+"Atp8b1 [mouse] ATPase, class I, type 8B, member 1","mouse",1
+"PBX1 [human] pre-B-cell leukemia homeobox 1","mouse",1
+"Zfp683 [mouse] zinc finger protein 683","mouse",1
+"Ly6g [mouse] lymphocyte antigen 6 complex, locus G","mouse",1
+"Fbxw7 [mouse] F-box and WD-40 domain protein 7","mouse",1
+"Il12a [mouse] interleukin 12a","mouse",1
+"Il17a [mouse] interleukin 17A","mouse",1
+"Il17ra [mouse] interleukin 17 receptor A","mouse",1
+"Abcb1a [mouse] ATP-binding cassette, sub-family B (MDR/TAP), member 1A","mouse",1
+"Il23a [mouse] interleukin 23, alpha subunit p19","mouse",1
+"Gm20311 [mouse] hepatitis B virus X-interacting protein-like","mouse",1
+"AGO2 [fly] Argonaute 2","mouse",1
+"MIR122 [human] microRNA 122","mouse",1
+"Psmc2 [mouse] proteasome (prosome, macropain) 26S subunit, ATPase 2","mouse",1
+"Reln [mouse] reelin","mouse",1
+"Srpk2 [mouse] serine/arginine-rich protein specific kinase 2","mouse",1
+"Napepld [mouse] N-acyl phosphatidylethanolamine phospholipase D","mouse",1
+"Orc5 [mouse] origin recognition complex, subunit 5","mouse",1
+"Lhfpl3 [mouse] lipoma HMGIC fusion partner-like 3","mouse",1
+"Fbxl13 [mouse] F-box and leucine-rich repeat protein 13","mouse",1
+"Armc10 [mouse] armadillo repeat containing 10","mouse",1
+"Kmt2e [mouse] lysine (K)-specific methyltransferase 2E","mouse",1
+"Pmpcb [mouse] peptidase (mitochondrial processing) beta","mouse",1
+"Lrrc17 [mouse] leucine rich repeat containing 17","mouse",1
+"Slc26a5 [mouse] solute carrier family 26, member 5","mouse",1
+"Med12 [mouse] mediator complex subunit 12","mouse",1
+"Clec10a [mouse] C-type lectin domain family 10, member A","mouse",1
+"SV40gp6 [Simian virus 40] Large T antigen","mouse",1
+"Ybx2 [mouse] Y box protein 2","mouse",1
+"Ybx3 [mouse] Y box protein 3","mouse",1
+"Car6 [mouse] carbonic anhydrase 6","mouse",1
+"Il1rl1 [mouse] interleukin 1 receptor-like 1","mouse",1
+"CD3+ T cell culture","mouse",1
+"Slamf6 [mouse] SLAM family member 6","mouse",1
+"Stk3 [mouse] serine/threonine kinase 3","mouse",1
+"Sav1 [mouse] salvador homolog 1 (Drosophila)","mouse",1
+"EWSR1 [human] EWS RNA-binding protein 1","mouse",1
+"FLI1 [human] Friend leukemia virus integration 1","mouse",1
+"Thbs1 [mouse] thrombospondin 1","mouse",1
+"Rfk [mouse] riboflavin kinase","mouse",1
+"Nos3 [mouse] nitric oxide synthase 3, endothelial cell","mouse",1
+"Pgf [mouse] placental growth factor","mouse",1
+"Kcnk3 [mouse] potassium channel, subfamily K, member 3","mouse",1
+"Pinc [mouse] pregnancy induced noncoding RNA","mouse",1
+"Lat2 [mouse] linker for activation of T cells family, member 2","mouse",1
+"Bank1 [mouse] B cell scaffold protein with ankyrin repeats 1","mouse",1
+"Unc93b1 [mouse] unc-93 homolog B1 (C. elegans)","mouse",1
+"Cxcr5 [mouse] chemokine (C-X-C motif) receptor 5","mouse",1
+"Actl6b [mouse] actin-like 6B","mouse",1
+"Il2rb [mouse] interleukin 2 receptor, beta chain","mouse",1
+"Tgfb3 [mouse] transforming growth factor, beta 3","mouse",1
+"Mrc1 [mouse] mannose receptor, C type 1","mouse",1
+"Ikbkb [mouse] inhibitor of kappaB kinase beta","mouse",1
+"DKC1 [human] dyskerin pseudouridine synthase 1","human",1
+"ALDH2 [human] aldehyde dehydrogenase 2 family (mitochondrial)","human",1
+"Y-linked inheritance","rat",1
+"Gli3 [mouse] GLI-Kruppel family member GLI3","mouse",1
+"B cell","mouse",1
+"Il5 [mouse] interleukin 5","mouse",1
+"Rapgef3 [mouse] Rap guanine nucleotide exchange factor (GEF) 3","mouse",1
+"PLN [human] phospholamban","mouse",1
+"NANOG [human] Nanog homeobox","mouse",1
+"DGCR8 [human] DGCR8, microprocessor complex subunit","human",1
+"Sf3a1 [mouse] splicing factor 3a, subunit 1","mouse",1
+"Mir18 [mouse] microRNA 18","mouse",1
+"Mir20a [mouse] microRNA 20a","mouse",1
+"Mir19a [mouse] microRNA 19a","mouse",1
+"Mir17 [mouse] microRNA 17","mouse",1
+"Mir92-1 [mouse] microRNA 92-1","mouse",1
+"Rps5 [mouse] ribosomal protein S5","mouse",1
+"Zfp407 [mouse] zinc finger protein 407","mouse",1
+"Fancd2 [mouse] Fanconi anemia, complementation group D2","mouse",1
+"MLLT1 [human] myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila) translocated to, 1","mouse",1
+"ESR1 [human] estrogen receptor 1","mouse",1
+"URI1 [human] URI1, prefoldin-like chaperone","mouse",1
+"Lgr5 [mouse] leucine rich repeat containing G protein coupled receptor 5","mouse",1
+"Trp63 [mouse] transformation related protein 63","mouse",1
+"Trp73 [mouse] transformation related protein 73","mouse",1
+"RETN [human] resistin","mouse",1
+"Retn [mouse] resistin","mouse",1
+"Parg [mouse] poly (ADP-ribose) glycohydrolase","mouse",1
+"Kdm4d [mouse] lysine (K)-specific demethylase 4D","mouse",1
+"CBX3 [human] chromobox 3","mouse",1
+"TFE3 [human] transcription factor binding to IGHM enhancer 3","mouse",1
+"ASPSCR1 [human] alveolar soft part sarcoma chromosome region, candidate 1","mouse",1
+"CDK12 [human] cyclin dependent kinase 12","human",1
+"CDK13 [human] cyclin dependent kinase 13","human",1
+"HNRNPR [human] heterogeneous nuclear ribonucleoprotein R","human",1
+"SYNCRIP [human] synaptotagmin binding cytoplasmic RNA interacting protein","human",1
+"SRSF10 [human] serine and arginine rich splicing factor 10","human",1
+"RNPS1 [human] RNA binding protein with serine rich domain 1","human",1
+"SRSF8 [human] serine and arginine rich splicing factor 8","human",1
+"ACIN1 [human] apoptotic chromatin condensation inducer 1","human",1
+"RBMX [human] RNA binding motif protein, X-linked","human",1
+"HNRNPH2 [human] heterogeneous nuclear ribonucleoprotein H2 (H')","human",1
+"HNRNPK [human] heterogeneous nuclear ribonucleoprotein K","human",1
+"HNRNPL [human] heterogeneous nuclear ribonucleoprotein L","human",1
+"PCBP2 [human] poly(rC) binding protein 2","human",1
+"RBM23 [human] RNA binding motif protein 23","human",1
+"SRSF1 [human] serine and arginine rich splicing factor 1","human",1
+"SRSF3 [human] serine and arginine rich splicing factor 3","human",1
+"SRSF4 [human] serine and arginine rich splicing factor 4","human",1
+"SRSF9 [human] serine and arginine rich splicing factor 9","human",1
+"RBM39 [human] RNA binding motif protein 39","human",1
+"SF3B1 [human] splicing factor 3b subunit 1","human",1
+"SMG6 [human] SMG6, nonsense mediated mRNA decay factor","human",1
+"XRN1 [human] 5'-3' exoribonuclease 1","human",1
+"CASC3 [human] cancer susceptibility candidate 3","human",1
+"EIF4A3 [human] eukaryotic translation initiation factor 4A3","human",1
+"RBM8A [human] RNA binding motif protein 8A","human",1
+"Vim [mouse] vimentin","mouse",1
+"Ntsr1 [mouse] neurotensin receptor 1","mouse",1
+"Colgalt2 [mouse] collagen beta(1-O)galactosyltransferase 2","mouse",1
+"Spp1 [mouse] secreted phosphoprotein 1","mouse",1
+"Neb [mouse] nebulin","mouse",1
+"Sox6 [mouse] SRY (sex determining region Y)-box 6","mouse",1
+"Trim55 [mouse] tripartite motif-containing 55","mouse",1
+"Hhip [mouse] Hedgehog-interacting protein","mouse",1
+"Nos1 [mouse] nitric oxide synthase 1, neuronal","mouse",1
+"Mir126a [mouse] microRNA 126a","mouse",1
+"Zmiz1 [mouse] zinc finger, MIZ-type containing 1","mouse",1
+"Nfil3 [mouse] nuclear factor, interleukin 3, regulated","mouse",1
+"Fkrp [mouse] fukutin related protein","mouse",1
+"Mir128-1 [mouse] microRNA 128-1","mouse",1
+"Mir124a-1 [mouse] microRNA 124a-1","mouse",1
+"MIR137 [human] microRNA 137","mouse",1
+"Mapkapk2 [mouse] MAP kinase-activated protein kinase 2","mouse",1
+"Bcl7c [mouse] B cell CLL/lymphoma 7C","mouse",1
+"Rab3a [mouse] RAB3A, member RAS oncogene family","mouse",1
+"Zfp668 [mouse] zinc finger protein 668","mouse",1
+"Card9 [mouse] caspase recruitment domain family, member 9","mouse",1
+"Malat1 [mouse] metastasis associated lung adenocarcinoma transcript 1 (non-coding RNA)","mouse",1
+"Eif4e [mouse] eukaryotic translation initiation factor 4E","mouse",1
+"Hsd11b1 [mouse] hydroxysteroid 11-beta dehydrogenase 1","mouse",1
+"Mbl1 [mouse] mannose-binding lectin (protein A) 1","mouse",1
+"Pbx3 [mouse] pre B cell leukemia homeobox 3","mouse",1
+"Clec12a [mouse] C-type lectin domain family 12, member a","mouse",1
+"Fto [mouse] fat mass and obesity associated","mouse",1
+"Atg16l1 [mouse] autophagy related 16-like 1 (S. cerevisiae)","mouse",1
+"Il7r [mouse] interleukin 7 receptor","mouse",1
+"Cd28 [mouse] CD28 antigen","mouse",1
+"SULT1A2 [human] sulfotransferase family 1A member 2","mouse",1
+"SULT1A1 [human] sulfotransferase family 1A member 1","mouse",1
+"TRAMP","mouse",1
+"CELF4 [human] CUGBP Elav-like family member 4","mouse",1
+"Mir302c [mouse] microRNA 302c","mouse",1
+"Mir302a [mouse] microRNA 302a","mouse",1
+"Mir302d [mouse] microRNA 302d","mouse",1
+"Mir302b [mouse] microRNA 302b","mouse",1
+"Prkcd [mouse] protein kinase C, delta","mouse",1
+"PDCD1 [human] programmed cell death 1","mouse",1
+"CTLA4 [human] cytotoxic T-lymphocyte associated protein 4","mouse",1
+"Dusp5 [mouse] dual specificity phosphatase 5","mouse",1
+"Casp3 [mouse] caspase 3","mouse",1
+"Casp7 [mouse] caspase 7","mouse",1
+"Btnl1 [mouse] butyrophilin-like 1","mouse",1
+"Btk [mouse] Bruton agammaglobulinemia tyrosine kinase","mouse",1
+"Itk [mouse] IL2 inducible T cell kinase","mouse",1
+"Ghrhr [mouse] growth hormone releasing hormone receptor","mouse",1
+"Snai1 [mouse] snail family zinc finger 1","mouse",1
+"Ywhaz [mouse] tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide","mouse",1
+"KRT8 [human] keratin 8","mouse",1
+"Bcl9 [mouse] B cell CLL/lymphoma 9","mouse",1
+"Bcl9l [mouse] B cell CLL/lymphoma 9-like","mouse",1
+"Mcu [mouse] mitochondrial calcium uniporter","mouse",1
+"Nipbl [mouse] Nipped-B homolog (Drosophila)","mouse",1
+"IRS1 [human] insulin receptor substrate 1","human",1
+"IRS2 [human] insulin receptor substrate 2","human",1
+"TLR4 [human] toll-like receptor 4","human",1
+"estrogen-receptor positive breast cancer","human",1
+"Her2-receptor positive breast cancer","human",1
+"triple-receptor negative breast cancer","human",1
+"benign breast phyllodes tumor","human",1
+"MIR141 [human] microRNA 141","human",1
+"osteopontin","human",1
+"SPP1 [human] secreted phosphoprotein 1","human",1
+"Tunar [mouse] Tcl1 upstream neural differentiation associated RNA","mouse",1
+"Ddah1 [mouse] dimethylarginine dimethylaminohydrolase 1","mouse",1
+"Btg2 [mouse] B cell translocation gene 2, anti-proliferative","mouse",1
+"Tgfa [mouse] transforming growth factor alpha","mouse",1
+"Piwil4 [mouse] piwi-like RNA-mediated gene silencing 4","mouse",1
+"Piwil2 [mouse] piwi-like RNA-mediated gene silencing 2","mouse",1
+"Piwil1 [mouse] piwi-like RNA-mediated gene silencing 1","mouse",1
+"Upf2 [mouse] UPF2 regulator of nonsense transcripts homolog (yeast)","mouse",1
+"Mir196a-1 [mouse] microRNA 196a-1","mouse",1
+"Mir196b [mouse] microRNA 196b","mouse",1
+"Mir196a-2 [mouse] microRNA 196a-2","mouse",1
+"Actn4 [mouse] actinin alpha 4","mouse",1
+"recombinant vector","mouse",1
+"euploid","mouse",1
+"Mapk9 [mouse] mitogen-activated protein kinase 9","mouse",1
+"phorbol 13-acetate 12-myristate","mouse",1
+"ionomycin","mouse",1
+"anti-CD28","mouse",1
+"Ubtf [mouse] upstream binding transcription factor, RNA polymerase I","mouse",1
+"PER1 [human] period circadian clock 1","mouse",1
+"RBCK1 [human] RANBP2-type and C3HC4-type zinc finger containing 1","human",1
+"AFP [human] alpha fetoprotein","human",1
+"RNASE1 [human] ribonuclease A family member 1, pancreatic","human",1
+"CD71-positive","human",1
+"UBR2 [human] ubiquitin protein ligase E3 component n-recognin 2","human",1
+"SLC16A1 [human] solute carrier family 16 member 1","human",1
+"Fkbp1b [rat] FK506 binding protein 1B","rat",1
+"Foxo4 [mouse] forkhead box O4","mouse",1
+"2010111I01Rik [mouse] RIKEN cDNA 2010111I01 gene","mouse",1
+"P101L mutation","mouse",1
+"Usp15 [mouse] ubiquitin specific peptidase 15","mouse",1
+"Trim25 [mouse] tripartite motif-containing 25","mouse",1
+"Igf1 [rat] insulin-like growth factor 1","rat",1
+"Fmn2 [mouse] formin 2","mouse",1
+"Atg7 [mouse] autophagy related 7","mouse",1
+"Constitutive active mutation","human",1
+"Gzmb [mouse] granzyme B","mouse",1
+"Lims1 [mouse] LIM and senescent cell antigen-like domains 1","mouse",1
+"Lims2 [mouse] LIM and senescent cell antigen like domains 2","mouse",1
+"C167A mutation","rat",1
+"channelrhodopsin-2","rat",1
+"Tmem173 [mouse] transmembrane protein 173","mouse",1
+"Foxd1 [mouse] forkhead box D1","mouse",1
+"APP (KM670/671NL), APP (I716V), APP (V717I), PSEN1 (M146L), PSEN1 (L286V), Trem2 (-/-)","mouse",1
+"Kif20a [mouse] kinesin family member 20A","mouse",1
+"NT5C2 [human] 5'-nucleotidase, cytosolic II","human",1
+"Rpl22 [mouse] ribosomal protein L22","mouse",1
+"Kcnj10 [mouse] potassium inwardly-rectifying channel, subfamily J, member 10","mouse",1
+"Plod3 [mouse] procollagen-lysine, 2-oxoglutarate 5-dioxygenase 3","mouse",1
+"Actb [mouse] actin, beta","mouse",1
+"Ces1c [mouse] carboxylesterase 1C","mouse",1
+"GRIN2B [human] glutamate ionotropic receptor NMDA type subunit 2B","human",1
+"Lif [mouse] leukemia inhibitory factor","mouse",1
+"Gprc5b [mouse] G protein-coupled receptor, family C, group 5, member B","mouse",1
+"Cux2 [mouse] cut-like homeobox 2","mouse",1
+"Nobox [mouse] NOBOX oogenesis homeobox","mouse",1
+"PKD2 [human] polycystin 2, transient receptor potential cation channel","rat",1
+"Cd93 [mouse] CD93 antigen","mouse",1
+"Nfatc2 [mouse] nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 2","mouse",1
+"Nfatc3 [mouse] nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 3","mouse",1
+"Nfatc4 [mouse] nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 4","mouse",1
+"PHF8 [human] PHD finger protein 8","human",1
+"Nxnl2 [mouse] nucleoredoxin-like 2","mouse",1
+"Rps6ka3 [mouse] ribosomal protein S6 kinase polypeptide 3","mouse",1
+"Kat6b [mouse] K(lysine) acetyltransferase 6B","mouse",1
+"Car9 [mouse] carbonic anhydrase 9","mouse",1
+"Cdr1 [mouse] cerebellar degeneration related antigen 1","mouse",1
+"MIR9-3 [human] microRNA 9-3","human",1
+"SOD1 G39A mutation","mouse",1
+"demethylation","human",1
+"Il33 [mouse] interleukin 33","mouse",1
+"Fkbp8 [mouse] FK506 binding protein 8","mouse",1
+"Kdm5b [mouse] lysine (K)-specific demethylase 5B","mouse",1
+"Zfp335 [mouse] zinc finger protein 335","mouse",1
+"H2bfm [mouse] H2B histone family, member M","mouse",1
+"RHO [human] rhodopsin","mouse",1
+"G93A mutation","mouse",1
+"Opn5 [mouse] opsin 5","mouse",1
+"LHX2 [human] LIM homeobox 2","human",1
+"Eif2b5 [mouse] eukaryotic translation initiation factor 2B, subunit 5 epsilon","mouse",1
+"Clp1 [mouse] CLP1, cleavage and polyadenylation factor I subunit","mouse",1
+"NANOG [human] Nanog homeobox","human",1
+"Atf5 [mouse] activating transcription factor 5","mouse",1
+"Zbtb20 [mouse] zinc finger and BTB domain containing 20","mouse",1
+"FANCA [human] Fanconi anemia complementation group A","human",1
+"TARDBP [human] TAR DNA binding protein","rat",1
+"Neurog1 [mouse] neurogenin 1","mouse",1
+"Il1r1 [mouse] interleukin 1 receptor, type I","mouse",1
+"Nkx6-2 [mouse] NK6 homeobox 2","mouse",1
+"Prmt8 [mouse] protein arginine N-methyltransferase 8","mouse",1
+"Nkx2-9 [mouse] NK2 homeobox 9","mouse",1
+"Nf2 [mouse] neurofibromatosis 2","mouse",1
+"Fyn [mouse] Fyn proto-oncogene","mouse",1
+"Lgi1 [mouse] leucine-rich repeat LGI family, member 1","mouse",1
+"MIR137 [human] microRNA 137","human",1
+"CAG expansion","mouse",1
+"Pex1 [mouse] peroxisomal biogenesis factor 1","mouse",1
+"Sp4 [mouse] trans-acting transcription factor 4","mouse",1
+"Nr2e3 [mouse] nuclear receptor subfamily 2, group E, member 3","mouse",1
+"Foxf2 [mouse] forkhead box F2","mouse",1
+"Tdp2 [mouse] tyrosyl-DNA phosphodiesterase 2","mouse",1
+"Grid2 [mouse] glutamate receptor, ionotropic, delta 2","mouse",1
+"PNPLA6 [human] patatin like phospholipase domain containing 6","human",1
+"Rs1h [rat] retinoschisis 1 homolog (human)","mouse",1
+"n-TRtct5 [mouse] nuclear encoded tRNA arginine 5 (anticodon TCT)","mouse",1
+"Sirt6 [mouse] sirtuin 6","mouse",1
+"Set [rat] SET nuclear proto-oncogene","rat",1
+"Cort [mouse] cortistatin","mouse",1
+"Htr3a [mouse] 5-hydroxytryptamine (serotonin) receptor 3A","mouse",1
+"Oxtr [mouse] oxytocin receptor","mouse",1
+"Ppm1d [mouse] protein phosphatase 1D magnesium-dependent, delta isoform","mouse",1
+"Hdac9 [mouse] histone deacetylase 9","mouse",1
+"Dach2 [mouse] dachshund family transcription factor 2","mouse",1
+"Bhlhe41 [mouse] basic helix-loop-helix family, member e41","mouse",1
+"Eif6 [mouse] eukaryotic translation initiation factor 6","mouse",1
+"ACVR1 [human] activin A receptor type 1","human",1
+"Nrg1 [rat] neuregulin 1","rat",1
+"Cacna1c [mouse] calcium channel, voltage-dependent, L type, alpha 1C subunit","mouse",1
+"Camta1 [mouse] calmodulin binding transcription activator 1","mouse",1
+"NEUROG1 [human] neurogenin 1","human",1
+"Partial duplication of chromosome 16","mouse",1
+"Prr7 [rat] proline rich 7 (synaptic)","rat",1
+"Nfkbia [mouse] nuclear factor of kappa light polypeptide gene enhancer in B cells inhibitor, alpha","mouse",1
+"Ankrd11 [mouse] ankyrin repeat domain 11","mouse",1
+"Aifm1 [mouse] apoptosis-inducing factor, mitochondrion-associated 1","mouse",1
+"Slc12a2 [mouse] solute carrier family 12, member 2","mouse",1
+"Gm30731 [mouse] predicted gene, 30731","mouse",1
+"Ptbp1 [mouse] polypyrimidine tract binding protein 1","mouse",1
+"Srrm4 [mouse] serine/arginine repetitive matrix 4","mouse",1
+"MYT1L [human] myelin transcription factor 1 like","human",1
+"C9orf72 [human] chromosome 9 open reading frame 72","human",1
+"Rarb [mouse] retinoic acid receptor, beta","mouse",1
+"Il1a [mouse] interleukin 1 alpha","mouse",1
+"Il1b [mouse] interleukin 1 beta","mouse",1
+"CYFIP1 [human] cytoplasmic FMR1 interacting protein 1","human",1
+"MIR10A [human] microRNA 10a","human",1
+"MIR10B [human] microRNA 10b","human",1
+"Rgs9 [mouse] regulator of G-protein signaling 9","mouse",1
+"Tbp [mouse] TATA box binding protein","mouse",1
+"En1 [mouse] engrailed 1","mouse",1
+"Trpa1 [mouse] transient receptor potential cation channel, subfamily A, member 1","mouse",1
+"Mc1r [mouse] melanocortin 1 receptor","mouse",1
+"Hey1 [mouse] hairy/enhancer-of-split related with YRPW motif 1","mouse",1
+"Hoxa1 [mouse] homeobox A1","mouse",1
+"Hoxc6 [mouse] homeobox C6","mouse",1
+"Lhx3 [mouse] LIM homeobox protein 3","mouse",1
+"Zbtb7c [mouse] zinc finger and BTB domain containing 7C","mouse",1
+"Zic1 [mouse] zinc finger protein of the cerebellum 1","mouse",1
+"Btbd3 [mouse] BTB (POZ) domain containing 3","mouse",1
+"Tox [mouse] thymocyte selection-associated high mobility group box","mouse",1
+"Chd5 [mouse] chromodomain helicase DNA binding protein 5","mouse",1
+"Vwc2 [mouse] von Willebrand factor C domain containing 2","mouse",1
+"Sfmbt2 [mouse] Scm-like with four mbt domains 2","mouse",1
+"Arid5b [mouse] AT rich interactive domain 5B (MRF1-like)","mouse",1
+"Celf1 [mouse] CUGBP, Elav-like family member 1","mouse",1
+"Hoxa6 [mouse] homeobox A6","mouse",1
+"Hoxa7 [mouse] homeobox A7","mouse",1
+"Nono [mouse] non-POU-domain-containing, octamer binding protein","mouse",1
+"Lin28b [mouse] lin-28 homolog B (C. elegans)","mouse",1
+"Bdnf [mouse] brain derived neurotrophic factor","rat",1
+"Egr1 [mouse] early growth response 1","rat",1
+"LOC103693372 [rat] histone H3.3-like","mouse",1
+"H3f3a [mouse] H3 histone, family 3A","mouse",1
+"H3f3b [mouse] H3 histone, family 3B","mouse",1
+"Hist1h3e [mouse] histone cluster 1, H3e","mouse",1
+"Tfr2 [mouse] transferrin receptor 2","mouse",1
+"Rest [mouse] RE1-silencing transcription factor","rat",1
+"Taf4 [mouse] TATA-box binding protein associated factor 4","mouse",1
+"OPTN [human] optineurin","human",1
+"Mir9-1 [mouse] microRNA 9-1","mouse",1
+"Prkcq [mouse] protein kinase C, theta","mouse",1
+"ELAVL2 [human] ELAV like neuron-specific RNA binding protein 2","human",1
+"Ncoa3 [rat] nuclear receptor coactivator 3","rat",1
+"Elp3 [mouse] elongator acetyltransferase complex subunit 3","mouse",1
+"C9orf72 [human] chromosome 9 open reading frame 72","mouse",1
+"Mpp5 [mouse] membrane protein, palmitoylated 5 (MAGUK p55 subfamily member 5)","mouse",1
+"ITPKA [human] inositol-trisphosphate 3-kinase A","mouse",1
+"Celsr3 [mouse] cadherin, EGF LAG seven-pass G-type receptor 3","mouse",1
+"Fzd3 [mouse] frizzled class receptor 3","mouse",1
+"Emx1 [mouse] empty spiracles homeobox 1","mouse",1
+"Gad2 [mouse] glutamic acid decarboxylase 2","mouse",1
+"Fus [rat] FUS RNA binding protein","rat",1
+"Rbm17 [mouse] RNA binding motif protein 17","mouse",1
+"Isyna1 [mouse] myo-inositol 1-phosphate synthase A1","mouse",1
+"Top1 [mouse] topoisomerase (DNA) I","mouse",1
+"TFAM [human] transcription factor A, mitochondrial","mouse",1
+"NGF [human] nerve growth factor (beta polypeptide)","rat",1
+"Cnp [mouse] 2',3'-cyclic nucleotide 3' phosphodiesterase","mouse",1
+"Ugt8a [mouse] UDP galactosyltransferase 8A","mouse",1
+"MED12L [human] mediator complex subunit 12 like","mouse",1
+"Crtc1 [mouse] CREB regulated transcription coactivator 1","mouse",1
+"Npy [mouse] neuropeptide Y","mouse",1
+"Gaa [mouse] glucosidase, alpha, acid","mouse",1
+"Ctnna1 [mouse] catenin (cadherin associated protein), alpha 1","mouse",1
+"CIT [human] citron rho-interacting serine/threonine kinase","mouse",1
+"Mpi [mouse] mannose phosphate isomerase","mouse",1
+"Vsig2 [mouse] V-set and immunoglobulin domain containing 2","mouse",1
+"Tshz3 [mouse] teashirt zinc finger family member 3","mouse",1
+"Krit1 [mouse] KRIT1, ankyrin repeat containing","mouse",1
+"Hba [mouse] hemoglobin alpha chain complex","mouse",1
+"Hbb [mouse] hemoglobin beta chain complex","mouse",1
+"HBA1 [human] hemoglobin subunit alpha 1","mouse",1
+"HBB [human] hemoglobin subunit beta","mouse",1
+"HBD [human] hemoglobin subunit delta","mouse",1
+"HBG1 [human] hemoglobin subunit gamma 1","mouse",1
+"HBG2 [human] hemoglobin subunit gamma 2","mouse",1
+"Sp3 [mouse] trans-acting transcription factor 3","mouse",1
+"GTDC1 [human] glycosyltransferase like domain containing 1","human",1
+"Rtp2 [mouse] receptor transporter protein 2","mouse",1
+"Rtp1 [mouse] receptor transporter protein 1","mouse",1
+"Slc7a5 [mouse] solute carrier family 7 (cationic amino acid transporter, y+ system), member 5","mouse",1
+"Mecp2 [mouse] methyl CpG binding protein 2","rat",1
+"Cnot7 [mouse] CCR4-NOT transcription complex, subunit 7","mouse",1
+"Lcn2 [mouse] lipocalin 2","mouse",1
+"SOX5 [human] SRY-box 5","human",1
+"Sema3d [mouse] sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3D","mouse",1
+"Ret [mouse] ret proto-oncogene","mouse",1
+"L2hgdh [mouse] L-2-hydroxyglutarate dehydrogenase","mouse",1
+"ARX [human] aristaless related homeobox","mouse",1
+"POU3F2 [human] POU class 3 homeobox 2","human",1
+"Dmrta2 [mouse] doublesex and mab-3 related transcription factor like family A2","mouse",1
+"Kmt2d [mouse] lysine (K)-specific methyltransferase 2D","mouse",1
+"Arid1b [mouse] AT rich interactive domain 1B (SWI-like)","mouse",1
+"Tlx3 [mouse] T cell leukemia, homeobox 3","mouse",1
+"C5ar1 [mouse] complement component 5a receptor 1","mouse",1
+"Pias3 [mouse] protein inhibitor of activated STAT 3","mouse",1
+"Nat14 [mouse] N-acetyltransferase 14","mouse",1
+"Wwtr1 [mouse] WW domain containing transcription regulator 1","mouse",1
+"Reck [mouse] reversion-inducing-cysteine-rich protein with kazal motifs","mouse",1
+"Braf [mouse] Braf transforming gene","mouse",1
+"SERPINI1 [human] serpin family I member 1","mouse",1
+"H2afz [mouse] H2A histone family, member Z","rat",1
+"Pofut1 [mouse] protein O-fucosyltransferase 1","mouse",1
+"Tas1r3 [mouse] taste receptor, type 1, member 3","mouse",1
+"Rasgrf2 [mouse] RAS protein-specific guanine nucleotide-releasing factor 2","mouse",1
+"Mir17 [rat] microRNA 17","rat",1
+"Mir19a [rat] microRNA 19a","rat",1
+"Mir19b1 [rat] microRNA 19b-1","rat",1
+"Mir20a [rat] microRNA 20a","rat",1
+"Mir18a [rat] microRNA 18a","rat",1
+"Mir92a1 [rat] microRNA 92a-1","rat",1
+"PPT1 [human] palmitoyl-protein thioesterase 1","human",1
+"Upf3b [mouse] UPF3 regulator of nonsense transcripts homolog B (yeast)","mouse",1
+"Mir183 [mouse] microRNA 183","mouse",1
+"Gdf10 [mouse] growth differentiation factor 10","mouse",1
+"Sall3 [mouse] spalt like transcription factor 3","mouse",1
+"Mir29b-1 [mouse] microRNA 29b-1","mouse",1
+"Lhx6 [mouse] LIM homeobox protein 6","mouse",1
+"Ccny [rat] cyclin Y","rat",1
+"Nos3 [rat] nitric oxide synthase 3","rat",1
+"Gpx2 [rat] glutathione peroxidase 2","rat",1
+"MIR873 [human] microRNA 873","human",1
+"Rbm5 [rat] RNA binding motif protein 5","rat",1
+"CETP [human] cholesteryl ester transfer protein","mouse",1
+"Add1 [mouse] adducin 1 (alpha)","mouse",1
+"Cyfip1 [mouse] cytoplasmic FMR1 interacting protein 1","mouse",1
+"Fgfr2 [mouse] fibroblast growth factor receptor 2","mouse",1
+"Cdca7l [mouse] cell division cycle associated 7 like","mouse",1
+"Bmp4 [mouse] bone morphogenetic protein 4","mouse",1
+"Hoxb2 [mouse] homeobox B2","mouse",1
+"Htr1a [rat] 5-hydroxytryptamine receptor 1A","mouse",1
+"Ehmt1 [rat] euchromatic histone lysine methyltransferase 1","rat",1
+"Uprt [mouse] uracil phosphoribosyltransferase","mouse",1
+"Rdh8 [mouse] retinol dehydrogenase 8","mouse",1
+"Taz [mouse] tafazzin","mouse",1
+"Ptchd1 [mouse] patched domain containing 1","mouse",1
+"Slc1a3 [mouse] solute carrier family 1 (glial high affinity glutamate transporter), member 3","mouse",1
+"Nr0b2 [rat] nuclear receptor subfamily 0, group B, member 2","rat",1
+"Mir495 [rat] microRNA 495","rat",1
+"Esrp1 [mouse] epithelial splicing regulatory protein 1","mouse",1
+"REM2 [human] RRAD and GEM like GTPase 2","mouse",1
+"Act1 [mouse] actin related gene 1","mouse",1
+"IKBKAP [human] inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase complex-associated protein","mouse",1
+"humanized IKBKAP (FB/+)","mouse",1
+"GLUD2 [human] glutamate dehydrogenase 2","mouse",1
+"Mo/HuAPP695swe PSEN1 deltaE9 mutation","mouse",1
+"Mir132 [mouse] microRNA 132","mouse",1
+"Mir212 [mouse] microRNA 212","mouse",1
+"Rgs20 [mouse] regulator of G-protein signaling 20","mouse",1
+"Nfib [mouse] nuclear factor I/B","mouse",1
+"Adarb1 [mouse] adenosine deaminase, RNA-specific, B1","mouse",1
+"Abcc5 [mouse] ATP-binding cassette, sub-family C (CFTR/MRP), member 5","mouse",1
+"H2afz [mouse] H2A histone family, member Z","mouse",1
+"Snca [mouse] synuclein, alpha","rat",1
+"recombinant vector","rat",1
+"NRG1 [human] neuregulin 1","rat",1
+"Mir7-1 [mouse] microRNA 7-1","mouse",1
+"Kcnh1 [mouse] potassium voltage-gated channel, subfamily H (eag-related), member 1","mouse",1
+"Phlda2 [mouse] pleckstrin homology like domain, family A, member 2","mouse",1
+"Ciz1 [mouse] CDKN1A interacting zinc finger protein 1","mouse",1
+"Tfap2e [mouse] transcription factor AP-2, epsilon","mouse",1
+"Plat [mouse] plasminogen activator, tissue","mouse",1
+"Rnu11 [mouse] U11 small nuclear RNA","mouse",1
+"Ythdf2 [mouse] YTH domain family 2","mouse",1
+"Foxj1 [mouse] forkhead box J1","mouse",1
+"Clmp [mouse] CXADR-like membrane protein","mouse",1
+"Cdk10 [mouse] cyclin-dependent kinase 10","mouse",1
+"Pts [mouse] 6-pyruvoyl-tetrahydropterin synthase","mouse",1
+"Shc2 [mouse] SHC (Src homology 2 domain containing) transforming protein 2","mouse",1
+"Eml1 [mouse] echinoderm microtubule associated protein like 1","mouse",1
+"Lynx1 [mouse] Ly6/neurotoxin 1","mouse",1
+"Gdf9 [mouse] growth differentiation factor 9","mouse",1
+"Ptpn5 [mouse] protein tyrosine phosphatase, non-receptor type 5","mouse",1
+"Thap11 [mouse] THAP domain containing 11","mouse",1
+"Acly [mouse] ATP citrate lyase","mouse",1
+"Bak1 [mouse] BCL2-antagonist/killer 1","mouse",1
+"Atr [mouse] ataxia telangiectasia and Rad3 related","mouse",1
+"MIR193BHG [human] MIR193B host gene","human",1
+"Hnrnpa2b1 [mouse] heterogeneous nuclear ribonucleoprotein A2/B1","mouse",1
+"Med26 [mouse] mediator complex subunit 26","mouse",1
+"Drd4 [mouse] dopamine receptor D4","mouse",1
+"Mnx1 [mouse] motor neuron and pancreas homeobox 1","mouse",1
+"Thy1 [mouse] thymus cell antigen 1, theta","mouse",1
+"Ins1 [mouse] insulin I","mouse",1
+"ATRX [human] ATRX, chromatin remodeler","human",1
+"Pum1 [mouse] pumilio RNA-binding family member 1","mouse",1
+"Pum2 [mouse] pumilio RNA-binding family member 2","mouse",1
+"SRY [human] sex determining region Y","mouse",1
+"Nsd3 [mouse] nuclear receptor binding SET domain protein 3","mouse",1
+"Uhrf2 [mouse] ubiquitin-like, containing PHD and RING finger domains 2","mouse",1
+"Mir7b [mouse] microRNA 7b","mouse",1
+"Rai1 [mouse] retinoic acid induced 1","mouse",1
+"Rps6ka5 [mouse] ribosomal protein S6 kinase, polypeptide 5","mouse",1
+"Hes5 [mouse] hes family bHLH transcription factor 5","mouse",1
+"UBE3A [human] ubiquitin protein ligase E3A","human",1
+"Chd4 [mouse] chromodomain helicase DNA binding protein 4","mouse",1
+"MSI1 [human] musashi RNA binding protein 1","human",1
+"Csnk1e [rat] casein kinase 1, epsilon","mouse",1
+"Eif4a3 [mouse] eukaryotic translation initiation factor 4A3","mouse",1
+"Rbm8a [mouse] RNA binding motif protein 8a","mouse",1
+"Slc5a8 [mouse] solute carrier family 5 (iodide transporter), member 8","mouse",1
+"Mettl3 [mouse] methyltransferase like 3","mouse",1
+"Slc1a4 [mouse] solute carrier family 1 (glutamate/neutral amino acid transporter), member 4","mouse",1
+"Prkag2 [mouse] protein kinase, AMP-activated, gamma 2 non-catalytic subunit","mouse",1
+"Zmat3 [mouse] zinc finger matrin type 3","mouse",1
+"Cfap221 [mouse] cilia and flagella associated protein 221","mouse",1
+"Mir146 [mouse] microRNA 146","human",1
+"CD1 mus strain","mouse",1
+"Dlx6os1 [mouse] distal-less homeobox 6, opposite strand 1","mouse",1
+"Mecp2 [rat] methyl CpG binding protein 2","rat",1
+"RNA N6-methyladenosine methyltransferase complex","mouse",1
+"Mir205 [mouse] microRNA 205","mouse",1
+"Memo1 [mouse] mediator of cell motility 1","mouse",1
+"Abcc1 [mouse] ATP-binding cassette, sub-family C (CFTR/MRP), member 1","mouse",1
+"Pphln1 [mouse] periphilin 1","mouse",1
+"Ogt [mouse] O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)","mouse",1
+"Sgo1 [mouse] shugoshin 1","mouse",1
+"Runx2 [mouse] runt related transcription factor 2","mouse",1
+"Pou2af1 [mouse] POU domain, class 2, associating factor 1","mouse",1
+"Ikzf3 [mouse] IKAROS family zinc finger 3","mouse",1
+"Elf4 [mouse] E74-like factor 4 (ets domain transcription factor)","mouse",1
+"Nfic [mouse] nuclear factor I/C","mouse",1
+"Junb [mouse] jun B proto-oncogene","mouse",1
+"Zfpm1 [mouse] zinc finger protein, multitype 1","mouse",1
+"Tcf12 [mouse] transcription factor 12","mouse",1
+"Nr1h4 [mouse] nuclear receptor subfamily 1, group H, member 4","mouse",1
+"Nr0b2 [mouse] nuclear receptor subfamily 0, group B, member 2","mouse",1
+"Smarcd2 [mouse] SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2","mouse",1
+"GFI1 [human] growth factor independent 1 transcriptional repressor","mouse",1
+"Elk3 [mouse] ELK3, member of ETS oncogene family","mouse",1
+"Mybl1 [mouse] myeloblastosis oncogene-like 1","mouse",1
+"Etv5 [mouse] ets variant 5","mouse",1
+"Bcl6b [mouse] B cell CLL/lymphoma 6, member B","mouse",1
+"Gfi1 [mouse] growth factor independent 1","mouse",1
+"Rpa1 [mouse] replication protein A1","mouse",1
+"Gadd45g [mouse] growth arrest and DNA-damage-inducible 45 gamma","mouse",1
+"Ncoa2 [mouse] nuclear receptor coactivator 2","mouse",1
+"Cebpg [mouse] CCAAT/enhancer binding protein (C/EBP), gamma","mouse",1
+"Mbd2 [mouse] methyl-CpG binding domain protein 2","mouse",1
+"Prox1 [mouse] prospero homeobox 1","mouse",1
+"SMAD2 [human] SMAD family member 2","human",1
+"SMAD3 [human] SMAD family member 3","human",1
+"TFAP2A [human] transcription factor AP-2 alpha","human",1
+"FOXF2 [human] forkhead box F2","human",1
+"YY2 [human] YY2 transcription factor","human",1
+"Mir31 [mouse] microRNA 31","human",1
+"ZNF263 [human] zinc finger protein 263","human",1
+"CTBP2 [human] C-terminal binding protein 2","human",1
+"PRDM14 [human] PR/SET domain 14","human",1
+"YBX1 [human] Y-box binding protein 1","human",1
+"TRIM33 [human] tripartite motif containing 33","human",1
+"NKX2-1 [human] NK2 homeobox 1","human",1
+"ZNF217 [human] zinc finger protein 217","human",1
+"SALL4 [human] spalt like transcription factor 4","human",1
+"PGR [human] progesterone receptor","human",1
+"ZNF570 [human] zinc finger protein 570","human",1
+"NFE2L2 [human] nuclear factor, erythroid 2 like 2","human",1
+"NR3C2 [human] nuclear receptor subfamily 3 group C member 2","human",1
+"TFAP2C [human] transcription factor AP-2 gamma","human",1
+"TYK2 [human] tyrosine kinase 2","human",1
+"ERN1 [human] endoplasmic reticulum to nucleus signaling 1","human",1
+"DUX4 [human] double homeobox 4","mouse",1
+"DUX4 [human] double homeobox 4","human",1
+"NFATC3 [human] nuclear factor of activated T cells 3","human",1
+"Satb1 [mouse] special AT-rich sequence binding protein 1","human",1
+"MST1 [human] macrophage stimulating 1","human",1
+"MST1R [human] macrophage stimulating 1 receptor","human",1
+"MBD4 [human] methyl-CpG binding domain 4, DNA glycosylase","human",1
+"Zic2 [mouse] zinc finger protein of the cerebellum 2","mouse",1
+"Mta2 [mouse] metastasis-associated gene family, member 2","mouse",1
+"NME2 [human] NME/NM23 nucleoside diphosphate kinase 2","human",1
+"Shc1 [mouse] src homology 2 domain-containing transforming protein C1","mouse",1
+"CREB3L1 [human] cAMP responsive element binding protein 3 like 1","human",1
+"EHF [human] ETS homologous factor","human",1
+"MBD3 [human] methyl-CpG binding domain protein 3","human",1
+"Sin3a [mouse] transcriptional regulator, SIN3A (yeast)","mouse",1
+"Yy1 [mouse] YY1 transcription factor","mouse",1
+"Ncor2 [mouse] nuclear receptor co-repressor 2","mouse",1
+"Cbfb [mouse] core binding factor beta","mouse",1
+"Cd3d [mouse] CD3 antigen, delta polypeptide","mouse",1
+"Cd3g [mouse] CD3 antigen, gamma polypeptide","mouse",1
+"SRCAP [human] Snf2 related CREBBP activator protein","human",1
+"H3K27Me3","mouse",1
+"ETV1 [human] ETS variant 1","mouse",1
+"BCL11A [human] BCL11A, BAF complex component","human",1
+"TLX1 [human] T cell leukemia homeobox 1","human",1
+"TLX3 [human] T cell leukemia homeobox 3","human",1
+"Stau2 [mouse] staufen double-stranded RNA binding protein 2","mouse",1
+"OPA1 [human] OPA1, mitochondrial dynamin like GTPase","human",1
+"Tmem259 [mouse] transmembrane protein 259","mouse",1
+"MAPK1 [human] mitogen-activated protein kinase 1","mouse",1
+"Scn1a [mouse] sodium channel, voltage-gated, type I, alpha","mouse",1
+"Hey2 [mouse] hairy/enhancer-of-split related with YRPW motif 2","human",1
+"Prrx2 [mouse] paired related homeobox 2","human",1
+"Neat1 [mouse] nuclear paraspeckle assembly transcript 1 (non-protein coding)","mouse",1
+"Diras2 [mouse] DIRAS family, GTP-binding RAS-like 2","mouse",1
+"Arl13b [mouse] ADP-ribosylation factor-like 13B","mouse",1
+"Zfhx3 [mouse] zinc finger homeobox 3","mouse",1
+"Bin1 [mouse] bridging integrator 1","mouse",1
+"QPRT [human] quinolinate phosphoribosyltransferase","human",1
+"Ikzf2 [mouse] IKAROS family zinc finger 2","mouse",1
+"Phf2 [mouse] PHD finger protein 2","mouse",1
+"Dlg1 [mouse] discs large MAGUK scaffold protein 1","mouse",1
+"PS301 mutation","mouse",1
+"Tpp1 [mouse] tripeptidyl peptidase I","mouse",1
+"ZNF281 [human] zinc finger protein 281","human",1
+"Tlr2 [mouse] toll-like receptor 2","mouse",1
+"Pum2 [rat] pumilio RNA-binding family member 2","rat",1
+"Dyrk1a [mouse] dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1a","mouse",1
+"interleukin-1 beta","mouse",1
+"Ndufs4 [mouse] NADH:ubiquinone oxidoreductase core subunit S4","mouse",1
+"Arg1 (mouse)","mouse",1
+"SETD1A [human] SET domain containing 1A","human",1
+"deletion","rat",1
+"Fmr1 [mouse] fragile X mental retardation syndrome 1 homolog","rat",1
+"Gdap1 [mouse] ganglioside-induced differentiation-associated-protein 1","mouse",1
+"Mir137 [mouse] microRNA 137","mouse",1
+"Pmp22 [rat] peripheral myelin protein 22","rat",1
+"Bgn [mouse] biglycan","mouse",1
+"Atrn [rat] attractin","rat",1
+"Shh [mouse] sonic hedgehog","mouse",1
+"Snrpn [mouse] small nuclear ribonucleoprotein N","mouse",1
+"Chd2 [mouse] chromodomain helicase DNA binding protein 2","mouse",1
+"Ercc6 [rat] ERCC excision repair 6, chromatin remodeling factor","rat",1
+"Scn10a [mouse] sodium channel, voltage-gated, type X, alpha","mouse",1
+"Scn9a [mouse] sodium channel, voltage-gated, type IX, alpha","mouse",1
+"Scn11a [mouse] sodium channel, voltage-gated, type XI, alpha","mouse",1
+"Igf2bp1 [mouse] insulin-like growth factor 2 mRNA binding protein 1","mouse",1
+"NEUROD1 [human] neuronal differentiation 1","human",1
+"HSPA4 [human] heat shock protein family A (Hsp70) member 4","human",1
+"BDNF [human] brain-derived neurotrophic factor","human",1
+"AFF1 [human] AF4/FMR2 family member 1","human",1
+"PML [human] promyelocytic leukemia","human",1
+"TAF4 [human] TAF4 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 135kDa","human",1
+"CDH5 [human] cadherin 5","human",1
+"CDH12 [human] cadherin 12","human",1
+"BCAP31 [human] B cell receptor associated protein 31","human",1
+"CDK3 [human] cyclin dependent kinase 3","human",1
+"CDKN2B [human] cyclin dependent kinase inhibitor 2B","human",1
+"CDKN2D [human] cyclin dependent kinase inhibitor 2D","human",1
+"KLF2 [human] Kruppel like factor 2","human",1
+"MAD2L2 [human] mitotic arrest deficient 2 like 2","human",1
+"CENPA [human] centromere protein A","human",1
+"CENPB [human] centromere protein B","human",1
+"CENPC [human] centromere protein C","human",1
+"TAF6L [human] TATA-box binding protein associated factor 6 like","human",1
+"PLK2 [human] polo like kinase 2","human",1
+"ZNF274 [human] zinc finger protein 274","human",1
+"TCERG1 [human] transcription elongation regulator 1","human",1
+"TMED2 [human] transmembrane p24 trafficking protein 2","human",1
+"CCNI [human] cyclin I","human",1
+"CDC42EP1 [human] CDC42 effector protein 1","human",1
+"NUDT5 [human] nudix hydrolase 5","human",1
+"CHEK2 [human] checkpoint kinase 2","human",1
+"CHUK [human] conserved helix-loop-helix ubiquitous kinase","human",1
+"FBXO32 [human] F-box protein 32","human",1
+"PLK3 [human] polo like kinase 3","human",1
+"GABPB2 [human] GA binding protein transcription factor subunit beta 2","human",1
+"CREM [human] cAMP responsive element modulator","human",1
+"CRK [human] CRK proto-oncogene, adaptor protein","human",1
+"CRX [human] cone-rod homeobox","human",1
+"CX3CR1 [human] C-X3-C motif chemokine receptor 1","human",1
+"DHX15 [human] DEAH-box helicase 15","human",1
+"DLX4 [human] distal-less homeobox 4","human",1
+"DUT [human] deoxyuridine triphosphatase","human",1
+"E2F2 [human] E2F transcription factor 2","human",1
+"EFNA1 [human] ephrin A1","human",1
+"EFNB1 [human] ephrin B1","human",1
+"EFNB2 [human] ephrin B2","human",1
+"ENG [human] endoglin","human",1
+"ETS2 [human] ETS proto-oncogene 2, transcription factor","human",1
+"ETV4 [human] ETS variant 4","human",1
+"ETV5 [human] ETS variant 5","human",1
+"FABP4 [human] fatty acid binding protein 4","human",1
+"TFEC [human] transcription factor EC","human",1
+"VASH1 [human] vasohibin 1","human",1
+"FOXD2 [human] forkhead box D2","human",1
+"FLT1 [human] fms related tyrosine kinase 1","human",1
+"FLT4 [human] fms related tyrosine kinase 4","human",1
+"CDC42EP4 [human] CDC42 effector protein 4","human",1
+"DDX58 [human] DExD/H-box helicase 58","human",1
+"ORC6 [human] origin recognition complex subunit 6","human",1
+"ORC3 [human] origin recognition complex subunit 3","human",1
+"EID1 [human] EP300 interacting inhibitor of differentiation 1","human",1
+"MAFF [human] MAF bZIP transcription factor F","human",1
+"IL4I1 [human] interleukin 4 induced 1","human",1
+"GATA4 [human] GATA binding protein 4","human",1
+"MYCBP [human] MYC binding protein","human",1
+"TAF5L [human] TATA-box binding protein associated factor 5 like","human",1
+"GPR4 [human] G protein-coupled receptor 4","human",1
+"CXCR3 [human] C-X-C motif chemokine receptor 3","human",1
+"ANGPT2 [human] angiopoietin 2","human",1
+"FAM78A [human] family with sequence similarity 78 member A","human",1
+"HIPK2 [human] homeodomain interacting protein kinase 2","human",1
+"CXCL1 [human] C-X-C motif chemokine ligand 1","human",1
+"CXCL2 [human] C-X-C motif chemokine ligand 2","human",1
+"CXCL3 [human] C-X-C motif chemokine ligand 3","human",1
+"GTF2A2 [human] general transcription factor IIA subunit 2","human",1
+"GTF2E1 [human] general transcription factor IIE subunit 1","human",1
+"GTF2E2 [human] general transcription factor IIE subunit 2","human",1
+"GTF2F1 [human] general transcription factor IIF subunit 1","human",1
+"GTF2H1 [human] general transcription factor IIH subunit 1","human",1
+"GTF2H4 [human] general transcription factor IIH subunit 4","human",1
+"GTF2I [human] general transcription factor IIi","human",1
+"GTF3C2 [human] general transcription factor IIIC subunit 2","human",1
+"TFPT [human] TCF3 fusion partner","human",1
+"ANAPC2 [human] anaphase promoting complex subunit 2","human",1
+"HIVEP2 [human] human immunodeficiency virus type I enhancer binding protein 2","human",1
+"HOXA11 [human] homeobox A11","human",1
+"PRMT1 [human] protein arginine methyltransferase 1","human",1
+"HSF4 [human] heat shock transcription factor 4","human",1
+"HUS1 [human] HUS1 checkpoint clamp component","human",1
+"IFIT3 [human] interferon induced protein with tetratricopeptide repeats 3","human",1
+"IL1A [human] interleukin 1 alpha","human",1
+"IL1B [human] interleukin 1, beta","human",1
+"IL1R1 [human] interleukin 1 receptor type 1","human",1
+"IL2RB [human] interleukin 2 receptor subunit beta","human",1
+"IL2RG [human] interleukin 2 receptor subunit gamma","human",1
+"IL6 [human] interleukin 6","human",1
+"CXCL8 [human] C-X-C motif chemokine ligand 8","human",1
+"CXCR1 [human] C-X-C motif chemokine receptor 1","human",1
+"CXCR2 [human] C-X-C motif chemokine receptor 2","human",1
+"IL15 [human] interleukin 15","human",1
+"IL15RA [human] interleukin 15 receptor subunit alpha","human",1
+"ILF2 [human] interleukin enhancer binding factor 2","human",1
+"ILF3 [human] interleukin enhancer binding factor 3","human",1
+"CXCL10 [human] C-X-C motif chemokine ligand 10","human",1
+"IRAK1 [human] interleukin 1 receptor associated kinase 1","human",1
+"ISL1 [human] ISL LIM homeobox 1","human",1
+"ARHGAP1 [human] Rho GTPase activating protein 1","human",1
+"ARHGAP4 [human] Rho GTPase activating protein 4","human",1
+"LTA4H [human] leukotriene A4 hydrolase","human",1
+"MAD2L1 [human] mitotic arrest deficient 2 like 1","human",1
+"SMAD1 [human] SMAD family member 1","human",1
+"SMAD7 [human] SMAD family member 7","human",1
+"MAZ [human] MYC associated zinc finger protein","human",1
+"MCM3 [human] minichromosome maintenance complex component 3","human",1
+"MCM4 [human] minichromosome maintenance complex component 4","human",1
+"MCM5 [human] minichromosome maintenance complex component 5","human",1
+"MCM6 [human] minichromosome maintenance complex component 6","human",1
+"MCM7 [human] minichromosome maintenance complex component 7","human",1
+"MDM2 [human] MDM2 proto-oncogene","human",1
+"MEOX2 [human] mesenchyme homeobox 2","human",1
+"MKI67 [human] marker of proliferation Ki-67","human",1
+"MNAT1 [human] MNAT1, CDK activating kinase assembly factor","human",1
+"MNT [human] MAX network transcriptional repressor","human",1
+"ZFHX3 [human] zinc finger homeobox 3","human",1
+"MYOG [human] myogenin","human",1
+"NFATC1 [human] nuclear factor of activated T cells 1","human",1
+"NFKBIA [human] NFKB inhibitor alpha","human",1
+"NFKBIE [human] NFKB inhibitor epsilon","human",1
+"NFKBIL1 [human] NFKB inhibitor like 1","human",1
+"TONSL [human] tonsoku like, DNA repair protein","human",1
+"NKX3-1 [human] NK3 homeobox 1","human",1
+"ORC1 [human] origin recognition complex subunit 1","human",1
+"ORC2 [human] origin recognition complex subunit 2","human",1
+"ORC4 [human] origin recognition complex subunit 4","human",1
+"ORC5 [human] origin recognition complex subunit 5","human",1
+"GMNN [human] geminin, DNA replication inhibitor","human",1
+"SLC15A3 [human] solute carrier family 15 member 3","human",1
+"UBE2J1 [human] ubiquitin conjugating enzyme E2 J1","human",1
+"CWC15 [human] CWC15 spliceosome associated protein homolog","human",1
+"TDP2 [human] tyrosyl-DNA phosphodiesterase 2","human",1
+"PDGFRB [human] platelet derived growth factor receptor beta","human",1
+"PIK3CD [human] phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta","human",1
+"PIK3CG [human] phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma","human",1
+"PIK3R1 [human] phosphoinositide-3-kinase regulatory subunit 1","human",1
+"PIK3R2 [human] phosphoinositide-3-kinase regulatory subunit 2","human",1
+"PIN1P1 [human] peptidylprolyl cis/trans isomerase, NIMA-interacting 1 pseudogene 1","human",1
+"POLR2C [human] RNA polymerase II subunit C","human",1
+"POLR2E [human] RNA polymerase II subunit E","human",1
+"SOX18 [human] SRY-box 18","human",1
+"POLR2I [human] RNA polymerase II subunit I","human",1
+"ASNSD1 [human] asparagine synthetase domain containing 1","human",1
+"POU6F1 [human] POU class 6 homeobox 1","human",1
+"PPARD [human] peroxisome proliferator activated receptor delta","human",1
+"MED1 [human] mediator complex subunit 1","human",1
+"ELP2 [human] elongator acetyltransferase complex subunit 2","human",1
+"PPP3CB [human] protein phosphatase 3 catalytic subunit beta","human",1
+"PPP5C [human] protein phosphatase 5 catalytic subunit","human",1
+"PRKACB [human] protein kinase cAMP-activated catalytic subunit beta","human",1
+"PRKAR1A [human] protein kinase cAMP-dependent type I regulatory subunit alpha","human",1
+"PRKCA [human] protein kinase C alpha","human",1
+"THAP12 [human] THAP domain containing 12","human",1
+"PTGS2 [human] prostaglandin-endoperoxide synthase 2","human",1
+"PTMA [human] prothymosin alpha","human",1
+"PTX3 [human] pentraxin 3","human",1
+"RAD1 [human] RAD1 checkpoint DNA exonuclease","human",1
+"RAC1 [human] Rac family small GTPase 1","human",1
+"RAD9A [human] RAD9 checkpoint clamp component A","human",1
+"RAD17 [human] RAD17 checkpoint clamp loader component","human",1
+"RARB [human] retinoic acid receptor beta","human",1
+"RBP1 [human] retinol binding protein 1","human",1
+"REL [human] REL proto-oncogene, NF-kB subunit","human",1
+"RPA3 [human] replication protein A3","human",1
+"RPL11 [human] ribosomal protein L11","human",1
+"RREB1 [human] ras responsive element binding protein 1","human",1
+"CFB [human] complement factor B","human",1
+"CCL2 [human] C-C motif chemokine ligand 2","human",1
+"CXCL11 [human] C-X-C motif chemokine ligand 11","human",1
+"CX3CL1 [human] C-X3-C motif chemokine ligand 1","human",1
+"PKNOX2 [human] PBX/knotted 1 homeobox 2","human",1
+"IFIH1 [human] interferon induced with helicase C domain 1","human",1
+"MARCH7 [human] membrane associated ring-CH-type finger 7","human",1
+"CENPH [human] centromere protein H","human",1
+"SKP1 [human] S-phase kinase associated protein 1","human",1
+"TCEB3CL2 [human] transcription elongation factor B polypeptide 3C-like 2","human",1
+"SNAPC4 [human] small nuclear RNA activating complex polypeptide 4","human",1
+"SP2 [human] Sp2 transcription factor","human",1
+"STAT4 [human] signal transducer and activator of transcription 4","human",1
+"AURKA [human] aurora kinase A","human",1
+"TAF2 [human] TATA-box binding protein associated factor 2","human",1
+"TAF5 [human] TATA-box binding protein associated factor 5","human",1
+"TAF6 [human] TATA-box binding protein associated factor 6","human",1
+"TAF7 [human] TATA-box binding protein associated factor 7","human",1
+"TAF9 [human] TATA-box binding protein associated factor 9","human",1
+"TAF10 [human] TATA-box binding protein associated factor 10","human",1
+"TAF11 [human] TATA-box binding protein associated factor 11","human",1
+"TAF12 [human] TATA-box binding protein associated factor 12","human",1
+"TBP [human] TATA-box binding protein","human",1
+"TCEA2 [human] transcription elongation factor A2","human",1
+"ELOC [human] elongin C","human",1
+"ZEB1 [human] zinc finger E-box binding homeobox 1","human",1
+"TEK [human] TEK receptor tyrosine kinase","human",1
+"TGFBR1 [human] transforming growth factor beta receptor 1","human",1
+"TGIF1 [human] TGFB induced factor homeobox 1","human",1
+"TIE1 [human] tyrosine kinase with immunoglobulin like and EGF like domains 1","human",1
+"TM7SF2 [human] transmembrane 7 superfamily member 2","human",1
+"TMF1 [human] TATA element modulatory factor 1","human",1
+"TNFAIP1 [human] TNF alpha induced protein 1","human",1
+"TNFRSF1A [human] TNF receptor superfamily member 1A","human",1
+"TOP2B [human] DNA topoisomerase II beta","human",1
+"TRAF1 [human] TNF receptor associated factor 1","human",1
+"HIRA [human] histone cell cycle regulator","human",1
+"USF2 [human] upstream transcription factor 2, c-fos interacting","human",1
+"VAV1 [human] vav guanine nucleotide exchange factor 1","human",1
+"YWHAZ [human] tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta","human",1
+"ZNF143 [human] zinc finger protein 143","human",1
+"IL1R2 [human] interleukin 1 receptor type 2","human",1
+"DEK [human] DEK proto-oncogene","human",1
+"TNIP2 [human] TNFAIP3 interacting protein 2","human",1
+"CYBC1 [human] cytochrome b-245 chaperone 1","human",1
+"ATP13A3 [human] ATPase 13A3","human",1
+"TCEAL4 [human] transcription elongation factor A like 4","human",1
+"KMT2D [human] lysine methyltransferase 2D","human",1
+"CDC7 [human] cell division cycle 7","human",1
+"CDC45 [human] cell division cycle 45","human",1
+"CASP1 [human] caspase 1","human",1
+"CMSS1 [human] cms1 ribosomal small subunit homolog","human",1
+"TTF2 [human] transcription termination factor 2","human",1
+"PIK3R3 [human] phosphoinositide-3-kinase regulatory subunit 3","human",1
+"EAF1 [human] ELL associated factor 1","human",1
+"CCNB3 [human] cyclin B3","human",1
+"EDF1 [human] endothelial differentiation related factor 1","human",1
+"NRP1 [human] neuropilin 1","human",1
+"CFLAR [human] CASP8 and FADD like apoptosis regulator","human",1
+"CCNA1 [human] cyclin A1","human",1
+"CCNC [human] cyclin C","human",1
+"CCND2 [human] cyclin D2","human",1
+"CCNE1 [human] cyclin E1","human",1
+"CCNF [human] cyclin F","human",1
+"CCNG1 [human] cyclin G1","human",1
+"TAF1C [human] TATA-box binding protein associated factor, RNA polymerase I subunit C","human",1
+"TAF1B [human] TATA-box binding protein associated factor, RNA polymerase I subunit B","human",1
+"CCNH [human] cyclin H","human",1
+"CCNT1 [human] cyclin T1","human",1
+"CCNT2 [human] cyclin T2","human",1
+"CCNE2 [human] cyclin E2","human",1
+"AURKB [human] aurora kinase B","human",1
+"FCMR [human] Fc fragment of IgM receptor","human",1
+"MSC [human] musculin","human",1
+"TCEAL1 [human] transcription elongation factor A like 1","human",1
+"MED7 [human] mediator complex subunit 7","human",1
+"NCOR1 [human] nuclear receptor corepressor 1","human",1
+"CDC6 [human] cell division cycle 6","human",1
+"CDC25C [human] cell division cycle 25C","human",1
+"CDC27 [human] cell division cycle 27","human",1
+"Nr2f2 [mouse] nuclear receptor subfamily 2, group F, member 2","mouse",1
+"Elf1 [mouse] E74-like factor 1","mouse",1
+"Aes [mouse] amino-terminal enhancer of split","mouse",1
+"Smad1 [mouse] SMAD family member 1","mouse",1
+"Msc [mouse] musculin","mouse",1
+"Rhox6 [mouse] reproductive homeobox 6","mouse",1
+"Zfand3 [mouse] zinc finger, AN1-type domain 3","mouse",1
+"Tuba1a [mouse] tubulin, alpha 1A","mouse",1
+"Nrip1 [mouse] nuclear receptor interacting protein 1","mouse",1
+"Etv3 [mouse] ets variant 3","mouse",1
+"Cbx8 [mouse] chromobox 8","mouse",1
+"Foxj2 [mouse] forkhead box J2","mouse",1
+"external ectoderm","mouse",1
+"lens of camera-type eye","mouse",1
+"Barhl2 [mouse] BarH like homeobox 2","mouse",1
+"Cphx1 [mouse] cytoplasmic polyadenylated homeobox 1","mouse",1
+"Foxn4 [mouse] forkhead box N4","mouse",1
+"Dlx4 [mouse] distal-less homeobox 4","mouse",1
+"Etv2 [mouse] ets variant 2","mouse",1
+"Foxh1 [mouse] forkhead box H1","mouse",1
+"Hoxc9 [mouse] homeobox C9","mouse",1
+"Hoxd1 [mouse] homeobox D1","mouse",1
+"Lhx1 [mouse] LIM homeobox protein 1","mouse",1
+"Lhx8 [mouse] LIM homeobox protein 8","mouse",1
+"Msx1 [mouse] msh homeobox 1","mouse",1
+"Msx3 [mouse] msh homeobox 3","mouse",1
+"Nkx2-3 [mouse] NK2 homeobox 3","mouse",1
+"Pdx1 [mouse] pancreatic and duodenal homeobox 1","mouse",1
+"Pitx1 [mouse] paired-like homeodomain transcription factor 1","mouse",1
+"Tbx6 [mouse] T-box 6","mouse",1
+"Tcf15 [mouse] transcription factor 15","mouse",1
+"Snai3 [mouse] snail family zinc finger 3","mouse",1
+"Sall2 [mouse] spalt like transcription factor 2","mouse",1
+"Plac1 [mouse] placental specific protein 1","mouse",1
+"Dmrtc2 [mouse] doublesex and mab-3 related transcription factor like family C2","mouse",1
+"Nkx6-3 [mouse] NK6 homeobox 3","mouse",1
+"Glis2 [mouse] GLIS family zinc finger 2","mouse",1
+"PRMT3 [human] protein arginine methyltransferase 3","human",1
+"PRMT6 [human] protein arginine methyltransferase 6","human",1
+"Profound","human",1
+"moderate","human",1
+"ATF7 [human] activating transcription factor 7","human",1
+"ATF2 [human] activating transcription factor 2","human",1
+"ATF5 [human] activating transcription factor 5","human",1
+"FOSB [human] FosB proto-oncogene, AP-1 transcription factor subunit","human",1
+"FOXN2 [human] forkhead box N2","human",1
+"ATF4 [human] activating transcription factor 4","human",1
+"NOTCH3 [human] notch 3","human",1
+"OVOL1 [human] ovo like transcriptional repressor 1","human",1
+"PBX2 [human] PBX homeobox 2","human",1
+"SOX6 [human] SRY-box 6","human",1
+"OVOL2 [human] ovo like zinc finger 2","human",1
+"PRDM1 [human] PR/SET domain 1","human",1
+"FOXN1 [human] forkhead box N1","human",1
+"LRRFIP1 [human] LRR binding FLII interacting protein 1","human",1
+"CREB5 [human] cAMP responsive element binding protein 5","human",1
+"Hoxa3 [mouse] homeobox A3","mouse",1
+"ZBTB18 [human] zinc finger and BTB domain containing 18","human",1
+"MIR206 [human] microRNA 206","human",1
+"RUNX3 [human] runt related transcription factor 3","human",1
+"NDC1 [human] NDC1 transmembrane nucleoporin","human",1
+"LMO1 [human] LIM domain only 1","human",1
+"ARID5B [human] AT-rich interaction domain 5B","human",1
+"neg-1 [worm] Negative Effect on Gut development","mouse",1
+"Zfp64 [mouse] zinc finger protein 64","mouse",1
+"Nup210 [mouse] nucleoporin 210","mouse",1
+"SIK3 [human] SIK family kinase 3","human",1
+"STK11 [human] serine/threonine kinase 11","human",1
+"ZNF92 [human] zinc finger protein 92","human",1
+"GLIS3 [human] GLIS family zinc finger 3","human",1
+"SOX9 [human] SRY-box 9","human",1
+"TMED3 [human] transmembrane p24 trafficking protein 3","human",1
+"TMED9 [human] transmembrane p24 trafficking protein 9","human",1
+"Gli2 [mouse] GLI-Kruppel family member GLI2","mouse",1
+"Human papillomavirus","mouse",1
+"Krt14 [mouse] keratin 14","mouse",1
+"Glb1l [mouse] galactosidase, beta 1-like","mouse",1
+"ZFX [human] zinc finger protein, X-linked","mouse",1
+"Calm1 [mouse] calmodulin 1","mouse",1
+"Cdc73 [mouse] cell division cycle 73, Paf1/RNA polymerase II complex component","mouse",1
+"Men1 [mouse] multiple endocrine neoplasia 1","mouse",1
+"Psip1 [mouse] PC4 and SFRS1 interacting protein 1","mouse",1
+"MLL1 complex","mouse",1
+"Jmjd1c [mouse] jumonji domain containing 1C","mouse",1
+"Scgb1a1 [mouse] secretoglobin, family 1A, member 1 (uteroglobin)","mouse",1
+"Mir223 [mouse] microRNA 223","mouse",1
+"TGIF1 [human] TGFB induced factor homeobox 1","mouse",1
+"Cd34 [mouse] CD34 antigen","mouse",1
+"MEIS2 [human] Meis homeobox 2","mouse",1
+"Meis2 [mouse] Meis homeobox 2","mouse",1
+"Zfp189 [mouse] zinc finger protein 189","mouse",1
+"Cntnap2 [mouse] contactin associated protein-like 2","mouse",1
+"Stmn2 [mouse] stathmin-like 2","mouse",1
+"Amyloid Precursor Protein","mouse",1
+"Mov10 [mouse] Moloney leukemia virus 10","mouse",1
+"CHD2 [human] chromodomain helicase DNA binding protein 2","human",1
+"AXL [human] AXL receptor tyrosine kinase","human",1
+"Notch2 [mouse] notch 2","mouse",1
+"Id4 [mouse] inhibitor of DNA binding 4","mouse",1
+"Kcnh2 [mouse] potassium voltage-gated channel, subfamily H (eag-related), member 2","mouse",1
+"RNA(circular)","mouse",1
+"Homer1 [mouse] homer scaffolding protein 1","mouse",1
+"Gdpd2 [mouse] glycerophosphodiester phosphodiesterase domain containing 2","mouse",1
+"Cbln1 [mouse] cerebellin 1 precursor protein","mouse",1
+"Stard8 [mouse] START domain containing 8","mouse",1
+"Fkbp5 [mouse] FK506 binding protein 5","mouse",1
+"Asl [mouse] argininosuccinate lyase","mouse",1
+"NRXN1 [human] neurexin 1","human",1
+"Auts2 [mouse] autism susceptibility candidate 2","mouse",1
+"TCOF1 [human] treacle ribosome biogenesis factor 1","human",1
+"KBTBD8 [human] kelch repeat and BTB domain containing 8","human",1
+"Axin1 [mouse] axin 1","mouse",1
+"SQSTM1 [human] sequestosome 1","human",1
+"Nrg1 [mouse] neuregulin 1","mouse",1
+"STIM1 [human] stromal interaction molecule 1","human",1
+"Neurod2 [mouse] neurogenic differentiation 2","mouse",1
+"Pten [mouse] phosphatase and tensin homolog","human",1
+"PHOX2B [human] paired like homeobox 2B","human",1
+"deletion","human",1
+"ATAD3C [human] ATPase family, AAA domain containing 3C","human",1
+"Pcgf5 [mouse] polycomb group ring finger 5","mouse",1
+"SMPD4 [human] sphingomyelin phosphodiesterase 4","human",1
+"NLS-bearing protein import into nucleus","human",1
+"Adenovirus Infections","mouse",1
+"Early-onset autosomal dominant Alzheimer disease","mouse",1
+"chromosome 22q11.2 microduplication syndrome","mouse",1
+"Agrp [mouse] agouti related neuropeptide","mouse",1
+"Pianp [mouse] PILR alpha associated neural protein","mouse",1
+"Hsd17b4 [mouse] hydroxysteroid (17-beta) dehydrogenase 4","mouse",1
+"GBA [human] glucosylceramidase beta","human",1
+"Arf6 [mouse] ADP-ribosylation factor 6","mouse",1
+"Ccr5 (mouse)","mouse",1
+"tetraploid","mouse",1
+"HTRA1 [human] HtrA serine peptidase 1","human",1
+"SH3PXD2A [human] SH3 and PX domains 2A","human",1
